@@ -1,0 +1,78 @@
+{
+  "num": "EP.09",
+  "tag": "칼럼",
+  "titleKo": "[반대 칼럼] 문제는 사람의 몸이 아니라 좌석 구조다",
+  "titleZh": "【反对】问题不在于人的身体，而在于座椅的结构",
+  "sentences": [
+    {
+      "ko": "[반대 칼럼] 문제는 사람의 몸이 아니라 좌석 구조다",
+      "zh": "【反对】问题不在于人的身体，而在于座椅的结构",
+      "py": "【Fǎn duì】wèn tí bú zài yú rén de shēn tǐ, ér zài yú zuò yǐ de jié gòu"
+    },
+    {
+      "ko": "얼마 전, 장거리 비행에서 옆자리 승객 때문에 불편을 겪었다는 영상이 온라인에서 큰 주목을 받았다.",
+      "zh": "不久前，一段讲述长途飞行中因旁边乘客而备受困扰的视频在网上引发广泛关注。",
+      "py": "Bù jiǔ qián, yī duàn jiǎng shù cháng tú fēi xíng zhōng yīn páng biān chéng kè ér bèi shòu kùn rǎo de shì pín zài wǎng shàng yǐn fā guǎng fàn guān zhù."
+    },
+    {
+      "ko": "영상이 퍼지자 \"추가 좌석을 의무적으로 구매하게 해야 한다\"는 의견이 빠르게 확산됐다.",
+      "zh": "视频迅速扩散，“应当强制要求购买额外座位”的声音也随之快速蔓延。",
+      "py": "Shì pín xùn sù kuò sàn, “yīng dāng qiáng zhì yāo qiú gòu mǎi é wài zuò wèi” de shēng yīn yě suí zhī kuài sù màn yán."
+    },
+    {
+      "ko": "하지만 이 문제를 단순히 개인의 문제로만 볼 수 있는지는 한 번쯤 다시 생각해볼 필요가 있다.",
+      "zh": "然而，这一问题究竟能否简单地归结为个人问题，或许值得我们重新思考一番。",
+      "py": "Rán ér, zhè yī wèn tí jiū jìng néng fǒu jiǎn dān de guī jié wéi gè rén wèn tí, huò xǔ zhí dé wǒ men chóng xīn sī kǎo yī fān."
+    },
+    {
+      "ko": "지난 수십 년 동안 항공사들은 좌석 수를 늘리기 위해 좌석 간 간격과 폭을 점점 줄여왔다. 같은 공간에 더 많은 승객을 태우기 위한 선택이었다.",
+      "zh": "过去几十年间，各大航空公司为了增加座位数量，不断压缩座椅间距和宽度，目的无非是在同等空间内容纳更多乘客。",
+      "py": "Guò qù jǐ shí nián jiān, gè dà háng kōng gōng sī wèi le zēng jiā zuò wèi shù liàng, bù duàn yā suō zuò yǐ jiān jù hé kuān dù, mù de wú fēi shì zài tóng děng kōng jiān nèi róng nà gèng duō chéng kè."
+    },
+    {
+      "ko": "반면 사람들의 평균 체형은 과거에 비해 커진 것이 사실이다.",
+      "zh": "与此同时，人们的平均体型与过去相比确实有所增大。",
+      "py": "Yǔ cǐ tóng shí, rén men de píng jūn tǐ xíng yǔ guò qù xiāng bǐ què shí yǒu suǒ zēng dà."
+    },
+    {
+      "ko": "결국 '좌석은 좁아지고, 사람은 커진' 상황에서 발생하는 불편을 개인의 책임으로만 돌리는 것이 과연 타당한지 의문이 제기된다.",
+      "zh": "在“座位越来越窄、身体越来越大”的背景下，将由此产生的不便一概归咎于个人，是否真的合理，不免令人生疑。",
+      "py": "Zài “zuò wèi yuè lái yuè zhǎi, shēn tǐ yuè lái yuè dà” de bèi jǐng xià, jiāng yóu cǐ chǎn shēng de bú biàn yī gài guī jiù yú gè rén, shì fǒu zhēn de hé lǐ, bù miǎn lìng rén shēng yí."
+    },
+    {
+      "ko": "추가 좌석 구매 의무화는 겉보기에는 합리적인 방식처럼 보인다. 더 많은 공간을 사용하면 더 많은 비용을 지불하는 것이 맞다는 논리다.",
+      "zh": "强制购买额外座位，表面上看似是一种合理的解决方式——占用了更多空间，自然应当支付更多费用。",
+      "py": "Qiáng zhì gòu mǎi é wài zuò wèi, biǎo miàn shàng kàn sì shì yī zhǒng hé lǐ de jiě jué fāng shì——zhàn yòng le gèng duō kōng jiān, zì rán yīng dāng zhī fù gèng duō fèi yòng."
+    },
+    {
+      "ko": "그러나 이 논리는 중요한 전제를 놓치고 있다. 애초에 좌석이 현재의 평균적인 체형을 충분히 반영해 설계되었는지에 대한 문제다.",
+      "zh": "然而，这一逻辑忽视了一个关键前提：座椅设计之初，究竟是否充分考量了当代人的平均体型？",
+      "py": "Rán ér, zhè yī luó ji hū shì le yī gè guān jiàn qián tí: zuò yǐ shè jì zhī chū, jiū jìng shì fǒu chōng fèn kǎo liàng le dāng dài rén de píng jūn tǐ xíng?"
+    },
+    {
+      "ko": "만약 좌석이 보다 현실적인 기준에 맞춰 설계되었다면, 지금과 같은 갈등이 이렇게 자주 발생했을까.",
+      "zh": "如果座椅本就依照更符合实际的标准来设计，眼下这类纷争还会如此频繁地发生吗？",
+      "py": "Rú guǒ zuò yǐ běn jiù yī zhào gèng fú hé shí jì de biāo zhǔn lái shè jì, yǎn xià zhè lèi fēn zhēng hái huì rú cǐ pín fán de fā shēng ma?"
+    },
+    {
+      "ko": "경제적 부담 역시 중요한 쟁점이다.",
+      "zh": "经济负担同样是不容忽视的问题。",
+      "py": "Jīng jì fù dān tóng yàng shì bù róng hū shì de wèn tí."
+    },
+    {
+      "ko": "항공권 자체도 적지 않은 비용이 드는데, 추가 좌석까지 구매해야 한다면 부담은 크게 늘어난다.",
+      "zh": "机票本身已是一笔不小的开销，若还须额外购买一个座位，费用压力将大幅上升。",
+      "py": "Jī piào běn shēn yǐ shì yī bǐ bù xiǎo de kāi xiāo, ruò hái xū é wài gòu mǎi yī gè zuò wèi, fèi yòng yā lì jiāng dà fú shàng shēng."
+    },
+    {
+      "ko": "일부 승객에게는 사실상 항공 이용 자체가 어려워질 수도 있다.",
+      "zh": "对部分乘客而言，这实际上可能意味着根本无力承担飞行出行。",
+      "py": "Duì bù fèn chéng kè ér yán, zhè shí jì shàng kě néng yì wèi zhe gēn běn wú lì chéng dān fēi xíng chū xíng."
+    },
+    {
+      "ko": "특히 체중 문제가 단순한 개인 선택이 아니라 생활 환경과도 밀접하게 연결되어 있다는 점을 고려하면, 이 제도가 특정 계층에 더 큰 부담으로 작용할 가능성도 있다.",
+      "zh": "尤其考虑到体重问题并非单纯由个人选择决定，而是与生活环境密切相关，这一制度很可能对特定群体造成更为沉重的不公平负担。",
+      "py": "Yóu qí kǎo lǜ dào tǐ zhòng wèn tí bìng fēi dān chún yóu gè rén xuǎn zé jué dìng, ér shì yǔ shēng huó huán jìng mì qiè xiāng guān, zhè yī zhì dù hěn kě néng duì tè dìng qún tǐ zào chéng gèng wéi chén zhòng de bù gōng píng fù dān."
+    }
+  ]
+}
