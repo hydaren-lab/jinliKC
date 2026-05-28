@@ -1,0 +1,158 @@
+{
+  "num": "EP.05",
+  "tag": "사설",
+  "titleKo": "올바른 방안: 제도, 교육, 그리고 연대",
+  "titleZh": "正确方案：制度、教育及团结",
+  "sentences": [
+    {
+      "ko": "7. 올바른 방안: 제도, 교육, 그리고 연대",
+      "zh": "7. 正确方案：制度、教育及团结",
+      "py": "Zhèng què fāng àn: zhì dù, jiào yù jí tuán jié"
+    },
+    {
+      "ko": "문제의 복잡성은 해법의 복잡성을 요구한다.",
+      "zh": "问题的复杂性要求解决方案也需具备相应的复杂性。",
+      "py": "Wèn tí de fù zá xìng yāo qiú jiě jué fāng àn yě xū jù bèi xiāng yìng de fù zá xìng."
+    },
+    {
+      "ko": "첫째, 팩트체크 기관의 독립성 확보다.",
+      "zh": "第一，保障事实核查机构的独立性。",
+      "py": "Dì yī, bǎo zhàng shì shí hé chá jī gòu de dú lì xìng."
+    },
+    {
+      "ko": "정부도, 플랫폼도, 특정 정파도 팩트체크 기관의 재원을 독점해서는 안 된다.",
+      "zh": "无论是政府、平台还是特定政派，都不应垄断事实核查机构的资金来源。",
+      "py": "Wú lùn shì zhèng fǔ, píng tái hái shì tè dìng zhèng pài, dōu bù yīng lǒng duàn shì shí hé chá jī gòu de zī jīn lái yuán."
+    },
+    {
+      "ko": "공적 자금이 투입되더라도 '지원하되 간섭하지 않는' 구조적 독립이 법률로 보장되어야 한다.",
+      "zh": "即便动用公共资金，也必须以立法形式确保“支持而不干预”的结构性独立。",
+      "py": "Jí biàn dòng yòng gōng gòng zī jīn, yě bì xū yǐ lì fǎ xíng shì què bǎo “zhī chí ér bù gān yù” de jié gòu xìng dú lì."
+    },
+    {
+      "ko": "학계, 시민사회, 복수의 언론사가 참여하는 분산형 검증 체계가 이상에 가깝다.",
+      "zh": "学界、公民社会与多家媒体机构共同参与的分布式核查体系，更接近理想状态。",
+      "py": "Xué jiè, gōng mín shè huì yǔ duō jiā méi tǐ jī gòu gòng tóng cān yù de fēn bù shì hé chá tǐ xì, gèng jiē jìn lǐ xiǎng zhuàng tài."
+    },
+    {
+      "ko": "둘째, 미디어 리터러시 교육의 제도화다.",
+      "zh": "第二，将媒体素养教育制度化。",
+      "py": "Dì èr, jiāng méi tǐ sù yǎng jiào yù zhì dù huà."
+    },
+    {
+      "ko": "허위 정보는 기술 문제이기 이전에 인지 문제다.",
+      "zh": "虚假信息在本质上是一个认知问题，而非单纯的技术问题。",
+      "py": "Xū jiǎ xìn xī zài běn zhì shàng shì yī gè rèn zhī wèn tí, ér fēi dān chún de jì shù wèn tí."
+    },
+    {
+      "ko": "확증 편향, 감정적 공명, 출처 판별 능력의 결여가 허위 정보를 확산시키는 토양이다.",
+      "zh": "确认偏误、情绪共鸣与信源辨别能力的缺失，正是虚假信息得以蔓延的土壤。",
+      "py": "Què rèn piān wù, qíng xù gòng míng yǔ xìn yuán biàn bié néng lì de quē shī, zhèng shì xū jiǎ xìn xī dé yǐ màn yán de tǔ rǎng."
+    },
+    {
+      "ko": "핀란드는 초등학교 과정부터 미디어 리터러시를 교육 과정에 포함시켜 유럽에서 가장 허위 정보에 강한 국가 중 하나가 되었다.",
+      "zh": "芬兰从小学阶段便将媒体素养纳入课程体系，由此跻身欧洲最具抗虚假信息能力的国家之列。",
+      "py": "Fēn lán cóng xiǎo xué jiē duàn biàn jiāng méi tǐ sù yǎng nà rù kè chéng tǐ xì, yóu cǐ jǐ shēn Ōu zhōu zuì jù kàng xū jiǎ xìn xī néng lì de guó jiā zhī liè."
+    },
+    {
+      "ko": "이 교육은 특정 정보를 불신하도록 가르치는 것이 아니라, 어떻게 검증하는지를 가르치는 것이어야 한다.",
+      "zh": "这种教育应当做的，不是引导人们不信任某些特定信息，而是教会人们如何加以核实。",
+      "py": "Zhè zhǒng jiào yù yīng dāng zuò de, bú shì yǐn dǎo rén men bù xìn rèn mǒu xiē tè dìng xìn xī, ér shì jiào huì rén men rú hé jiā yǐ hé shí."
+    },
+    {
+      "ko": "셋째, AI 생성 콘텐츠에 대한 프로비넌스(출처 추적) 의무화다.",
+      "zh": "第三，对AI生成内容强制实施“溯源验证”（provenance）义务。",
+      "py": "Dì sān, duì AI shēng chéng nèi róng qiáng zhì shí shī “sù yuán yàn zhèng” (provenance) yì wù."
+    },
+    {
+      "ko": "AI로 생성된 이미지, 영상, 텍스트에는 기술적으로 검증 가능한 '디지털 워터마크' 또는 콘텐츠 출처 증명(C2PA 표준 등)이 부착되어야 한다.",
+      "zh": "AI生成的图像、视频和文本，应附加可供技术验证的“数字水印”或内容来源证明（如C2PA标准）。",
+      "py": "AI shēng chéng de tú xiàng, shì pín hé wén běn, yīng fù jiā kě gōng jì shù yàn zhèng de “shù zì shuǐ yìn” huò nèi róng lái yuán zhèng míng (rú C2PA biāo zhǔn)."
+    },
+    {
+      "ko": "EU AI법이 이 방향을 선도하고 있지만, 국제적 표준 없이는 규제 공백이 발생한다.",
+      "zh": "欧盟《人工智能法案》已在引领这一方向，但若缺乏国际统一标准，监管空白将难以避免。",
+      "py": "Ōu méng 《rén gōng zhì néng fǎ àn》yǐ zài yǐn lǐng zhè yī fāng xiàng, dàn ruò quē fá guó jì tǒng yī biāo zhǔn, jiān guǎn kōng bái jiāng nán yǐ bì miǎn."
+    },
+    {
+      "ko": "이 문제는 단일 국가가 해결할 수 있는 범위를 넘어선다.",
+      "zh": "这一问题已超出任何单一国家所能解决的范畴。",
+      "py": "Zhè yī wèn tí yǐ chāo chū rèn hé dān yī guó jiā suǒ néng jiě jué de fàn chóu."
+    },
+    {
+      "ko": "넷째, 언론인 보호를 위한 법제도의 강화다.",
+      "zh": "第四，强化保护记者的法律制度。",
+      "py": "Dì sì, qiáng huà bǎo hù jì zhě de fǎ lǜ zhì dù."
+    },
+    {
+      "ko": "권력형 전략적 소송(SLAPP)으로부터 언론인과 시민 기자를 보호하는 법률이 필요하다.",
+      "zh": "需要专门立法，保护新闻工作者和公民记者免遭权贵借助“策略性诉讼压制公众参与”（SLAPP）的打压。",
+      "py": "Xū yào zhuān mén lì fǎ, bǎo hù xīn wén gōng zuò zhě hé gōng mín jì zhě miǎn zāo quán guì jiè zhù “cè luè xìng sù sòng yā zhì gōng zhòng cān yù” (SLAPP) de dǎ yā."
+    },
+    {
+      "ko": "법원 비용 부담 조항과 남소 방지 제도는 권력의 소송 무기화를 억제할 수 있다.",
+      "zh": "诉讼费用负担条款与滥诉防范机制，有助于遏制权力将诉讼武器化的倾向。",
+      "py": "Sù sòng fèi yòng fù dān tiáo kuǎn yǔ làn sù fáng fàn jī zhì, yǒu zhù yú è zhì quán lì jiāng sù sòng wǔ qì huà de qīng xiàng."
+    },
+    {
+      "ko": "동시에, 언론사 자체의 편집권 독립과 윤리 규범 준수가 공신력의 토대임을 잊어서는 안 된다.",
+      "zh": "与此同时，也不能忘记：媒体机构自身的编辑独立与职业伦理恪守，才是公信力的根基。",
+      "py": "Yǔ cǐ tóng shí, yě bù néng wàng jì: méi tǐ jī gòu zì shēn de biān jí dú lì yǔ zhí yè lún lǐ kè shǒu, cái shì gōng xìn lì de gēn jī."
+    },
+    {
+      "ko": "허위 정보에 맞서는 가장 강력한 무기는 결국 신뢰할 수 있는 저널리즘이다.",
+      "zh": "对抗虚假信息最有力的武器，归根结底仍是值得信赖的新闻专业主义。",
+      "py": "Duì kàng xū jiǎ xìn xī zuì yǒu lì de wǔ qì, guī gēn jié dǐ réng shì zhí dé xìn lài de xīn wén zhuān yè zhǔ yì."
+    },
+    {
+      "ko": "8. 나가며: 진실은 스스로를 지키지 않는다",
+      "zh": "8. 结语：真相不会自我守护",
+      "py": "Jié yǔ: zhēn xiàng bú huì zì wǒ shǒu hù"
+    },
+    {
+      "ko": "진실은 자연 상태에서 허위보다 강하지 않다.",
+      "zh": "在自然状态下，真相并不比谎言更强大。",
+      "py": "Zài zì rán zhuàng tài xià, zhēn xiàng bìng bù bǐ huǎng yán gèng qiáng dà."
+    },
+    {
+      "ko": "허위는 감정을 자극하고, 단순하며, 빠르다.",
+      "zh": "谎言能够激发情绪，它简单，它迅速。",
+      "py": "Huǎng yán néng gòu jī fā qíng xù, tā jiǎn dān, tā xùn sù."
+    },
+    {
+      "ko": "진실은 복잡하고, 불편하며, 검증에 시간이 걸린다.",
+      "zh": "真相则复杂，带来不便，且需要时间加以核实。",
+      "py": "Zhēn xiàng zé fù zá, dài lái bú biàn, qiě xū yào shí jiān jiā yǐ hé shí."
+    },
+    {
+      "ko": "그렇기 때문에 자유롭고 독립적인 언론, 투명한 정보 생태계, 미디어 리터러시로 무장한 시민 사회라는 3중의 방어 구조가 필요하다.",
+      "zh": "正因如此，我们需要一套由自由独立的新闻业、透明的信息生态系统与具备媒体素养的公民社会共同构成的三重防御体系。",
+      "py": "Zhèng yīn rú cǐ, wǒ men xū yào yī tào yóu zì yóu dú lì de xīn wén yè, tòu míng de xìn xī shēng tài xì tǒng yǔ jù bèi méi tǐ sù yǎng de gōng mín shè huì gòng tóng gòu chéng de sān chóng fáng yù tǐ xì."
+    },
+    {
+      "ko": "어느 하나가 무너지면 나머지도 흔들린다.",
+      "zh": "任何一环的崩塌，都将动摇其余。",
+      "py": "Rèn hé yī huán de bēng tā, dōu jiāng dòng yáo qí yú."
+    },
+    {
+      "ko": "우리가 지금 목도하는 것은 가짜뉴스의 범람만이 아니다. '가짜뉴스'를 빌미로 진짜 뉴스를 억압하는 권력의 역습이기도 하다.",
+      "zh": "我们今日目睹的，不仅是假新闻的泛滥，更是权力借“假新闻”之名反向压制真实新闻的反攻。",
+      "py": "Wǒ men jīn rì mù dǔ de, bù jǐn shì jiǎ xīn wén de fàn làn, gèng shì quán lì jiè “jiǎ xīn wén” zhī míng fǎn xiàng yā zhì zhēn shí xīn wén de fǎn gōng."
+    },
+    {
+      "ko": "표현의 자유와 언론의 자유는 허위 정보를 막기 위한 도구적 가치에서 더 나아가, 권력 남용 그 자체를 감시하는 민주주의의 면역 체계다.",
+      "zh": "言论自由与新闻自由的价值，不止于防范虚假信息的工具意义，它们更是民主制度监督权力滥用的免疫机制。",
+      "py": "Yán lùn zì yóu yǔ xīn wén zì yóu de jià zhí, bù zhǐ yú fáng fàn xū jiǎ xìn xī de gōng jù yì yì, tā men gèng shì mín zhǔ zhì dù jiān dū quán lì làn yòng de miǎn yì jī zhì."
+    },
+    {
+      "ko": "이 면역이 약화되면 민주주의 자체가 병든다.",
+      "zh": "一旦这道免疫屏障弱化，民主本身便会陷入病态。",
+      "py": "Yī dàn zhè dào miǎn yì píng zhàng ruò huà, mín zhǔ běn shēn biàn huì xiàn rù bìng tài."
+    },
+    {
+      "ko": "진실은 스스로를 지키지 않는다. 우리가 지켜야 한다.",
+      "zh": "真相不会自我守护——守护真相，是我们的责任。",
+      "py": "Zhēn xiàng bú huì zì wǒ shǒu hù——shǒu hù zhēn xiàng, shì wǒ men de zé rèn."
+    }
+  ]
+}

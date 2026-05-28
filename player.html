@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>진리 중국어 온라인</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=DM+Sans:wght@600;700&display=swap" rel="stylesheet">
+    <style>
+        :root{
+            --bg:#F5F3EE;--card-bg:#fff;--ko:#1a1a2e;--py:#FFE082;
+            --sh:0 4px 20px rgba(0,0,0,0.07);--sh2:0 8px 32px rgba(0,0,0,0.13);
+            --c1:#E84855;--c2:#3A86FF;--c3:#2EC4B6;--c4:#FF9F1C;--c5:#8338EC;--c6:#06A77D;
+        }
+        *{box-sizing:border-box;margin:0;padding:0;}
+        body{font-family:'Noto Sans KR',sans-serif;background:var(--bg);
+            background-image:radial-gradient(ellipse at 10% 10%,rgba(232,72,85,0.06) 0%,transparent 50%),
+                             radial-gradient(ellipse at 90% 80%,rgba(58,134,255,0.07) 0%,transparent 50%);
+            min-height:100vh;color:var(--ko);padding:20px 20px 60px;}
+
+        /* 뒤로가기 */
+        .back{
+            display:inline-flex;align-items:center;gap:6px;
+            max-width:820px;margin:0 auto 14px;
+            padding:8px 16px;background:#fff;border:1.5px solid #e0ddd6;
+            border-radius:10px;font-size:0.84rem;font-weight:700;color:#555;
+            cursor:pointer;text-decoration:none;
+            box-shadow:0 2px 8px rgba(0,0,0,0.06);transition:all 0.18s;
+            display:flex; width:fit-content;
+        }
+        .back:hover{background:#f5f3ee;color:#1a1a2e;transform:translateX(-2px);}
+
+        /* 헤더 */
+        header{
+            max-width:820px;margin:0 auto 18px;
+            background:linear-gradient(135deg,#1a1a2e 0%,#16213e 50%,#0f3460 100%);
+            border-radius:20px;padding:26px 32px 22px;color:#fff;
+            position:relative;overflow:hidden;
+            box-shadow:0 12px 40px rgba(26,26,46,0.25);
+        }
+        header::before{content:'';position:absolute;top:-40px;right:-40px;
+            width:180px;height:180px;border-radius:50%;
+            background:radial-gradient(circle,rgba(232,72,85,0.35) 0%,transparent 70%);}
+        .badge{display:inline-block;background:rgba(255,255,255,0.15);
+            border:1px solid rgba(255,255,255,0.25);color:#FFE082;
+            font-family:'DM Sans',sans-serif;font-size:0.68rem;font-weight:700;
+            letter-spacing:0.12em;text-transform:uppercase;
+            padding:3px 11px;border-radius:20px;margin-bottom:10px;}
+        header h1{font-family:'DM Sans',sans-serif;font-size:1.3rem;font-weight:700;
+            line-height:1.45;margin-bottom:8px;position:relative;z-index:1;}
+        .header-sub{font-size:0.82rem;color:rgba(255,255,255,0.6);
+            position:relative;z-index:1;display:flex;align-items:center;gap:8px;}
+        .pulse{display:inline-block;width:7px;height:7px;background:#2EC4B6;
+            border-radius:50%;animation:pulse 2s infinite;flex-shrink:0;}
+        @keyframes pulse{0%,100%{opacity:1;transform:scale(1);}50%{opacity:.5;transform:scale(.7);}}
+
+        /* 컨트롤 */
+        .controls{
+            max-width:820px;margin:0 auto 16px;
+            display:flex;flex-wrap:wrap;gap:8px;
+            position:sticky;top:10px;z-index:100;
+        }
+        .btn{padding:10px 15px;border:none;border-radius:12px;
+            font-family:'Noto Sans KR',sans-serif;font-size:0.82rem;font-weight:700;
+            cursor:pointer;transition:all 0.2s;box-shadow:0 4px 14px rgba(0,0,0,0.12);}
+        .btn:hover{transform:translateY(-2px);box-shadow:0 6px 20px rgba(0,0,0,0.18);}
+        .btn:active{transform:translateY(0);}
+        .btn-zh{background:linear-gradient(135deg,#E84855,#ff6b6b);color:#fff;}
+        .btn-ko{background:linear-gradient(135deg,#3A86FF,#5fa8ff);color:#fff;}
+        .btn-stop{background:#fff;color:#555;border:1.5px solid #ddd;}
+
+        .vwrap{display:flex;align-items:center;gap:7px;background:#fff;
+            border:1.5px solid #e0ddd6;border-radius:12px;padding:6px 12px;
+            box-shadow:0 4px 14px rgba(0,0,0,0.07);}
+        .vlabel{font-size:0.72rem;font-weight:700;color:#888;white-space:nowrap;}
+        .vsel{border:none;background:transparent;font-family:'Noto Sans KR',sans-serif;
+            font-size:0.78rem;font-weight:700;color:#1a1a2e;cursor:pointer;outline:none;}
+
+        /* 문장 카드 */
+        .container{max-width:820px;margin:0 auto;display:flex;flex-direction:column;gap:8px;}
+        .box{
+            background:var(--card-bg);padding:15px 20px 15px 24px;
+            border-radius:14px;border-left:5px solid var(--ac,#dee2e6);
+            cursor:pointer;transition:all 0.25s cubic-bezier(0.34,1.56,0.64,1);
+            box-shadow:var(--sh);font-size:1.02rem;line-height:1.78;color:var(--ko);
+            position:relative;overflow:hidden;
+            opacity:0;animation:fadeUp 0.4s ease forwards;
+        }
+        .box:hover{transform:translateX(6px);box-shadow:var(--sh2);}
+        .box.on{background:var(--ac);border-left-color:rgba(255,255,255,0.4);
+            color:#fff;box-shadow:0 8px 28px rgba(0,0,0,0.18);
+            transform:translateX(6px) scale(1.004);}
+        .py{display:block;font-size:0.82rem;color:var(--py);margin-top:6px;
+            font-family:'DM Sans','Arial',sans-serif;line-height:1.65;letter-spacing:0.01em;}
+        .hint{position:absolute;right:15px;top:50%;transform:translateY(-50%);
+            font-size:0.9rem;opacity:0.2;transition:opacity 0.2s;}
+        .box:hover .hint{opacity:0.45;}
+        .box.on .hint{display:none;}
+
+        /* 로딩 / 에러 */
+        .status{max-width:820px;margin:40px auto;text-align:center;color:#999;font-size:1rem;}
+        .spinner{width:36px;height:36px;border:3px solid #e0ddd6;
+            border-top-color:#3A86FF;border-radius:50%;
+            animation:spin 0.8s linear infinite;margin:0 auto 16px;}
+        @keyframes spin{to{transform:rotate(360deg);}}
+
+        .footer{max-width:820px;margin:32px auto 0;padding:16px 20px;
+            text-align:right;border-top:2px solid rgba(0,0,0,0.08);
+            font-weight:700;color:#aaa;font-size:0.88rem;}
+
+        .c1{--ac:var(--c1)}.c2{--ac:var(--c2)}.c3{--ac:var(--c3)}
+        .c4{--ac:var(--c4)}.c5{--ac:var(--c5)}.c6{--ac:var(--c6)}
+        @keyframes fadeUp{from{opacity:0;transform:translateY(12px);}to{opacity:1;transform:translateY(0);}}
+
+        @media(max-width:600px){
+            header{padding:20px 18px;}header h1{font-size:1.1rem;}
+            .box{font-size:0.94rem;padding:13px 14px 13px 18px;}
+            .btn{padding:9px 11px;font-size:0.78rem;}
+            .vwrap{padding:5px 10px;}
+        }
+    </style>
+</head>
+<body>
+
+<a class="back" href="index.html">← 목록으로</a>
+
+<header>
+    <div class="badge">🎓 진리 중국어 온라인</div>
+    <h1 id="ep-title">로딩 중...</h1>
+    <p class="header-sub">
+        <span class="pulse"></span>
+        클릭 → 중국어 음성 &nbsp;|&nbsp; 다시 클릭 → 한국어 음성
+    </p>
+</header>
+
+<div class="controls">
+    <button class="btn btn-zh" onclick="toggleAll('zh')">🇨🇳 전체 중국어</button>
+    <button class="btn btn-ko" onclick="toggleAll('ko')">🇰🇷 전체 한국어</button>
+    <button class="btn btn-stop" onclick="stopSpeaking()">⏹ 정지</button>
+    <div class="vwrap">
+        <span class="vlabel">🔊 중국어</span>
+        <select class="vsel" id="zh-voice">
+            <option value="cmn-CN-Chirp3-HD-Aoede">Aoede ★ 여성</option>
+            <option value="cmn-CN-Chirp3-HD-Leda">Leda 여성</option>
+            <option value="cmn-CN-Chirp3-HD-Kore">Kore 여성</option>
+            <option value="cmn-CN-Chirp3-HD-Zephyr">Zephyr 여성</option>
+            <option value="cmn-CN-Chirp3-HD-Charon">Charon 남성</option>
+            <option value="cmn-CN-Chirp3-HD-Fenrir">Fenrir 남성</option>
+            <option value="cmn-CN-Chirp3-HD-Puck">Puck 남성</option>
+            <option value="cmn-CN-Chirp3-HD-Orus">Orus 남성</option>
+        </select>
+    </div>
+    <div class="vwrap">
+        <span class="vlabel">🔊 한국어</span>
+        <select class="vsel" id="ko-voice">
+            <option value="ko-KR-Chirp3-HD-Aoede">Aoede ★ 여성</option>
+            <option value="ko-KR-Chirp3-HD-Leda">Leda 여성</option>
+            <option value="ko-KR-Chirp3-HD-Kore">Kore 여성</option>
+            <option value="ko-KR-Chirp3-HD-Zephyr">Zephyr 여성</option>
+            <option value="ko-KR-Chirp3-HD-Charon">Charon 남성</option>
+            <option value="ko-KR-Chirp3-HD-Fenrir">Fenrir 남성</option>
+            <option value="ko-KR-Chirp3-HD-Puck">Puck 남성</option>
+            <option value="ko-KR-Chirp3-HD-Orus">Orus 남성</option>
+        </select>
+    </div>
+</div>
+
+<div id="container" class="container">
+    <div class="status"><div class="spinner"></div>에피소드를 불러오는 중...</div>
+</div>
+<div class="footer">ⓒ 진리 중국어 온라인</div>
+
+<script>
+// ════════════════════════════════════════════════════════
+// TTS 서버
+// ════════════════════════════════════════════════════════
+const SERVER = "https://us-central1-kc-fanyi.cloudfunctions.net/getAudio";
+let audio = null;
+
+async function speak(text, lang) {
+    stop();
+    try {
+        document.body.style.cursor = "wait";
+        const voice = lang === "zh"
+            ? document.getElementById("zh-voice").value
+            : document.getElementById("ko-voice").value;
+        const res = await fetch(SERVER, {
+            method:"POST", headers:{"Content-Type":"application/json"},
+            body: JSON.stringify({ text, lang, voice })
+        });
+        if (!res.ok) throw new Error("서버 오류 " + res.status);
+        const { url } = await res.json();
+        audio = new Audio(url);
+        audio.onplaying = () => { document.body.style.cursor = "default"; };
+        audio.onerror   = () => { document.body.style.cursor = "default"; };
+        audio.play();
+    } catch(e) {
+        console.error("음성 실패:", e);
+        document.body.style.cursor = "default";
+    }
+}
+
+function stop() {
+    if (audio) { audio.pause(); audio.currentTime = 0; audio = null; }
+}
+
+// ════════════════════════════════════════════════════════
+// 에피소드 로딩 — URL 파라미터로 JSON fetch
+// ════════════════════════════════════════════════════════
+const colors = ['c1','c2','c3','c4','c5','c6'];
+let epData = null;
+
+async function loadEpisode() {
+    const params  = new URLSearchParams(window.location.search);
+    const epId    = params.get("ep") || "ep01";
+    const container = document.getElementById("container");
+
+    try {
+        const res = await fetch(`episodes/${epId}.json`);
+        if (!res.ok) throw new Error(`episodes/${epId}.json 파일을 찾을 수 없습니다.`);
+        epData = await res.json();
+    } catch(e) {
+        container.innerHTML = `<div class="status">❌ ${e.message}</div>`;
+        document.getElementById("ep-title").textContent = "로드 실패";
+        return;
+    }
+
+    // 헤더 제목
+    document.getElementById("ep-title").textContent = epData.titleKo;
+    document.title = `${epData.num} ${epData.titleKo} | 진리 중국어 온라인`;
+
+    // 문장 카드 렌더
+    container.innerHTML = "";
+    epData.sentences.forEach((s, i) => {
+        const div = document.createElement("div");
+        div.className = `box ${colors[i % 6]}`;
+        div.style.animationDelay = (i * 0.03) + "s";
+        div.innerHTML = `${s.ko} <span class="hint">👆</span>`;
+        div.addEventListener("click", function() {
+            if (!this.classList.contains("on")) {
+                this.innerHTML = `${s.zh}<span class="py">${s.py}</span>`;
+                this.classList.add("on");
+                speak(s.zh, "zh");
+            } else {
+                this.innerHTML = `${s.ko} <span class="hint">👆</span>`;
+                this.classList.remove("on");
+                speak(s.ko, "ko");
+            }
+        });
+        container.appendChild(div);
+    });
+}
+
+function toggleAll(lang) {
+    if (!epData) return;
+    stop();
+    document.querySelectorAll(".box").forEach((div, i) => {
+        const s = epData.sentences[i];
+        if (lang === "zh") {
+            div.innerHTML = `${s.zh}<span class="py">${s.py}</span>`;
+            div.classList.add("on");
+        } else {
+            div.innerHTML = `${s.ko} <span class="hint">👆</span>`;
+            div.classList.remove("on");
+        }
+    });
+}
+
+function stopSpeaking() { stop(); }
+
+loadEpisode();
+</script>
+</body>
+</html>
