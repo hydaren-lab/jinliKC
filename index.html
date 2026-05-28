@@ -5,16 +5,39 @@
   <title>진리 중국어</title>
 </head>
 <body>
-  <h1>Loading...</h1>
+  <h1>에피소드 목록</h1>
+  <div id="list"></div>
+  <hr>
+  <div id="content">여기를 클릭하면 내용이 나옵니다.</div>
 
   <script>
-    fetch('https://jinlikc.pages.dev/list.json')
+    const BASE = "https://jinlikc.pages.dev/";
+
+    // 리스트 불러오기
+    fetch(BASE + 'list.json')
       .then(res => res.json())
       .then(data => {
-        document.body.innerHTML = data.episodes
-          .map(ep => `<div>${ep.id}</div>`)
+        document.getElementById('list').innerHTML = data.episodes
+          .map(ep => `
+            <div style="cursor:pointer; margin:10px 0;"
+                 onclick="loadEpisode('${ep.id}')">
+              ▶ ${ep.id}
+            </div>
+          `)
           .join('');
       });
+
+    // 에피소드 불러오기
+    function loadEpisode(id) {
+      fetch(BASE + id.toLowerCase() + '.json')
+        .then(res => res.json())
+        .then(data => {
+          document.getElementById('content').innerHTML = `
+            <h2>${id}</h2>
+            <pre>${JSON.stringify(data, null, 2)}</pre>
+          `;
+        });
+    }
   </script>
 </body>
 </html>
