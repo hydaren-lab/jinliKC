@@ -1,0 +1,123 @@
+{
+  "num": "EP.16",
+  "tag": "칼럼",
+  "titleKo": "[반대 칼럼] 길은 사람의 것이다, 로봇에 양보하기 전에",
+  "titleZh": "人行道是人走的，岂能让给机器人",
+  "sentences": [
+    {
+      "ko": "배달 로봇이 편리하다는 말에는 나도 동의한다.",
+      "zh": "我承认配送机器人确实带来了便利。",
+      "py": "wǒ chéngrèn pèisòng jīqìrén quèshí dàilái le biànlì."
+    },
+    {
+      "ko": "그러나 편리함이 모든 것을 정당화하지는 않는다.",
+      "zh": "然而，便利并不代表一切。",
+      "py": "rán'ér, biànlì bìng bù dàibiǎo yīqiē."
+    },
+    {
+      "ko": "우리가 매일 걷는 보도는 애초에 사람을 위해 만들어진 공간이다.",
+      "zh": "我们每天行走的人行道，本就是为行人设计的空间。",
+      "py": "wǒmen měitiān xíngzǒu de rénxíngdào, běn jiù shì wèi xíngrén shèjì de kōngjiān."
+    },
+    {
+      "ko": "그 길 위로 기계가 점점 늘어나는 지금, 나는 한 번쯤 멈춰 서서 물어야 한다고 생각한다.",
+      "zh": "如今，越来越多的机器出现在这条路上，我认为我们有必要停下脚步问一句：",
+      "py": "rújīn, yuèlái yuè duō de jīqì chūxiàn zài zhè tiáo lù shàng, wǒ rènwéi wǒmen yǒu bìyào tíng xià jiǎobù wèn yī jù:"
+    },
+    {
+      "ko": "이 길은 정말 모두에게 안전한가.",
+      "zh": "这条路，真的对所有人都安全吗？",
+      "py": "zhè tiáo lù, zhēn de duì suǒyǒu rén dōu ānquán ma?"
+    },
+    {
+      "ko": "가장 걱정스러운 것은 보행자의 안전이다.",
+      "zh": "最令人担忧的便是行人的安全。",
+      "py": "zuì lìng rén dānyōu de biàn shì xíngrén de ānquán."
+    },
+    {
+      "ko": "미국에서는 배달 로봇과 부딪힌 자전거 이용자가 머리와 어깨를 다쳐 소송을 낸 일이 있었고, 버스정류장 유리벽을 들이받은 로봇 영상이 퍼지며 논란이 일기도 했다.",
+      "zh": "在美国，曾发生过骑行者与配送机器人相撞导致头部和肩部受伤并提起诉讼的案件；也曾有机器人撞碎公交站玻璃墙的视频在网上疯传，引发广泛争议。",
+      "py": "zài měiguó, céng fāshēng guò qíxíng zhě yǔ pèisòng jīqìrén xiāngzhuàng dǎozhì tóubù hé jiānbù shòushāng bìng tíqǐ sùsòng de ànjiàn; yě céng yǒu jīqìrén zhuàng suì gōngjiāo zhàn bōlí qiáng de shìpín zài wǎng shàng fēng chuán, yǐnfā guǎngfàn zhēngyì."
+    },
+    {
+      "ko": "작고 느려 보이는 기계라도 사람과 부딪히면 그 충격은 결코 가볍지 않다.",
+      "zh": "哪怕是看起来小巧缓慢的机器，一旦与人发生碰撞，其冲击力也绝不容小觑。",
+      "py": "nǎpà shì kàn qǐlái xiǎoqiǎo huǎnmàn de jīqì, yīdàn yǔ rén fāshēng pèngzhuàng, qí chōngjīlì yě jué bù róng xiǎo qù."
+    },
+    {
+      "ko": "특히 좁은 보도에서 로봇과 사람이 동시에 길을 차지하면, 미처 피하지 못한 누군가가 다치는 일은 언제든 일어날 수 있다.",
+      "zh": "尤其在狭窄的人行道上，当机器人与行人“争抢”道路时，来不及躲避的人随时可能受伤。",
+      "py": "yóuqí zài xiázhǎi de rénxíngdào shàng, dāng jīqìrén yǔ xíngrén “zhēngqiǎng” dàolù shí, lái bùjí duǒbì de rén suíshí kěnéng shòushāng."
+    },
+    {
+      "ko": "더 깊이 들여다보면, 이 문제는 약자에게 더 무겁게 다가온다.",
+      "zh": "若深入探究，这个问题对弱势群体造成的影响更为沉重。",
+      "py": "ruò shēnrù tànjīu, zhège wèntí duì ruòshì qúntǐ zàochéng de yǐngxiǎng gèngwéi chénzhòng."
+    },
+    {
+      "ko": "휠체어를 탄 사람, 유아차를 미는 부모, 앞이 잘 보이지 않는 시각장애인에게 보도 한가운데 멈춰 선 로봇은 단순한 불편을 넘어 위협이 된다.",
+      "zh": "对乘坐轮椅的人、推婴儿车的父母以及视障人士而言，停在人行道正中央的机器人已不仅仅是带来不便，更构成了实质性的安全威胁。",
+      "py": "duì chéngzuò lúnyǐ de rén, tuī yīng'érchē de fùmǔ yǐjí shì zhàng rénshì ér yán, tíng zài rénxíngdào zhèng zhōngyāng de jīqìrén yǐ bùjǐnjǐn shì dài lái bù biàn, gèng gòuchéng le shízhíxìng de ānquán wēixié."
+    },
+    {
+      "ko": "실제로 미국에서는 보도를 막은 로봇 위에 올라타 항의한 시민까지 있었다.",
+      "zh": "事实上，美国甚至出现过市民为了抗议而直接爬上挡路机器人的事件。",
+      "py": "shìshí shàng, měiguó shènzhì chūxiàn guò shìmín wèile kàngyì ér zhíjiē pá shàng dǎng lù jīqìrén de shìjiàn."
+    },
+    {
+      "ko": "멀쩡히 걷던 사람이 기계를 피해 차도 쪽으로 비켜서야 한다면, 그 길은 더 이상 사람을 위한 길이라 부르기 어렵다.",
+      "zh": "如果原本好端端走着的人，不得不为了躲避机器而被迫避让至机动车道，那这条路就很难再被称为“为人而设”的道路了。",
+      "py": "rúguǒ yuánběn hǎoduānduān zǒuzhe de rén, bùdé bù wèile duǒbì jīqì ér bèipò bìràng zhì jīdòng chēdào, nà zhè tiáo lù jiù hěn nán zài bèi chēng wéi “wèi rén ér shè” de dàolù le."
+    },
+    {
+      "ko": "기술을 향한 기대가 안전을 앞지르는 것도 경계해야 한다.",
+      "zh": "我们还必须警惕一种倾向：对技术的期待凌驾于安全之上。",
+      "py": "wǒmen hái bìxū jǐngtì yī zhǒng qīngxiàng: duì jìshù de qīdài língjià yú ānquán zhī shàng."
+    },
+    {
+      "ko": "우리나라는 운행안전인증 제도를 두어 일정 기준을 통과한 로봇만 보도를 다니게 하고 있지만, 인증이 곧 현실의 안전을 보장하는 것은 아니다.",
+      "zh": "韩国虽设立了运行安全认证制度，仅允许通过特定标准的机器人在人行道上通行，但“获得认证”并不等同于“现实中的绝对安全”。",
+      "py": "hánguó suī shèlì le yùnxíng ānquán rènzhèng zhìdù, jǐn yǔnxǔ tōngguò tèdìng biāozhǔn de jīqìrén zài rénxíngdào shàng tōngxíng, dàn “huòdé rènzhèng” bìng bù děngtóng yú “xiànshí zhōng de juéduì ānquán”."
+    },
+    {
+      "ko": "갑자기 뛰어드는 아이, 빙판길, 밤길의 어두운 모퉁이처럼 시험장에서 미처 다 담아내지 못하는 변수는 거리마다 널려 있다.",
+      "zh": "突然冲出的孩童、结冰的路面、夜晚昏暗的拐角……这些在试验场中难以完全模拟的变量，在每一条真实的街道上都比比皆是。",
+      "py": "tūrán chōng chū de háitóng, jiébīng de lùmiàn, yèwǎn hūn'àn de guǎijiǎo… zhèxiē zài shìyàn chǎng zhōng nányǐ wánquán mónǐ de biànliàng, zài měi yī tiáo zhēnshí de jiēdào shàng dōu bǐbǐjiēshì."
+    },
+    {
+      "ko": "제도가 기술의 속도를 따라가지 못하는 사이, 그 위험을 떠안는 것은 결국 길 위를 걷는 평범한 사람들이다.",
+      "zh": "在制度跟不上技术发展速度的这段空窗期里，最终承担风险的，终究是走在路上的普通人。",
+      "py": "zài zhìdù gēn bù shàng jìshù fāzhǎn sùdù de zhè duàn kòngchuāng qī lǐ, zuìzhōng chéngdān fēngxiǎn de, zhōngjiū shì zǒu zài lù shàng de pǔtōng rén."
+    },
+    {
+      "ko": "나는 배달 로봇을 영원히 금지하자고 말하는 것이 아니다.",
+      "zh": "我并非主张永远禁止配送机器人，",
+      "py": "wǒ bìng fēi zhǔzhāng yǒngyuǎn jìnzhǐ pèisòng jīqìrén,"
+    },
+    {
+      "ko": "다만 순서가 잘못되었다고 본다.",
+      "zh": "只是认为目前的推进顺序本末倒置。",
+      "py": "zhǐshì rènwéi mùqián de tuījìn shùnxù běn mò dào zhì."
+    },
+    {
+      "ko": "로봇을 먼저 거리에 풀어놓고 사고가 나면 그때 고치는 방식이 아니라, 보행자의 안전을 지킬 기준을 충분히 갖춘 뒤에 천천히 늘려가야 한다.",
+      "zh": "我们不该采取“先投放街头，出了事故再修补”的模式，而应在充分建立起保障行人安全的标准体系之后，再循序渐进地增加投放量。",
+      "py": "wǒmen bù gāi cǎiqǔ “xiān tóufàng jiētóu, chū le shìgù zài xiūbǔ” de móshì, ér yīng zài chōngfèn jiànlì qǐ bǎozhàng xíngrén ānquán de biāozhǔn tǐxì zhīhòu, zài xúnxù jiànjìn de zēngjiā tóufàng liàng."
+    },
+    {
+      "ko": "속도와 운행 구역을 더 촘촘히 제한하고, 사고가 났을 때 누가 어떻게 책임질지부터 분명히 정해야 한다.",
+      "zh": "我们必须更严密地限制其速度与运行区域，并首先明确一旦发生事故，该由谁、以何种方式承担责任。",
+      "py": "wǒmen bìxū gèng yánmì de xiànzhì qí sùdù yǔ yùnxíng qūyù, bìng shǒuxiān míngquè yīdàn fāshēng shìgù, gāi yóu shuí, yǐ hé zhǒng fāngshì chéngdān zérèn."
+    },
+    {
+      "ko": "길의 주인은 여전히 사람이어야 한다.",
+      "zh": "道路的主人，依然必须是人类。",
+      "py": "dàolù de zhǔrén, yīrán bìxū shì rénlèi."
+    },
+    {
+      "ko": "그 원칙을 지키는 것이 늦더라도 옳은 길이다.",
+      "zh": "哪怕推进得慢一些，坚守这一原则才是正确的方向。",
+      "py": "nǎpà tuījìn de màn yīxiē, jiānshǒu zhè yī yuánzé cái shì zhèngquè de fāngxiàng."
+    }
+  ]
+}

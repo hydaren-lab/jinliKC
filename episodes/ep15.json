@@ -1,0 +1,118 @@
+{
+  "num": "EP.15",
+  "tag": "칼럼",
+  "titleKo": "[찬성 칼럼] 로봇이 짐을 나르는 시대, 막을 이유가 없다",
+  "titleZh": "[赞成] 机器人送货时代，何必阻挡",
+  "sentences": [
+    {
+      "ko": "요즘 도심 보도에서 작은 상자 모양의 로봇이 천천히 굴러가는 모습을 보는 일이 낯설지 않다.",
+      "zh": "如今在城市的人行道上，一个个小箱子模样的机器人缓慢移动，早已不是什么稀奇事。",
+      "py": "rújīn zài chéngshì de rénxíngdào shàng, yīgège xiǎo xiāngzi múyàng de jīqìrén huǎnmàn yídòng, zǎoyǐ bú shì shénme xīqí shì."
+    },
+    {
+      "ko": "음식점에서 주문한 샐러드 한 그릇, 편의점에서 시킨 생수 한 병이 사람 손이 아니라 바퀴 여섯 개 달린 기계에 실려 집 앞까지 온다.",
+      "zh": "在餐厅点的一份沙拉、在便利店买的一瓶矿泉水，不再由人工配送，而是由一台六轮机器载着，直接送到家门口。",
+      "py": "zài cāntīng diǎn de yī fèn shālā, zài biànlìdiàn mǎi de yī píng kuàngquánshuǐ, bú zài yóu réngōng pèisòng, ér shì yóu yī tái liù lún jīqì zǎizhe, zhíjiē sòng dào jiā ménkǒu."
+    },
+    {
+      "ko": "미국 로스앤젤레스에서는 이미 수백 대의 배달 로봇이 거리를 누비고 있고, 우리나라도 성남 판교와 서현동 일대에서 자율주행 배달 로봇이 손님과 가게 사이를 오가기 시작했다.",
+      "zh": "在美国洛杉矶，已有数百台配送机器人穿梭于大街小巷；而在韩国，城南板桥和书岘洞一带的自动驾驶配送机器人，也开始往返于顾客和店铺之间。",
+      "py": "zài měiguó luòshānjī, yǐ yǒu shùbǎi tái pèisòng jīqìrén chuānsuō yú dàjiē xiǎoxiàng; ér zài hánguó, chéngnán bǎnqiáo hé shūxiàndòng yīdài de zìdòng jiàshǐ pèisòng jīqìrén, yě kāishǐ wǎngfǎn yú gùkè hé diànpù zhījiān."
+    },
+    {
+      "ko": "나는 이 흐름을 굳이 막을 이유가 없다고 본다.",
+      "zh": "我认为，我们完全没有理由去阻挡这股潮流。",
+      "py": "wǒ rènwéi, wǒmen wánquán méiyǒu lǐyóu qù zǔdǎng zhè gǔ cháoliú."
+    },
+    {
+      "ko": "가장 분명한 장점은 편리함이다.",
+      "zh": "最明显的优势就是便捷。",
+      "py": "zuì míngxiǎn de yōushì jiù shì biànjié."
+    },
+    {
+      "ko": "가까운 거리의 주문이라면 사람이 직접 나설 필요 없이 로봇이 알아서 길을 찾아간다.",
+      "zh": "如果是短距离订单，无需人工亲自跑腿，机器人就能自主规划路线完成配送。",
+      "py": "rúguǒ shì duǎn jùlí dìngdān, wúxū réngōng qīnzì pǎotuǐ, jīqìrén jiù néng zìzhǔ guīhuà lùxiàn wánchéng pèisòng."
+    },
+    {
+      "ko": "배달 일손이 부족한 시간대나 한밤중에도 안정적으로 물건을 나를 수 있다는 점은 가게 입장에서도, 주문하는 사람 입장에서도 반가운 일이다.",
+      "zh": "无论是在配送人手紧缺的时段，还是深更半夜，它都能稳定运送物品——这对商家和消费者而言，都是一件乐见其成的事。",
+      "py": "wúlùn shì zài pèisòng rénshǒu jǐnquē de shíduàn, háishi shēngēng bànyè, tā dōu néng wěndìng yùnsòng wùpǐn — zhè duì shāngjiā hé xiāofèizhě ér yán, dōu shì yī jiàn lèjiàn qí chéng de shì."
+    },
+    {
+      "ko": "거동이 불편한 노인이나 몸이 아파 밖에 나가기 힘든 사람에게는 단순한 편의를 넘어 생활의 버팀목이 될 수도 있다.",
+      "zh": "对于行动不便的老人，或是身体不适、难以外出的人来说，它甚至不仅是锦上添花的便利，更能成为日常生活中的重要支柱。",
+      "py": "duìyú xíngdòng bù biàn de lǎorén, huò shì shēntǐ bù shì, nányǐ wàichū de rén lái shuō, tā shènzhì bùjǐn shì jǐn shàng tiān huā de biànlì, gèng néng chéngwéi rìcháng shēnghuó zhōng de zhòngyào zhīzhù."
+    },
+    {
+      "ko": "환경 측면에서도 따져볼 만하다.",
+      "zh": "从环保角度来看，这也同样值得肯定。",
+      "py": "cóng huánbǎo jiǎodù lái kàn, zhè yě tóngyàng zhídé kěndìng."
+    },
+    {
+      "ko": "배달 로봇은 대부분 전기로 움직여 매연을 내뿜지 않는다.",
+      "zh": "配送机器人大多由电力驱动，实现了零排放。",
+      "py": "pèisòng jīqìrén dàduō yóu diànlì qūdòng, shíxiàn le líng páifàng."
+    },
+    {
+      "ko": "짧은 거리를 오토바이나 자동차로 오가며 생기는 배기가스와 교통 혼잡을 생각하면, 로봇 배달은 도시의 공기를 덜 더럽히는 선택이 될 수 있다.",
+      "zh": "考虑到使用摩托车或汽车进行短途配送所产生的尾气与交通拥堵，机器人配送无疑是减轻城市空气污染的更优选择。",
+      "py": "kǎolǜ dào shǐyòng mótuōchē huò qìchē jìnxíng duǎntú pèisòng suǒ chǎnshēng de wěiqì yǔ jiāotōng yōngdǔ, jīqìrén pèisòng wúyí shì jiǎnqīng chéngshì kōngqì wūrǎn de gèng yōu xuǎnzé."
+    },
+    {
+      "ko": "작고 느리게 움직이는 만큼 도로를 막아서는 일도 적다.",
+      "zh": "而且，由于它们体积小、速度慢，反而较少会造成道路拥堵。",
+      "py": "érqiě, yóuyú tāmen tǐjī xiǎo, sùdù màn, fǎn'ér jiào shǎo huì zàochéng dàolù yōngdǔ."
+    },
+    {
+      "ko": "물론 안전 문제를 가볍게 여겨서는 안 된다.",
+      "zh": "当然，安全问题绝不能掉以轻心。",
+      "py": "dāngrán, ānquán wèntí jué bù néng diào yǐ qīng xīn."
+    },
+    {
+      "ko": "미국에서는 자전거를 타던 사람이 로봇과 부딪혀 다친 일이 있었고, 보도를 가로막은 로봇 탓에 시민이 항의하는 일도 벌어졌다.",
+      "zh": "在美国，曾发生过骑行者与机器人相撞受伤的事件，也曾有机器人阻挡人行道而引发市民抗议的风波。",
+      "py": "zài měiguó, céng fāshēng guò qíxíng zhě yǔ jīqìrén xiāngzhuàng shòushāng de shìjiàn, yě céng yǒu jīqìrén zǔdǎng rénxíngdào ér yǐnfā shìmín kàngyì de fēngbō."
+    },
+    {
+      "ko": "하지만 이는 기술 자체의 결함이라기보다 규칙이 아직 자리 잡지 못한 탓이 크다.",
+      "zh": "但这与其说是技术本身的缺陷，不如说是相关规则尚未完善所致。",
+      "py": "dàn zhè yǔ qí shuō shì jìshù běnshēn de quēxiàn, bùrú shuō shì xiāngguān guīzé shàng wèi wánshàn suǒ zhì."
+    },
+    {
+      "ko": "우리나라는 이미 2023년부터 일정 기준을 통과한 로봇에 한해 '운행안전인증'을 주고, 인증을 받은 로봇에게 보행자와 같은 지위를 부여해 보도를 다닐 수 있게 했다.",
+      "zh": "事实上，韩国自2023年起，就已开始向通过特定标准的机器人颁发“运行安全认证”，并赋予获证机器人与行人同等的路权，允许其在人行道上通行。",
+      "py": "shìshí shàng, hánguó zì 2023 nián qǐ, jiù yǐ kāishǐ xiàng tōngguò tèdìng biāozhǔn de jīqìrén bānfā “yùnxíng ānquán rènzhèng”, bìng fùyǔ huò zhèng jīqìrén yǔ xíngrén tóngděng de lùquán, yǔnxǔ qí zài rénxíngdào shàng tōngxíng."
+    },
+    {
+      "ko": "속도는 시속 15킬로미터 이하, 무게는 500킬로그램 이하로 제한하고 정기적으로 점검도 한다.",
+      "zh": "同时，机器人的时速被限制在15公里以下，重量限制在500公斤以内，且需接受定期检查。",
+      "py": "tóngshí, jīqìrén de shísù bèi xiànzhì zài 15 gōnglǐ yǐxià, zhòngliàng xiànzhì zài 500 gōngjīn yǐnèi, qiě xū jiēshòu dìngqī jiǎnchá."
+    },
+    {
+      "ko": "제도가 먼저 길을 닦아 둔 셈이다.",
+      "zh": "可以说，制度已经先一步为技术的落地铺平了道路。",
+      "py": "kěyǐ shuō, zhìdù yǐjīng xiān yī bù wèi jìshù de luòdì pūpíng le dàolù."
+    },
+    {
+      "ko": "새로운 기술이 처음 거리에 나설 때 혼란이 따르는 것은 자연스러운 일이다.",
+      "zh": "新技术初次走向街头时，难免会带来一些混乱，当年汽车刚问世时也是如此。",
+      "py": "xīn jìshù chūcì zǒuxiàng jiētóu shí, nánmiǎn huì dài lái yīxiē hùnluàn, dāngnián qìchē gāng wènshì shí yě shì rúcǐ."
+    },
+    {
+      "ko": "중요한 것은 위험하다는 이유로 문을 닫아거는 것이 아니라, 사람과 로봇이 같은 길을 안전하게 나눠 쓸 방법을 찾는 일이다.",
+      "zh": "关键不在于因噎废食、将其拒之门外，而在于寻找让人与机器人安全共享道路的方法。",
+      "py": "guānjiàn bú zàiyú yīn yē fèi shí, jiāng qí jù zhī mén wài, ér zàiyú xúnzhǎo ràng rén yǔ jīqìrén ānquán gòngxiǎng dàolù de fāngfǎ."
+    },
+    {
+      "ko": "사람이 붐비는 곳에서는 속도를 더 낮추고, 좁은 골목에서는 운행을 제한하는 식으로 규칙을 다듬어 가면 된다.",
+      "zh": "我们完全可以通过不断完善规则来应对，例如在人群密集处进一步限速，在狭窄小巷中限制其运行。",
+      "py": "wǒmen wánquán kěyǐ tōngguò bùduàn wánshàn guīzé lái yìngduì, lìrú zài rénqún mìjí chù jìnyī bù xiàn sù, zài xiázhǎi xiǎo xiàng zhōng xiànzhì qí yùnxíng."
+    },
+    {
+      "ko": "로봇을 거리에서 몰아내는 대신, 함께 사는 법을 익히는 편이 우리에게 더 이로운 길이라고 생각한다.",
+      "zh": "我认为，与其将机器人驱逐出街头，不如学会如何与它和谐共处，这才是对我们更有利的做法。",
+      "py": "wǒ rènwéi, yǔ qí jiāng jīqìrén qūzhú chū jiētóu, bùrú xuéhuì rúhé yǔ tā héxié gòngchǔ, zhè cái shì duì wǒmen gèng yǒulì de zuòfǎ."
+    }
+  ]
+}
