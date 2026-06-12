@@ -1,0 +1,113 @@
+{
+  "num": "EP.23",
+  "tag": "칼럼",
+  "titleKo": "[찬성] 옷장 앞의 검열, 이제는 내려놓을 때",
+  "titleZh": "[赞成] 衣柜前的审查，是时候放下了",
+  "sentences": [
+    {
+      "ko": "아침마다 옷장 문을 열고 서서 우리가 실제로 떠올리는 질문은 “오늘은 어떤 나를 보여줄까”가 아니라 “이 옷을 입으면 누가 뭐라고 할까”다.",
+      "zh": "每天早上打开衣柜站在门前，我们脑海中真正浮现的问题，早已不是“今天想展现怎样的自己”，而是“穿这件衣服会不会被人指指点点”。",
+      "py": "měi tiān zǎo shàng dǎ kāi yī guì zhàn zài mén qián, wǒ men nǎo hǎi zhōng zhēn zhèng fú xiàn de wèn tí, zǎo yǐ bú shì \"jīn tiān xiǎng zhǎn xiàn zěn yàng de zì jǐ\", ér shì \"chuān zhè jiàn yī fú huì bú huì bèi rén zhǐ zhǐ diǎn diǎn\"."
+    },
+    {
+      "ko": "자기표현의 자유를 노래하는 시대지만, 정작 옷 한 벌을 고르는 손길은 그 어느 때보다 위축되어 있다.",
+      "zh": "尽管这是个标榜自我表达自由的时代，可挑选一件衣服的手，反而比任何时候都要畏缩。",
+      "py": "jǐn guǎn zhè shì gè biāo bǎng zì wǒ biǎo dá zì yóu de shí dài, kě tiāo xuǎn yī jiàn yī fú de shǒu, fǎn ér bǐ rèn hé shí hòu dōu yào wèi suō."
+    },
+    {
+      "ko": "직장에서는 무난함을, 모임에서는 적당한 격식을, 거리에서는 남의 눈에 거슬리지 않을 색과 핏을 먼저 따진다.",
+      "zh": "在职场讲求稳妥，聚会讲究得体，走在街头则首先盘算颜色和版型是否不扎眼。",
+      "py": "zài zhí chǎng jiǎng qiú wěn tuǒ, jù huì jiǎng jiū dé tǐ, zǒu zài jiē tóu zé shǒu xiān pán suàn yán sè hé bǎn xíng shì fǒu bù zhā yǎn."
+    },
+    {
+      "ko": "이 끊임없는 자기검열은 옷장을 즐거움의 공간이 아니라 매일 통과해야 하는 관문으로 바꿔놓았다.",
+      "zh": "这种没完没了的自我审查，把衣柜从享受乐趣的空间，变成了一道每天都必须闯过去的关卡。",
+      "py": "zhè zhǒng méi wán méi liǎo de zì wǒ shěn chá, bǎ yī guì cóng xiǎng shòu lè qù de kōng jiān, biàn chéng le yī dào měi tiān dōu bì xū chuǎng guò qù de guān qiǎ."
+    },
+    {
+      "ko": "이런 분위기는 온라인 공간에서 더욱 증폭된다.",
+      "zh": "这样的氛围在网络空间进一步放大。",
+      "py": "zhè yàng de fēn wéi zài wǎng luò kōng jiān jìn yí bù fàng dà."
+    },
+    {
+      "ko": "SNS에 올라온 사진 한 장은 순식간에 캡처되고 공유되며, 그 사람의 인성이나 가치관을 판단하는 근거로 소비된다.",
+      "zh": "社交媒体上的一张照片瞬间被截图、转发，甚至被拿来当作评判一个人品性与价值观的材料。",
+      "py": "shè jiāo méi tǐ shàng de yī zhāng zhào piān shùn jiān bèi jié tú, zhuǎn fā, shèn zhì bèi ná lái dàng zuò píng pàn yí gè rén pǐn xìng yǔ jià zhí guān de cái liào."
+    },
+    {
+      "ko": "“OO룩”이라는 이름으로 끊임없이 생산되는 스타일 카테고리들은 취향의 다양화라기보다, 날 선 시선으로부터 자신을 지키기 위한 일종의 보호색에 가깝다.",
+      "zh": "层出不穷的“某某风”穿搭类目，与其说意味着品味的多元化，不如说更像是为了躲避尖刻目光而披上的一层保护色。",
+      "py": "céng chū bù qióng de \"mǒu mǒu fēng\" chuān dā lèi mù, yǔ qí shuō yì wèi zhe pǐn wèi de duō yuán huà, bù rú shuō gèng xiàng shì wèi le duǒ bì jiān kè mù guāng ér pī shàng de yī céng bǎo hù sè."
+    },
+    {
+      "ko": "남의 눈 밖에 나지 않으면서도 세련됨을 잃지 않아야 한다는 모순된 과제 앞에서, 옷을 고르는 일은 즐거운 유희가 아니라 매일 치러야 하는 고단한 시험이 되어버렸다.",
+      "zh": "面对“既不能招来非议，又不能丢掉精致”的矛盾课题，选衣服不再是轻松的玩味，而成了每天都得疲于应付的考试。",
+      "py": "miàn duì \"jì bù néng zhāo lái fēi yì, yòu bù néng diū diào jīng zhì\" de máo dùn kè tí, xuǎn yī fú bù zài shì qīng sōng de wán wèi, ér chéng le měi tiān dōu dé pí yú yìng fù de kǎo shì."
+    },
+    {
+      "ko": "이러한 과잉 해석이 가장 노골적으로 드러나는 곳은 정치의 영역이다.",
+      "zh": "这种过度解读在政治领域暴露得最为赤裸。",
+      "py": "zhè zhǒng guò dù jiě dú zài zhèng zhì lǐng yù bào lù dé zuì wèi chì luǒ."
+    },
+    {
+      "ko": "선거철만 되면 연예인이나 공인이 입은 옷의 색깔 하나가 특정 정당에 대한 지지 표시로 둔갑한다.",
+      "zh": "一到选举季，艺人或公众人物身上某个颜色就会摇身一变，被曲解为对特定政党的支持。",
+      "py": "yī dào xuǎn jǔ jì, yì rén huò gōng zhòng rén wù shēn shàng mǒu gè yán sè jiù huì yáo shēn yī biàn, bèi qū jiě wèi duì tè dìng zhèng dǎng de zhī chí."
+    },
+    {
+      "ko": "우연히 고른 빨간 티셔츠나 파란 액세서리 때문에 “정치색 논란”에 휩싸여 게시물을 내리고 해명까지 해야 하는 일이 반복해서 벌어진다.",
+      "zh": "只不过因为偶然穿了件红色T恤或戴了件蓝色配饰，就被卷入“政治色彩争议”，不得不删帖甚至出面澄清，这种事反复上演。",
+      "py": "zhǐ bù guò yīn wèi ǒu rán chuān le jiàn hóng sè T xù huò dài le jiàn lán sè pèi shì, jiù bèi juǎn rù \"zhèng zhì sè cǎi zhēng yì\", bù dé bù shān tiē shèn zhì chū miàn chéng qīng, zhè zhǒng shì fǎn fù shàng yǎn."
+    },
+    {
+      "ko": "옷은 옷일 뿐인데, 거기에 진영의 잣대를 들이대는 순간 가장 사적인 영역인 옷차림조차 정치적 전선이 되어버린다.",
+      "zh": "衣服终究只是衣服，可一旦用阵营的尺子去量，连穿衣这种最私人的领地也会沦为政治对立的一条战线。",
+      "py": "yī fú zhōng jiū zhǐ shì yī fú, kě yí dàn yòng zhèn yíng de chǐ zi qù liàng, lián chuān yī zhè zhǒng zuì sī rén de lǐng dì yě huì lún wéi zhèng zhì duì lì de yī tiáo zhàn xiàn."
+    },
+    {
+      "ko": "이는 우리 사회가 타인을 향한 여유와 신뢰를 얼마나 잃어버렸는지를 보여주는 단적인 장면이다.",
+      "zh": "这一幕，恰恰折射出这个社会面对他人时，已经失去了多少从容与信任。",
+      "py": "zhè yí mù, qià qià zhé shè chū zhè ge shè huì miàn duì tā rén shí, yǐ jīng shī qù le duō shǎo cóng róng yǔ xìn rèn."
+    },
+    {
+      "ko": "실용성의 영역에서도 낡은 관습의 힘은 여전하다.",
+      "zh": "在实用性层面，陈旧习惯的力量同样顽固。",
+      "py": "zài shí yòng xìng céng miàn, chén jiù xí guàn de lì liàng tóng yàng wán gù."
+    },
+    {
+      "ko": "해마다 폭염 기록을 갈아치우는 여름에도, 반바지 차림으로 출근한 사람을 보면 “보기 불편하다”거나 “프로답지 못하다”는 반응이 먼저 튀어나온다.",
+      "zh": "哪怕是在年年刷新高温纪录的酷暑，只要见到穿短裤上班的人，率先冒出来的反应往往是“看着不顺眼”或是“不够专业”。",
+      "py": "nǎ pà shì zài nián nián shuā xīn gāo wēn jì lù de kù shǔ, zhǐ yào jiàn dào chuān duǎn kù shàng bān de rén, shuài xiān mào chū lái de fǎn yìng wǎng wǎng shì \"kàn zhe bù shùn yǎn\" huò shì \"bù gòu zhuān yè\"."
+    },
+    {
+      "ko": "일본에서는 더위를 피해 반바지를 입은 중년 남성을 향해 “다리털을 보고 싶지 않다”는 노골적인 비난이 쏟아지기도 했다.",
+      "zh": "在日本，甚至有人毫不掩饰地对穿短裤避暑的中年男性抨击道：“不想看到你的腿毛。”",
+      "py": "zài rì běn, shèn zhì yǒu rén háo bù yǎn shì dì duì chuān duǎn kù bì shǔ de zhōng nián nán xìng pēng jī dào: \"bù xiǎng kàn dào nǐ de tuǐ máo.\""
+    },
+    {
+      "ko": "기후에 맞춰 효율적으로 일하려는 선택조차 무례함으로 치부되는 현실은, 정작 중요한 건강과 환경의 문제를 곁가지 논쟁으로 밀어내 버린다.",
+      "zh": "连为了适应气候、提高工作效率而做出的选择，都被贬低为失礼，这种现实反倒把真正要紧的健康与环境问题，挤到了无关紧要的枝节争论之中。",
+      "py": "lián wèi le shì yìng qì hòu, tí gāo gōng zuò xiào lǜ ér zuò chū de xuǎn zé, dōu bèi biǎn dī wèi shī lǐ, zhè zhǒng xiàn shí fǎn dào bǎ zhēn zhèng yào jǐn de jiàn kāng yǔ huán jìng wèn tí, jǐ dào le wú guān jǐn yào de zhī jié zhēng lùn zhī zhōng."
+    },
+    {
+      "ko": "결국 우리에게 필요한 것은 타인의 옷차림에 쏟는 과도한 관심을 조금 거두는 작은 관용이다.",
+      "zh": "归根结底，对于他人的穿着打扮，我们应少一些过度关注，多一些宽容。",
+      "py": "guī gēn jié dǐ, duì yú tā rén de chuān zhuó dǎ bàn, wǒ men yīng shǎo yī xiē guò dù guān zhù, duō yī xiē kuān róng."
+    },
+    {
+      "ko": "누군가의 옷이 내 취향이나 기준과 다르더라도, 그것이 다른 사람에게 직접적인 해를 끼치지 않는다면 굳이 불편해할 이유가 없다.",
+      "zh": "即便某个人的衣服不符合自己的喜好或标准，只要没有对他人构成实质伤害，就大可不必为此感到不适。",
+      "py": "jí biàn mǒu gè rén de yī fú bù fú hé zì jǐ de xǐ hào huò biāo zhǔn, zhǐ yào méi yǒu duì tā rén gòu chéng shí zhì shāng hài, jiù dà kě bù bì wèi cǐ gǎn dào bù shì."
+    },
+    {
+      "ko": "그가 어떤 색을 입었든, 더위를 피해 얼마나 가볍게 입었든 담담히 바라봐 주는 태도면 충분하다.",
+      "zh": "不管对方穿什么颜色，或是为了避暑穿得多轻便，能够平淡地看待便已足够。",
+      "py": "bù guǎn duì fāng chuān shén me yán sè, huò shì wèi le bì shǔ chuān dé duō qīng biàn, néng gòu píng dàn dì kàn dài biàn yǐ zú gòu."
+    },
+    {
+      "ko": "촘촘한 시선의 그물을 걷어내는 일, 그 사소한 배려야말로 갈등으로 쪼개진 일상을 조금 더 숨 쉴 수 있게 만드는 첫걸음이 될 것이다.",
+      "zh": "将那张密不透风的目光之网撤掉——这份看似微不足道的体贴，才是让因纷争而四分五裂的日常重新获得呼吸空间的第一步。",
+      "py": "jiāng nà zhāng mì bù tòu fēng de mù guāng zhī wǎng chè diào—— zhè fèn kàn shì wēi bù zú dào de tǐ tiē, cái shì ràng yīn fēn zhēng ér sì fēn wǔ liè de rì cháng chóng xīn huò dé hū xī kōng jiān de dì yī bù."
+    }
+  ]
+}

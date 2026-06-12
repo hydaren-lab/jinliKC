@@ -1,0 +1,118 @@
+{
+  "num": "EP.24",
+  "tag": "칼럼",
+  "titleKo": "[반대] 옷차림의 자유, 무한할 수는 없다",
+  "titleZh": "[反对] 着装的自由，不可能没有边界",
+  "sentences": [
+    {
+      "ko": "옷장 문을 열 때마다 눈치를 보는 현실이 피곤하다는 데는 공감한다.",
+      "zh": "每次打开衣柜都要看人眼色，这种疲惫我完全可以理解。",
+      "py": "měi cì dǎ kāi yī guì dōu yào kàn rén yǎn sè, zhè zhǒng pí bèi wǒ wán quán kě yǐ lǐ jiě."
+    },
+    {
+      "ko": "그러나 그 피로감을 해소하는 방법이 “모든 평가와 기준을 내려놓자”는 식의 무조건적 관용이어서는 곤란하다.",
+      "zh": "但消除疲惫的方法，绝不能是“放下所有评价与标准”式的无条件宽容。",
+      "py": "dàn xiāo chú pí bèi de fāng fǎ, jué bù néng shì \"fàng xià suǒ yǒu píng jià yǔ biāo zhǔn\" shì de wú tiáo jiàn kuān róng."
+    },
+    {
+      "ko": "옷차림은 순전히 개인의 영역에 머무르지 않는다.",
+      "zh": "穿衣打扮绝不只停留在私人领域。",
+      "py": "chuān yī dǎ bàn jué bù zhǐ tíng liú zài sī rén lǐng yù."
+    },
+    {
+      "ko": "우리가 옷을 입고 나서는 순간, 그것은 이미 타인과 마주하는 사회적 행위가 되기 때문이다.",
+      "zh": "当我们穿好衣服走出家门的那一刻，它就已然成为一项面对他人的社会行为。",
+      "py": "dāng wǒ men chuān hǎo yī fú zǒu chū jiā mén de nà yī kè, tā jiù yǐ rán chéng wéi yī xiàng miàn duì tā rén de shè huì xíng wéi."
+    },
+    {
+      "ko": "자유를 말하기에 앞서, 그 자유가 작동하는 공간이 어디인지부터 구분할 필요가 있다.",
+      "zh": "在谈论自由之前，有必要先分清这一自由究竟存在于怎样的空间里。",
+      "py": "zài tán lùn zì yóu zhī qián, yǒu bì yào xiān fēn qīng zhè yī zì yóu jiū jìng cún zài yú zěn yàng de kōng jiān lǐ."
+    },
+    {
+      "ko": "더 나아가 복장에 관한 암묵적 합의는 공동체의 윤활유 역할을 한다.",
+      "zh": "更进一步说，关于着装的那些心照不宣的共识，起着社会润滑剂的作用。",
+      "py": "gèng jìn yí bù shuō, guān yú zhuó zhuāng de nà xiē xīn zhào bù xuān de gòng shí, qǐ zhe shè huì rùn huá jì de zuò yòng."
+    },
+    {
+      "ko": "결혼식, 장례식, 면접처럼 정해진 격식이 있는 자리에서 옷차림은 그 자리의 의미와 상대에 대한 마음가짐을 보여주는 비언어적 메시지다.",
+      "zh": "在婚礼、葬礼、面试这些具有明确规范的场合，着装是传递对该场合的敬意和对对方态度的非语言信息。",
+      "py": "zài hūn lǐ, zàng lǐ, miàn shì zhè xiē jù yǒu míng què guī fàn de chǎng hé, zhuó zhuāng shì chuán dì duì gāi chǎng hé de jìng yì hé duì duì fāng tài dù de fēi yǔ yán xìn xī."
+    },
+    {
+      "ko": "이런 약속들이 사라진다면 오히려 매 순간 “이게 적절한가”를 새로 판단해야 하는 더 큰 피로가 생길 수 있다.",
+      "zh": "如果这些约定消失了，反而每个瞬间都要重新判断“这样穿是否合适”，这种负担可能带来更大的疲惫。",
+      "py": "rú guǒ zhè xiē yuē dìng xiāo shī le, fǎn ér měi gè shùn jiān dōu yào chóng xīn pàn duàn \"zhè yàng chuān shì fǒu hé shì\", zhè zhǒng fù dān kě néng dài lái gèng dà de pí bèi."
+    },
+    {
+      "ko": "사회적 기준은 때로 개인의 선택 부담을 줄여주는 안전장치이기도 하다.",
+      "zh": "社会标准有时恰恰是减轻个人选择负担的安全阀。",
+      "py": "shè huì biāo zhǔn yǒu shí qià qià shì jiǎn qīng gè rén xuǎn zé fù dān de ān quán fá."
+    },
+    {
+      "ko": "특히 직장과 같은 공적 영역에서 복장은 단순한 취향의 표현을 넘어 신뢰를 전달하는 언어로 기능한다.",
+      "zh": "尤其在职场这类公共领域，着装不仅是品味的表达，更是一种传递信任的语言。",
+      "py": "yóu qí zài zhí chǎng zhè lèi gōng gòng lǐng yù, zhuó zhuāng bù jǐn shì pǐn wèi de biǎo dá, gèng shì yī zhǒng chuán dì xìn rèn de yǔ yán."
+    },
+    {
+      "ko": "처음 만나는 거래처 직원이 지나치게 헐렁한 차림으로 나타난다면, 그 사람의 능력과 무관하게 “준비가 안 됐다”는 인상을 줄 수 있다.",
+      "zh": "如果初次见面的合作方员工穿得过于随意，不管实际能力多强，都很容易给人留下“准备不足”的印象。",
+      "py": "rú guǒ chū cì jiàn miàn de hé zuò fāng yuán gōng chuān dé guò yú suí yì, bù guǎn shí jì néng lì duō qiáng, dōu hěn róng yì gěi rén liú xià \"zhǔn bèi bù zú\" de yìn xiàng."
+    },
+    {
+      "ko": "적절한 복장은 상대에 대한 최소한의 존중을 표현하는 사회적 약속이며, 이 약속이 무너지면 업무 관계 전반의 신뢰 기반도 함께 흔들릴 수 있다.",
+      "zh": "得体的着装，是对他人表示最低限度尊重的一种社会约定。而这约定一旦瓦解，整个工作关系所凭依的信任根基也可能随之动摇。",
+      "py": "dé tǐ de zhuó zhuāng, shì duì tā rén biǎo shì zuì dī xiàn dù zūn zhòng de yī zhǒng shè huì yuē dìng. ér zhè yuē dìng yí dàn wǎ jiě, zhěng gè gōng zuò guān xì suǒ píng yī de xìn rèn gēn jī yě kě néng suí zhī dòng yáo."
+    },
+    {
+      "ko": "복장 규정을 낡은 관습으로만 치부할 수 없는 이유가 여기에 있다.",
+      "zh": "这就是我们不能把着装规范简单归为陈旧习惯的原因所在。",
+      "py": "zhè jiù shì wǒ men bù néng bǎ zhuó zhuāng guī fàn jiǎn dān guī wèi chén jiù xí guàn de yuán yīn suǒ zài."
+    },
+    {
+      "ko": "물론 선거철마다 옷 색깔 하나로 사상을 의심하는 행태나, 더위를 피해 반바지를 입은 사람을 향한 비난은 분명 과도하다.",
+      "zh": "当然，每逢选举季只凭衣服颜色揣测他人思想，或是对穿短裤避暑的人口出恶言，明显属于过火。",
+      "py": "dāng rán, měi féng xuǎn jǔ jì zhǐ píng yī fú yán sè chuǎi cè tā rén sī xiǎng, huò shì duì chuān duǎn kù bì shǔ de rén kǒu chū è yán, míng xiǎn shǔ yú guò huǒ."
+    },
+    {
+      "ko": "이런 과잉 해석은 비판받아 마땅하다.",
+      "zh": "这类过度解读理应受到批评。",
+      "py": "zhè lèi guò dù jiě dú lǐ yīng shòu dào pī píng."
+    },
+    {
+      "ko": "그러나 이런 극단적 사례를 근거로 모든 종류의 복장 기준을 “낡은 검열”로 싸잡아 비판하는 것 또한 위험하다.",
+      "zh": "但是，若以这些极端案例为依据，将所有着装标准一竿子打成“过时的审查”，那就危险了。",
+      "py": "dàn shì, ruò yǐ zhè xiē jí duān àn lì wèi yī jù, jiāng suǒ yǒu zhuó zhuāng biāo zhǔn yī gān zi dǎ chéng \"guò shí de shěn chá\", nà jiù wēi xiǎn le."
+    },
+    {
+      "ko": "장례식장에 화려한 옷을 입고 가거나, 면접장에 잠옷 같은 차림으로 나타나는 일까지 “개인의 취향”으로 존중받아야 한다고 말하기는 어렵다.",
+      "zh": "穿着花哨服装走入殡仪馆，或是以一身近似睡衣的打扮现身面试，我们很难认同这些也都应该作为“个人喜好”受到尊重。",
+      "py": "chuān zhe huā shào fú zhuāng zǒu rù bìn yí guǎn, huò shì yǐ yī shēn jìn sì shuì yī de dǎ bàn xiàn shēn miàn shì, wǒ men hěn nán rèn tóng zhè xiē yě dōu yīng gāi zuò wéi \"gè rén xǐ hào\" shòu dào zūn zhòng."
+    },
+    {
+      "ko": "문제의 핵심은 기준 자체가 아니라, 그 기준을 비합리적으로 확대 적용하는 태도다.",
+      "zh": "问题的核心不在于标准本身，而在于不合理地将其扩大套用的那股风气。",
+      "py": "wèn tí de hé xīn bù zài yú biāo zhǔn běn shēn, ér zài yú bù hé lǐ dì jiāng qí kuò dà tào yòng de nà gǔ fēng qì."
+    },
+    {
+      "ko": "따라서 우리에게 필요한 것은 모든 잣대를 없애는 것이 아니라, 상황에 맞는 합리적인 기준과 그렇지 않은 과잉 해석을 구분하는 분별력이다.",
+      "zh": "因此，我们需要的不是消除一切标尺，而是具备分辨的眼光：能够区分哪些是贴合情境的合理准则，哪些仅仅是越界的过度解读。",
+      "py": "yīn cǐ, wǒ men xū yào de bú shì xiāo chú yī qiè biāo chǐ, ér shì jù bèi fēn biàn de yǎn guāng: néng gòu qū fēn nǎ xiē shì tiē hé qíng jìng de hé lǐ zhǔn zé, nǎ xiē jǐn jǐn shì yuè jiè de guò dù jiě dú."
+    },
+    {
+      "ko": "폭염 속 반바지 출근처럼 건강과 효율을 위한 합리적 변화는 적극적으로 받아들이되, 옷 색깔로 사상을 재단하는 식의 비합리적 시선은 단호히 거부해야 한다.",
+      "zh": "像酷暑中穿短裤上班这种兼顾健康与效率的合理改变，应主动接纳；而凭衣服颜色裁断立场这种不合理的审视目光，则必须断然拒绝。",
+      "py": "xiàng kù shǔ zhōng chuān duǎn kù shàng bān zhè zhǒng jiān gù jiàn kāng yǔ xiào lǜ de hé lǐ gǎi biàn, yīng zhǔ dòng jiē nà; ér píng yī fú yán sè cái duàn lì chǎng zhè zhǒng bù hé lǐ de shěn shì mù guāng, zé bì xū duàn rán jù jué."
+    },
+    {
+      "ko": "자유는 무질서와 다르다.",
+      "zh": "自由不等于无序。",
+      "py": "zì yóu bù děng yú wú xù."
+    },
+    {
+      "ko": "최소한의 약속과 배려 위에 세워진 자유라야, 비로소 모두에게 편안한 자유가 될 수 있다.",
+      "zh": "唯有建立在起码的约定和彼此体谅之上的自由，才能真正成为让所有人都舒适与安心的自由。",
+      "py": "wéi yǒu jiàn lì zài qǐ mǎ de yuē dìng hé bǐ cǐ tǐ liàng zhī shàng de zì yóu, cái néng zhēn zhèng chéng wéi ràng suǒ yǒu rén dōu shū shì yǔ ān xīn de zì yóu."
+    }
+  ]
+}
