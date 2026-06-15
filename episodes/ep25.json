@@ -1,0 +1,148 @@
+{
+  "num": "EP.25",
+  "tag": "칼럼",
+  "titleKo": "청년 고용 위기와 정년 연장, 함께 풀어야 할 방정식",
+  "titleZh": "青年就业危机与延迟退休，必须一起求解的方程",
+  "sentences": [
+    {
+      "ko": "2026년 한국의 청년 고용 상황은 빠르게 나빠지고 있다.",
+      "zh": "2026年，韩国青年就业形势正迅速恶化。",
+      "py": "2026 nián, hán guó qīng nián jiù yè xíng shì zhèng xùn sù è huà."
+    },
+    {
+      "ko": "국가 데이터처에 따르면 올해 5월 청년층(15~29세) 고용률은 43.8%로 1년 전보다 2.4%포인트 떨어졌고, 이는 25개월 연속 하락이다.",
+      "zh": "韩国国家数据处的数据显示，今年5月青年（15-29岁）就业率为43.8%，同比下降2.4个百分点，已连续25个月下滑。",
+      "py": "hán guó guó jiā shù jù chù de shù jù xiǎn shì, jīn nián 5 yuè qīng nián( 15 - 29 suì) jiù yè lǜ wèi 43 . 8 %, tóng bǐ xià jiàng 2 . 4 gè bǎi fēn diǎn, yǐ lián xù 25 gè yuè xià huá."
+    },
+    {
+      "ko": "같은 기간 청년 취업자는 25만5000명 줄었다.",
+      "zh": "同期，青年就业人数减少25.5万。",
+      "py": "tóng qī, qīng nián jiù yè rén shù jiǎn shǎo 25 . 5 wàn."
+    },
+    {
+      "ko": "산업별로는 제조업에서 14만 명, 전문·과학·기술 서비스업에서 9만 명이 감소했다.",
+      "zh": "分行业来看，制造业减少14万，专业·科学·技术服务业减少9万。",
+      "py": "fēn háng yè lái kàn, zhì zào yè jiǎn shǎo 14 wàn, zhuān yè· kē xué· jì shù fú wù yè jiǎn shǎo 9 wàn."
+    },
+    {
+      "ko": "인공지능 확산으로 전문직 신입 채용이 위축될 것이라는 우려가 실제 수치로 확인되고 있다.",
+      "zh": "此前外界担忧人工智能的普及会压缩专业岗位的新人招聘，如今这一担忧已在实际数据中得到印证。",
+      "py": "cǐ qián wài jiè dān yōu rén gōng zhì néng de pǔ jí huì yā suō zhuān yè gǎng wèi de xīn rén zhāo pìn, rú jīn zhè yī dān yōu yǐ zài shí jì shù jù zhōng dé dào yìn zhèng."
+    },
+    {
+      "ko": "수출 호조도 고용을 끌어올리지 못한다.",
+      "zh": "出口强劲同样未能带动就业增长。",
+      "py": "chū kǒu qiáng jìng tóng yàng wèi néng dài dòng jiù yè zēng zhǎng."
+    },
+    {
+      "ko": "지난달 수출액은 877억 달러로 사상 최대를 기록했지만, 그 중심인 반도체는 일자리를 많이 만들지 못한다.",
+      "zh": "上月韩国出口额达877亿美元，创下历史新高，但作为出口主力的半导体产业却未能创造大量就业岗位。",
+      "py": "shàng yuè hán guó chū kǒu é dá 877 yì měi yuán, chuàng xià lì shǐ xīn gāo, dàn zuò wéi chū kǒu zhǔ lì de bàn dǎo tǐ chǎn yè què wèi néng chuàng zào dà liàng jiù yè gǎng wèi."
+    },
+    {
+      "ko": "한국은행 분석에서 반도체 산업의 취업유발계수는 생산 10억 원당 2.4명으로, 전체 산업 평균 8.2명이나 제조업 평균 5.1명에 크게 못 미친다.",
+      "zh": "据韩国银行分析，半导体产业的就业带动系数为每10亿韩元产出带动2.4人就业，远低于全行业平均的8.2人，也大幅低于制造业平均的5.1人。",
+      "py": "jù hán guó yín háng fēn xī, bàn dǎo tǐ chǎn yè de jiù yè dài dòng xì shù wèi měi 10 yì hán yuán chǎn chū dài dòng 2 . 4 rén jiù yè, yuǎn dī yú quán háng yè píng jūn de 8 . 2 rén, yě dà fú dī yú zhì zào yè píng jūn de 5 . 1 rén."
+    },
+    {
+      "ko": "반도체가 제조업 전체 취업자에서 차지하는 비중도 4% 수준에 그친다.",
+      "zh": "半导体就业人数在制造业总就业人数中的占比仅为4%左右。",
+      "py": "bàn dǎo tǐ jiù yè rén shù zài zhì zào yè zǒng jiù yè rén shù zhōng de zhàn bǐ jǐn wèi 4 % zuǒ yòu."
+    },
+    {
+      "ko": "수출이 늘어도 청년이 갈 일자리는 늘지 않는 구조다.",
+      "zh": "这形成了一种结构性困境：即便出口增长，青年可去的岗位并未随之增加。",
+      "py": "zhè xíng chéng le yī zhǒng jié gòu xìng kùn jìng: jí biàn chū kǒu zēng zhǎng, qīng nián kě qù de gǎng wèi bìng wèi suí zhī zēng jiā."
+    },
+    {
+      "ko": "이런 상황에서 더불어민주당은 정년을 65세로 연장하는 방안을 다시 논의하기로 했다.",
+      "zh": "在此背景下，共同民主党决定重新讨论将法定退休年龄延迟至65岁的方案。",
+      "py": "zài cǐ bèi jǐng xià, gòng tóng mín zhǔ dǎng jué dìng chóng xīn tǎo lùn jiāng fǎ dìng tuì xiū nián líng yán chí zhì 65 suì de fāng àn."
+    },
+    {
+      "ko": "2028년부터 2년마다 1세씩 올려 국민연금 수급이 시작되는 2036년에 65세에 이르게 하는 안이 유력하다.",
+      "zh": "目前较为有力的方案是：自2028年起，每两年延长一岁，至开始领取养老金的2036年达到65岁。",
+      "py": "mù qián jiào wéi yǒu lì de fāng àn shì: zì 2028 nián qǐ, měi liǎng nián yán cháng yī suì, zhì kāi shǐ lǐng qǔ yǎng lǎo jīn de 2036 nián dá dào 65 suì."
+    },
+    {
+      "ko": "정년과 연금 수급 사이의 공백을 메워야 한다는 점에서 정년 연장은 미룰 수 없는 과제이고, 국민 10명 중 9명도 이에 동의한다.",
+      "zh": "鉴于必须填补退休年龄与养老金领取年龄之间的空档期，延迟退休年龄已是刻不容缓的课题，且九成国民对此表示赞同。",
+      "py": "jiàn yú bì xū tián bǔ tuì xiū nián líng yǔ yǎng lǎo jīn lǐng qǔ nián líng zhī jiān de kōng dàng qī, yán chí tuì xiū nián líng yǐ shì kè bù róng huǎn de kè tí, qiě jiǔ chéng guó mín duì cǐ biǎo shì zàn tóng."
+    },
+    {
+      "ko": "문제는 임금체계를 그대로 둔 채 정년만 늘릴 때 생긴다.",
+      "zh": "问题在于，若仅延迟退休年龄而不改变薪酬体系，就会产生负面效应。",
+      "py": "wèn tí zài yú, ruò jǐn yán chí tuì xiū nián líng ér bù gǎi biàn xīn chóu tǐ xì, jiù huì chǎn shēng fù miàn xiào yìng."
+    },
+    {
+      "ko": "한국은행이 2025년 4월 내놓은 보고서는 이 위험을 구체적으로 보여준다.",
+      "zh": "韩国银行2025年4月发布的报告具体揭示了这一风险。",
+      "py": "hán guó yín háng 2025 nián 4 yuè fā bù de bào gào jù tǐ jiē shì le zhè yī fēng xiǎn."
+    },
+    {
+      "ko": "2016년 임금체계 조정 없이 시행된 60세 정년 의무화로 고령 근로자가 1명 늘 때 청년 근로자는 0.4명에서 1.5명까지 줄었고, 근로자 1000명 이상 대기업에서는 50대 1명이 늘면 20대 1명이 줄었다.",
+      "zh": "2016年，在未调整薪酬体系的情况下强制实施60岁退休义务制，结果高龄劳动者每增加1人，青年劳动者便相应减少0.4至1.5人；在1000人以上的大企业中，50多岁员工每增加1人，20多岁员工便减少1人。",
+      "py": "2016 nián, zài wèi tiáo zhěng xīn chóu tǐ xì de qíng kuàng xià qiáng zhì shí shī 60 suì tuì xiū yì wù zhì, jié guǒ gāo líng láo dòng zhě měi zēng jiā 1 rén, qīng nián láo dòng zhě biàn xiāng yìng jiǎn shǎo 0 . 4 zhì 1 . 5 rén; zài 1000 rén yǐ shàng de dà qǐ yè zhōng, 50 duō suì yuán gōng měi zēng jiā 1 rén, 20 duō suì yuán gōng biàn jiǎn shǎo 1 rén."
+    },
+    {
+      "ko": "정년만 연장하면 청년 고용 위축, 조기 퇴직, 대기업과 중소기업 사이의 노동시장 이중구조 심화 같은 부작용이 되풀이될 수 있다는 것이다.",
+      "zh": "报告指出，若仅延迟退休年龄，青年就业萎缩、提前退休问题、大企业与中小企业间劳动力市场二元结构恶化等副作用恐将重演。",
+      "py": "bào gào zhǐ chū, ruò jǐn yán chí tuì xiū nián líng, qīng nián jiù yè wēi suō, tí qián tuì xiū wèn tí, dà qǐ yè yǔ zhōng xiǎo qǐ yè jiān láo dòng lì shì chǎng èr yuán jié gòu è huà děng fù zuò yòng kǒng jiāng chóng yǎn."
+    },
+    {
+      "ko": "해법의 단서는 일본에 있다.",
+      "zh": "破局之策可借鉴日本经验。",
+      "py": "pò jú zhī cè kě jiè jiàn rì běn jīng yàn."
+    },
+    {
+      "ko": "일본은 법정 정년을 60세로 두되, 기업이 정년 연장, 정년 폐지, 퇴직 후 재고용 가운데 하나를 골라 65세까지 고용을 유지하도록 했다.",
+      "zh": "日本法定退休年龄虽为60岁，但要求企业必须在延长退休年龄、废除退休制度、退休后再雇佣这三种方式中任选其一，以确保员工工作至65岁。",
+      "py": "rì běn fǎ dìng tuì xiū nián líng suī wèi 60 suì, dàn yāo qiú qǐ yè bì xū zài yán cháng tuì xiū nián líng, fèi chú tuì xiū zhì dù, tuì xiū hòu zài gù yōng zhè sān zhǒng fāng shì zhōng rèn xuǎn qí yī, yǐ què bǎo yuán gōng gōng zuò zhì 65 suì."
+    },
+    {
+      "ko": "그 결과 65세까지 고용 의무를 지키는 기업이 99.9%에 이른다.",
+      "zh": "结果显示，履行至65岁雇佣义务的企业比例高达99.9%。",
+      "py": "jié guǒ xiǎn shì, lǚ xíng zhì 65 suì gù yōng yì wù de qǐ yè bǐ lì gāo dá 99 . 9 %."
+    },
+    {
+      "ko": "다수 기업이 재고용을 택하면서 60세 이상 임금은 이전의 평균 63.8% 수준으로 조정됐고, 기업의 부담도 그만큼 줄었다.",
+      "zh": "由于多数企业选择了再雇佣制度，60岁以上员工的薪酬被下调至退休前平均工资的63.8%左右，企业负担也因此相应减轻。",
+      "py": "yóu yú duō shù qǐ yè xuǎn zé le zài gù yōng zhì dù, 60 suì yǐ shàng yuán gōng de xīn chóu bèi xià tiáo zhì tuì xiū qián píng jūn gōng zī de 63 . 8 % zuǒ yòu, qǐ yè fù dān yě yīn cǐ xiāng yìng jiǎn qīng."
+    },
+    {
+      "ko": "일본 정부는 정년을 65세로 일률 연장하기보다 이 방식을 유지하는 편이 낫다고 본다.",
+      "zh": "日本政府认为，与其一刀切地将退休年龄延迟至65岁，不如维持现行做法更为妥当。",
+      "py": "rì běn zhèng fǔ rèn wéi, yǔ qí yī dāo qiē dì jiāng tuì xiū nián líng yán chí zhì 65 suì, bù rú wéi chí xiàn xíng zuò fǎ gèng wéi tuǒ dàng."
+    },
+    {
+      "ko": "한국이 택할 길도 분명하다.",
+      "zh": "韩国应走的道路同样清晰。",
+      "py": "hán guó yīng zǒu de dào lù tóng yàng qīng xī."
+    },
+    {
+      "ko": "첫째, 연공서열 중심의 임금체계를 직무와 성과에 맞게 손질해 고령 고용의 비용을 낮춰야 한다.",
+      "zh": "第一，应改革以年功序列为主的薪酬体系，使其与岗位职责和绩效挂钩，从而降低雇佣高龄员工的成本。",
+      "py": "dì yī, yīng gǎi gé yǐ nián gōng xù liè wéi zhǔ de xīn chóu tǐ xì, shǐ qí yǔ gǎng wèi zhí zé hé jì xiào guà gōu, cóng ér jiàng dī gù yōng gāo líng yuán gōng de chéng běn."
+    },
+    {
+      "ko": "둘째, 정년을 한 번에 늘리기보다 재고용과 계속고용을 함께 두어 기업이 부담을 감당할 수 있게 해야 한다.",
+      "zh": "第二，不应一次性延迟退休年龄，而应同时实施再雇佣与继续雇佣制度，让企业能够承受相应负担。",
+      "py": "dì èr, bù yīng yí cì xìng yán chí tuì xiū nián líng, ér yīng tóng shí shí shī zài gù yōng yǔ jì xù gù yōng zhì dù, ràng qǐ yè néng gòu chéng shòu xiāng yìng fù dān."
+    },
+    {
+      "ko": "셋째, 고령 고용을 늘리는 기업에 보조금을 주고, 청년 고용 실태를 상시 점검해 세대 간 일자리가 충돌하지 않도록 해야 한다.",
+      "zh": "第三，应向增加高龄员工雇佣的企业发放补贴，并对青年就业状况进行常态化监测，避免代际就业冲突。",
+      "py": "dì sān, yīng xiàng zēng jiā gāo líng yuán gōng gù yōng de qǐ yè fā fàng bǔ tiē, bìng duì qīng nián jiù yè zhuàng kuàng jìn xíng cháng tài huà jiān cè, bì miǎn dài jì jiù yè chōng tū."
+    },
+    {
+      "ko": "정년 연장은 미룰 수 없지만, 그 비용이 청년에게 전가되어서는 안 된다.",
+      "zh": "延迟退休年龄刻不容缓，但其成本绝不应转嫁给青年群体。",
+      "py": "yán chí tuì xiū nián líng kè bù róng huǎn, dàn qí chéng běn jué bù yīng zhuǎn jià gěi qīng nián qún tǐ."
+    },
+    {
+      "ko": "임금체계 개편과 사회적 대화가 함께 가야 정년 연장이 세대 갈등이 아니라 상생의 출발점이 될 수 있다.",
+      "zh": "唯有薪酬体系改革与社会对话双管齐下，延迟退休年龄才不会成为代际冲突，而会成为共赢的起点。",
+      "py": "wéi yǒu xīn chóu tǐ xì gǎi gé yǔ shè huì duì huà shuāng guǎn qí xià, yán chí tuì xiū nián líng cái bú huì chéng wéi dài jì chōng tū, ér huì chéng wéi gòng yíng de qǐ diǎn."
+    }
+  ]
+}
