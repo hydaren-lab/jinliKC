@@ -1,0 +1,118 @@
+{
+  "num": "EP.26",
+  "tag": "칼럼",
+  "titleKo": "AI에 스스로 고삐를 청한 선두 기업의 경고",
+  "titleZh": "主动请求给自己套上缰绳的AI领军企业之警告",
+  "sentences": [
+    {
+      "ko": "AI 기술을 가장 앞서 끌고 가는 기업이 스스로 “속도를 줄이고, 더 강하게 규제해 달라”고 말한다면 그 무게는 결코 가볍지 않다.",
+      "zh": "当一家走在AI技术最前沿的公司主动喊出“放慢脚步、加强监管”时，其分量绝不轻。",
+      "py": "dāng yī jiā zǒu zài AI jì shù zuì qián yán de gōng sī zhǔ dòng hǎn chū \"fàng màn jiǎo bù, jiā qiáng jiān guǎn\" shí, qí fēn liàng jué bù qīng."
+    },
+    {
+      "ko": "생성형 AI 분야의 선두 주자인 앤트로픽이 바로 그런 목소리를 냈다.",
+      "zh": "生成式AI领域的领跑者Anthropic，正是发出了这样的声音。",
+      "py": "shēng chéng shì AI lǐng yù de lǐng pǎo zhě Anthropic, zhèng shì fā chū le zhè yàng de shēng yīn."
+    },
+    {
+      "ko": "대부분의 기술 기업이 혁신을 앞세워 규제 완화를 요구하는 흐름과는 정반대다.",
+      "zh": "这与多数科技公司高举创新旗号、要求放松监管的潮流恰恰相反——",
+      "py": "zhè yǔ duō shù kē jì gōng sī gāo jǔ chuàng xīn qí hào, yào qiú fàng sōng jiān guǎn de cháo liú qià qià xiāng fǎn——"
+    },
+    {
+      "ko": "채찍을 쥐여 달라고 자청하는 셈이니, 업계 안팎이 술렁이는 것도 당연하다.",
+      "zh": "它等于主动请求别人把鞭子递到自己手中，业界内外为之骚动也就不足为奇。",
+      "py": "tā děng yú zhǔ dòng qǐng qiú bié rén bǎ biān zi dì dào zì jǐ shǒu zhōng, yè jiè nèi wài wèi zhī sāo dòng yě jiù bù zú wèi qí."
+    },
+    {
+      "ko": "지난 10일 앤트로픽의 다리오 아모데이 최고경영자는 한 편의 에세이를 통해, 최첨단 AI가 불러올 수 있는 위험을 막으려면 정부의 통제 권한이 지금보다 훨씬 강력해져야 한다고 주장했다.",
+      "zh": "本月10日，Anthropic首席执行官达里奥·阿莫迪发表了一篇文章，主张若要防范尖端AI可能带来的风险，政府的管控权限必须比现在强大得多。",
+      "py": "běn yuè 10 rì, Anthropic shǒu xí zhí xíng guān dá lǐ ào· ā mò dí fā biǎo le yī piān wén zhāng, zhǔ zhāng ruò yào fáng fàn jiān duān AI kě néng dài lái de fēng xiǎn, zhèng fǔ de guǎn kòng quán xiàn bì xū bǐ xiàn zài qiáng dà dé duō."
+    },
+    {
+      "ko": "그는 가장 앞선 성능을 지닌 이른바 '프런티어 모델'이 사이버 안보와 금융 시스템, 핵심 기반 시설, 나아가 국가 안보 전반에 실제 위협이 될 수 있다고 봤다.",
+      "zh": "他认为，性能最为领先的所谓“前沿模型”，可能对网络安全、金融系统、关键基础设施乃至整个国家安全构成实质性威胁。",
+      "py": "tā rèn wèi, xìng néng zuì wèi lǐng xiān de suǒ wèi \"qián yán mó xíng\", kě néng duì wǎng luò ān quán, jīn róng xì tǒng, guān jiàn jī chǔ shè shī nǎi zhì zhěng gè guó jiā ān quán gòu chéng shí zhì xìng wēi xié."
+    },
+    {
+      "ko": "그러면서 의약품이나 항공기가 그렇듯 AI 역시 출시 전에 독립적인 검증과 감사를 통과해야 하며, 안전 기준에 미달하면 정부가 배포를 막거나 거둬들일 수 있어야 한다고 제안했다.",
+      "zh": "为此他提议，应像对待药品和飞机那样，要求AI在上市前通过独立的检测与审计；一旦达不到安全标准，政府就应有权阻止其发布，甚至将其撤回。",
+      "py": "wèi cǐ tā tí yì, yīng xiàng duì dài yào pǐn hé fēi jī nà yàng, yào qiú AI zài shàng shì qián tōng guò dú lì de jiǎn cè yǔ shěn jì; yī dàn dá bù dào ān quán biāo zhǔn, zhèng fǔ jiù yīng yǒu quán zǔ zhǐ qí fā bù, shèn zhì jiāng qí chè huí."
+    },
+    {
+      "ko": "며칠 앞서 나온 경고는 더 근본적이다.",
+      "zh": "几天前发出的警告则更为根本。",
+      "py": "jǐ tiān qián fā chū de jǐng gào zé gèng wèi gēn běn."
+    },
+    {
+      "ko": "앤트로픽의 공동창업자 잭 클라크와 연구 책임자들은 AI가 사람의 손을 빌리지 않고 스스로를 개량하는 단계, 이른바 '재귀적 자기 개선'에 가까워지고 있다고 진단했다.",
+      "zh": "Anthropic联合创始人杰克·克拉克及其研究团队判断，AI正逐步逼近无需借助人力、自行迭代升级的阶段，也就是所谓的“递归自我改进”。",
+      "py": "Anthropic lián hé chuàng shǐ rén jié kè· kè lā kè jí qí yán jiū tuán duì pàn duàn, AI zhèng zhú bù bī jìn wú xū jiè zhù rén lì, zì xíng dié dài shēng jí de jiē duàn, yě jiù shì suǒ wèi de \"dì guī zì wǒ gǎi jìn\"."
+    },
+    {
+      "ko": "기계가 더 똑똑한 기계를 만들고, 그렇게 만들어진 기계가 또 한 단계 위의 기계를 설계하는 순환이 일단 시작되면, 발전 속도는 사람이 가늠하기 어려운 수준으로 치솟는다.",
+      "zh": "一旦机器造出更聪明的机器，而这些机器又设计出更高一层的机器，这种循环一经启动，发展速度便会飙升到人类难以估量的程度。",
+      "py": "yī dàn jī qì zào chū gèng cōng míng de jī qì, ér zhè xiē jī qì yòu shè jì chū gèng gāo yī céng de jī qì, zhè zhǒng xún huán yī jīng qǐ dòng, fā zhǎn sù dù biàn huì biāo shēng dào rén lèi nán yǐ gū liàng de chéng dù."
+    },
+    {
+      "ko": "이들이 세계를 향해 개발 속도 자체를 늦추는 방안을 진지하게 논의하자고 촉구한 이유다.",
+      "zh": "这正是他们呼吁全球认真讨论放慢开发速度本身的原因。",
+      "py": "zhè zhèng shì tā men hū xū quán qiú rèn zhēn tǎo lùn fàng màn kāi fā sù dù běn shēn de yuán yīn."
+    },
+    {
+      "ko": "이 경고가 더 묵직하게 다가오는 까닭은, 우려가 이미 현실의 얼굴을 하고 나타나고 있어서다.",
+      "zh": "这一警告之所以更显沉重，是因为种种忧虑已经以现实的面貌浮现。",
+      "py": "zhè yī jǐng gào zhī suǒ yǐ gèng xiǎn chén zhòng, shì yīn wèi zhǒng zhǒng yōu lǜ yǐ jīng yǐ xiàn shí de miàn mào fú xiàn."
+    },
+    {
+      "ko": "생성형 AI는 사무와 창작, 번역 같은 영역에서 사람의 일을 빠르게 대체하며 고용 시장에 균열을 내고 있다.",
+      "zh": "生成式AI正在办公、创作、翻译等领域迅速取代人的工作，使就业市场出现裂痕。",
+      "py": "shēng chéng shì AI zhèng zài bàn gōng, chuàng zuò, fān yì děng lǐng yù xùn sù qǔ dài rén de gōng zuò, shǐ jiù yè shì chǎng chū xiàn liè hén."
+    },
+    {
+      "ko": "사람과의 관계를 끊고 오직 챗봇과의 대화에만 빠져드는 청소년들의 사례도 잇따른다.",
+      "zh": "一些青少年切断与他人的往来，沉溺于只同聊天机器人对话的案例也接连出现。",
+      "py": "yī xiē qīng shǎo nián qiè duàn yǔ tā rén de wǎng lái, chén nì yú zhǐ tóng liáo tiān jī qì rén duì huà de àn lì yě jiē lián chū xiàn."
+    },
+    {
+      "ko": "여기에 더해 AI가 인간의 통제를 벗어나 스스로 진화하는 국면에 들어선다면, 우리가 맞이할 혼란은 지금의 상상을 넘어설 것이다.",
+      "zh": "倘若再加上AI挣脱人类掌控、开始自我进化的局面，我们将要面对的混乱恐怕会超出眼下的想象。",
+      "py": "tǎng ruò zài jiā shàng AI zhēng tuō rén lèi zhǎng kòng, kāi shǐ zì wǒ jìn huà de jú miàn, wǒ men jiāng yào miàn duì de hùn luàn kǒng pà huì chāo chū yǎn xià de xiǎng xiàng."
+    },
+    {
+      "ko": "그럼에도 질주는 멈추지 않는다.",
+      "zh": "然而，狂奔并未停下。",
+      "py": "rán ér, kuáng bēn bìng wèi tíng xià."
+    },
+    {
+      "ko": "기술 패권을 쥐려는 거대 기업들과 AI를 성장 동력으로 삼아 사활을 건 국가들이 맞물리면서, 개발 경쟁은 브레이크가 고장 난 자동차처럼 내달린다.",
+      "zh": "争夺技术霸权的巨头企业，与把AI当作增长引擎、赌上国运的国家彼此交缠，使这场开发竞赛如同刹车失灵的汽车一路狂飙。",
+      "py": "zhēng duó jì shù bà quán de jù tóu qǐ yè, yǔ bǎ AI dāng zuò zēng zhǎng yǐn qíng, dǔ shàng guó yùn de guó jiā bǐ cǐ jiāo chán, shǐ zhè chǎng kāi fā jìng sài rú tóng shā chē shī líng de qì chē yī lù kuáng biāo."
+    },
+    {
+      "ko": "누구도 먼저 속도를 늦추려 하지 않는 구조 속에서, 안전은 늘 뒷순위로 밀려난다.",
+      "zh": "在谁都不愿率先减速的格局里，安全总是被挤到次要位置。",
+      "py": "zài shuí dōu bù yuàn lǜ xiān jiǎn sù de gé jú lǐ, ān quán zǒng shì bèi jǐ dào cì yào wèi zhì."
+    },
+    {
+      "ko": "앤트로픽이 던진 경고를 한 기업의 자기 홍보쯤으로 흘려들어선 안 된다.",
+      "zh": "我们不该把Anthropic发出的警告当作某个企业的自我宣传，随便听听就作罢。",
+      "py": "wǒ men bù gāi bǎ Anthropic fā chū de jǐng gào dāng zuò mǒu gè qǐ yè de zì wǒ xuān chuán, suí biàn tīng tīng jiù zuò bà."
+    },
+    {
+      "ko": "시장에 나오기 전에 충분한 안전성 검증을 거치도록 법과 제도의 그물을 촘촘히 짜는 일이 시급하다.",
+      "zh": "当务之急，是把法律与制度的网织得更密，确保AI在进入市场之前经过充分的安全验证。",
+      "py": "dāng wù zhī jí, shì bǎ fǎ lǜ yǔ zhì dù de wǎng zhī dé gèng mì, què bǎo AI zài jìn rù shì chǎng zhī qián jīng guò chōng fēn de ān quán yàn zhèng."
+    },
+    {
+      "ko": "기술의 발전 자체를 막자는 것이 아니다.",
+      "zh": "这并非要阻止技术本身的进步。",
+      "py": "zhè bìng fēi yào zǔ zhǐ jì shù běn shēn de jìn bù."
+    },
+    {
+      "ko": "AI가 인류를 위협하는 도구가 아니라 삶을 풍요롭게 하는 동반자가 되도록, 지금이 바로 그 방향을 함께 고민해야 할 때다.",
+      "zh": "不让AI沦为威胁人类的工具，而是让它成为丰富生活的伙伴——现在正是我们共同思考这一方向的时候。",
+      "py": "bù ràng AI lún wèi wēi xié rén lèi de gōng jù, ér shì ràng tā chéng wèi fēng fù shēng huó de huǒ bàn—— xiàn zài zhèng shì wǒ men gòng tóng sī kǎo zhè yī fāng xiàng de shí hòu."
+    }
+  ]
+}
