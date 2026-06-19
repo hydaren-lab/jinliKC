@@ -1,0 +1,178 @@
+{
+  "num": "EP.30",
+  "tag": "칼럼",
+  "titleKo": "[찬성] 24년 만의 결단, AI 시대는 원전 없이 건널 수 없다",
+  "titleZh": "[赞成] 时隔24年的决断：没有核电，就无法跨越AI时代",
+  "sentences": [
+    {
+      "ko": "6월 17일 한국수력원자력 부지선정위원회가 신규 대형 원전 부지로 경북 영덕을, 혁신형 소형모듈원전(SMR) 부지로 부산 기장을 확정했다.",
+      "zh": "6月17日，韩国水力原子力公司的厂址选定委员会，将新建大型核电站的厂址定在庆北盈德，将创新型小型模块化反应堆（SMR）的厂址定在釜山机张。",
+      "py": "6 yuè 17 rì, hán guó shuǐ lì yuán zi lì gōng sī de chǎng zhǐ xuǎn dìng wěi yuán huì, jiāng xīn jiàn dà xíng hé diàn zhàn de chǎng zhǐ dìng zài qìng běi yíng dé, jiāng chuàng xīn xíng xiǎo xíng mó kuài huà fǎn yīng duī( SMR) de chǎng zhǐ dìng zài fǔ shān jī zhāng."
+    },
+    {
+      "ko": "2002년 신한울 이후 24년 만에 나온 신규 원전 부지 결정이다.",
+      "zh": "这是继2002年新韩蔚核电之后、时隔24年才出炉的新建核电厂址决定。",
+      "py": "zhè shì jì 2002 nián xīn hán wèi hé diàn zhī hòu, shí gé 24 nián cái chū lú de xīn jiàn hé diàn chǎng zhǐ jué dìng."
+    },
+    {
+      "ko": "빠른 결단이라기보다, 미뤄둘 만큼 미뤄온 숙제를 이제야 손에 쥔 셈이다.",
+      "zh": "与其说是当机立断，不如说是一拖再拖的功课，如今总算接过了手。",
+      "py": "yǔ qí shuō shì dāng jī lì duàn, bù rú shuō shì yī tuō zài tuō de gōng kè, rú jīn zǒng suàn jiē guò le shǒu."
+    },
+    {
+      "ko": "그동안 우리는 원전을 둘러싼 찬반 사이에서 너무 오래 제자리걸음을 했고, 그사이 세계의 에너지 지형은 빠르게 바뀌었다.",
+      "zh": "这些年来，我们在围绕核电的拥核与反核之争中原地踏步太久，而全球能源格局早已在此期间发生了剧变。",
+      "py": "zhè xiē nián lái, wǒ men zài wéi rào hé diàn de yōng hé yǔ fǎn hé zhī zhēng zhōng yuán dì tà bù tài jiǔ, ér quán qiú néng yuán gé jú zǎo yǐ zài cǐ qī jiān fā shēng le jù biàn."
+    },
+    {
+      "ko": "결정의 한가운데에는 폭발적으로 불어나는 전력 수요가 있다.",
+      "zh": "这一决定的核心，在于急剧膨胀的电力需求。",
+      "py": "zhè yī jué dìng de hé xīn, zài yú jí jù péng zhàng de diàn lì xū qiú."
+    },
+    {
+      "ko": "인공지능과 데이터센터가 빨아들이는 전기의 양은 상상을 넘어선다.",
+      "zh": "人工智能和数据中心吞噬电力的规模超乎想象。",
+      "py": "rén gōng zhì néng hé shù jù zhōng xīn tūn shì diàn lì de guī mó chāo hū xiǎng xiàng."
+    },
+    {
+      "ko": "산업통상자원부 추산으로는 2029년까지 새로 들어설 데이터센터에 필요한 전력만 5만 메가와트에 육박한다.",
+      "zh": "据韩国产业通商资源部推算，到2029年新增数据中心所需的电力就将逼近5万兆瓦，",
+      "py": "jù hán guó chǎn yè tōng shāng zī yuán bù tuī suàn, dào 2029 nián xīn zēng shù jù zhōng xīn suǒ xū de diàn lì jiù jiāng bī jìn 5 wàn zhào wǎ,"
+    },
+    {
+      "ko": "1기가와트급 원전 수십 기에 맞먹는 규모다.",
+      "zh": "相当于数十座1吉瓦级核电站的规模。",
+      "py": "xiāng dāng yú shù shí zuò 1 jí wǎ jí hé diàn zhàn de guī mó."
+    },
+    {
+      "ko": "전기가 모자라면 첨단 산업은 첫 삽조차 뜨지 못한다.",
+      "zh": "电力一旦短缺，尖端产业连第一锹土都动不了。",
+      "py": "diàn lì yī dàn duǎn quē, jiān duān chǎn yè lián dì yī qiāo tǔ dōu dòng bù le."
+    },
+    {
+      "ko": "전력은 더 이상 단순한 비용이 아니라, 국가의 미래를 가르는 기반 시설이다.",
+      "zh": "电力早已不只是一项成本，更是左右国家未来的基础设施。",
+      "py": "diàn lì zǎo yǐ bù zhǐ shì yī xiàng chéng běn, gèng shì zuǒ yòu guó jiā wèi lái de jī chǔ shè shī."
+    },
+    {
+      "ko": "햇빛과 바람은 분명 소중한 자원이지만, 그것만으로 24시간 멈추지 않는 공장과 서버를 돌릴 수는 없다.",
+      "zh": "阳光与风固然是宝贵的资源，但仅凭它们，无法让24小时不停运转的工厂和服务器转起来。",
+      "py": "yáng guāng yǔ fēng gù rán shì bǎo guì de zī yuán, dàn jǐn píng tā men, wú fǎ ràng 24 xiǎo shí bù tíng yùn zhuǎn de gōng chǎng hé fú wù qì zhuǎn qǐ lái."
+    },
+    {
+      "ko": "재생에너지는 날씨에 따라 출렁이는 간헐성이라는 약점을 안고 있고, 이를 메우려면 막대한 저장 설비와 백업 전원이 뒤따라야 한다.",
+      "zh": "可再生能源背负着随天气起伏的“间歇性”这一软肋，要补上这块短板，就得配套庞大的储能设施和备用电源。",
+      "py": "kě zài shēng néng yuán bèi fù zhe suí tiān qì qǐ fú de \"jiān xiē xìng\" zhè yī ruǎn lē, yào bǔ shàng zhè kuài duǎn bǎn, jiù dé pèi tào páng dà de chǔ néng shè shī hé bèi yòng diàn yuán."
+    },
+    {
+      "ko": "반면 원전은 날씨와 무관하게 일정한 출력을 내는 기저전원이다.",
+      "zh": "相比之下，核电是不受天气左右、能稳定输出的基荷电源，",
+      "py": "xiāng bǐ zhī xià, hé diàn shì bù shòu tiān qì zuǒ yòu, néng wěn dìng shū chū de jī hé diàn yuán,"
+    },
+    {
+      "ko": "더구나 발전 과정에서 이산화탄소를 내뿜지 않는, 몇 안 되는 무탄소 전원이기도 하다.",
+      "zh": "而且还是发电过程中不排放二氧化碳的少数几种无碳电源之一。",
+      "py": "ér qiě hái shì fā diàn guò chéng zhōng bù pái fàng èr yǎng huà tàn de shǎo shù jǐ zhǒng wú tàn diàn yuán zhī yī."
+    },
+    {
+      "ko": "탄소중립이라는 약속을 지키려면 이 점을 외면할 수 없다.",
+      "zh": "要兑现碳中和的承诺，就无法回避这一点。",
+      "py": "yào duì xiàn tàn zhōng hé de chéng nuò, jiù wú fǎ huí bì zhè yī diǎn."
+    },
+    {
+      "ko": "석탄을 줄이면서 동시에 전기를 늘려야 하는 모순된 과제 앞에서, 원전은 현실적으로 손에 쥘 수 있는 거의 유일한 해법이다.",
+      "zh": "在既要减煤、又要增电这一看似两难的课题面前，核电几乎是现实中唯一抓得住的解法。",
+      "py": "zài jì yào jiǎn méi, yòu yào zēng diàn zhè yī kàn shì liǎng nán de kè tí miàn qián, hé diàn jǐ hū shì xiàn shí zhōng wéi yī zhuā dé zhù de jiě fǎ."
+    },
+    {
+      "ko": "이미 프랑스, 체코, 폴란드를 비롯한 여러 나라가 원전으로 방향을 다시 틀고 있다.",
+      "zh": "法国、捷克、波兰等许多国家，已经重新将方向转向核电。",
+      "py": "fǎ guó, jié kè, bō lán děng xǔ duō guó jiā, yǐ jīng zhòng xīn jiāng fāng xiàng zhuǎn xiàng hé diàn."
+    },
+    {
+      "ko": "세계가 원전을 다시 보는 이유는 이념이 아니라 계산이다.",
+      "zh": "世界重新审视核电，靠的不是意识形态，而是算账。",
+      "py": "shì jiè zhòng xīn shěn shì hé diàn, kào de bù shì yì shí xíng tài, ér shì suàn zhàng."
+    },
+    {
+      "ko": "전력은 곧 산업의 체력이기도 하다.",
+      "zh": "电力，也是产业的底气。",
+      "py": "diàn lì, yě shì chǎn yè de dǐ qì."
+    },
+    {
+      "ko": "반도체, 배터리, 디스플레이처럼 한국 경제를 떠받치는 산업은 하나같이 전기를 대량으로, 그것도 끊김 없이 먹어 치운다.",
+      "zh": "半导体、电池、显示器这些撑起韩国经济的产业，无一不是大量、而且不能断顿地吃电。",
+      "py": "bàn dǎo tǐ, diàn chí, xiǎn shì qì zhè xiē chēng qǐ hán guó jīng jì de chǎn yè, wú yī bù shì dà liàng, ér qiě bù néng duàn dùn dì chī diàn."
+    },
+    {
+      "ko": "값싸고 안정적인 전기를 대지 못하면 공장은 국경 밖으로 빠져나가고, 그 자리에 남는 것은 일자리의 공백뿐이다.",
+      "zh": "供不上又便宜又稳定的电，工厂就会流到国境之外，留下的只有就业岗位的流失。",
+      "py": "gōng bù shàng yòu biàn yí yòu wěn dìng de diàn, gōng chǎng jiù huì liú dào guó jìng zhī wài, liú xià de zhǐ yǒu jiù yè gǎng wèi de liú shī."
+    },
+    {
+      "ko": "원전은 한 번 지어 두면 연료비 변동에 덜 흔들리며 오랜 기간 비교적 일정한 가격으로 전기를 내놓는다.",
+      "zh": "核电一旦建成，受燃料价格波动的影响较小，能在很长时间里以相对稳定的价格供电。",
+      "py": "hé diàn yī dàn jiàn chéng, shòu rán liào jià gé bō dòng de yǐng xiǎng jiào xiǎo, néng zài hěn zhǎng shí jiān lǐ yǐ xiāng duì wěn dìng de jià gé gōng diàn."
+    },
+    {
+      "ko": "국제 정세에 따라 출렁이는 가스값 앞에서, 이 예측 가능성은 그 자체로 든든한 에너지 안보다.",
+      "zh": "在随国际局势起伏不定的天然气价格面前，这份可预测性本身，就是一道踏实的能源安全防线。",
+      "py": "zài suí guó jì jú shì qǐ fú bù dìng de tiān rán qì jià gé miàn qián, zhè fèn kě yù cè xìng běn shēn, jiù shì yī dào tà shí de néng yuán ān quán fáng xiàn."
+    },
+    {
+      "ko": "전력 자급의 폭이 좁은 나라일수록, 스스로 통제할 수 있는 전원을 손에 쥐는 일은 곧 주권의 문제가 된다.",
+      "zh": "电力自给率越低的国家，将自主可控的电源握在手中，就越是一个关乎主权的问题。",
+      "py": "diàn lì zì gěi lǜ yuè dī de guó jiā, jiāng zì zhǔ kě kòng de diàn yuán wò zài shǒu zhōng, jiù yuè shì yī gè guān hū zhǔ quán de wèn tí."
+    },
+    {
+      "ko": "물론 안전과 폐기물에 대한 걱정을 가볍게 여겨서는 안 된다.",
+      "zh": "当然，对安全与核废料的担忧绝不容小觑。",
+      "py": "dāng rán, duì ān quán yǔ hé fèi liào de dān yōu jué bù róng xiǎo qù."
+    },
+    {
+      "ko": "그러나 그 걱정은 원전을 짓지 않을 이유가 아니라, 더 안전하게 짓고 더 책임 있게 관리할 이유다.",
+      "zh": "但这些担忧不是不建核电的理由，而是把它建得更安全、管得更负责的理由。",
+      "py": "dàn zhè xiē dān yōu bù shì bù jiàn hé diàn de lǐ yóu, ér shì bǎ tā jiàn dé gèng ān quán, guǎn dé gèng fù zé de lǐ yóu."
+    },
+    {
+      "ko": "한국의 원전 기술과 운영 역량은 이미 세계가 인정한 수준이다.",
+      "zh": "韩国的核电技术与运营能力，早已得到国际公认。",
+      "py": "hán guó de hé diàn jì shù yǔ yùn yíng néng lì, zǎo yǐ dé dào guó jì gōng rèn."
+    },
+    {
+      "ko": "여론도 이를 뒷받침한다.",
+      "zh": "民意也为此背书：",
+      "py": "mín yì yě wèi cǐ bèi shū:"
+    },
+    {
+      "ko": "한국갤럽 조사에서 국민의 89.5%가 원자력 발전이 필요하다고 답했고, 신규 원전 건설에도 69.6%가 찬성했다.",
+      "zh": "韩国盖洛普的调查显示，89.5%的国民认为需要核能发电，对新建核电也有69.6%的人表示赞成。",
+      "py": "hán guó gài luò pǔ de diào chá xiǎn shì, 89.5 % de guó mín rèn wèi xū yào hé néng fā diàn, duì xīn jiàn hé diàn yě yǒu 69.6 % de rén biǎo shì zàn chéng."
+    },
+    {
+      "ko": "이제 남은 것은 속도와 일관성이다.",
+      "zh": "如今剩下的，是速度与一贯性。",
+      "py": "rú jīn shèng xià de, shì sù dù yǔ yī guàn xìng."
+    },
+    {
+      "ko": "정권이 바뀔 때마다 원전 정책이 뒤집히던 악순환은 오랫동안 산업의 발목을 잡아 왔다.",
+      "zh": "每逢政权更替核电政策就被推倒重来的恶性循环，长久以来一直拖着产业的后腿。",
+      "py": "měi féng zhèng quán gèng tì hé diàn zhèng cè jiù bèi tuī dào zhòng lái de è xìng xún huán, zhǎng jiǔ yǐ lái yī zhí tuō zhe chǎn yè de hòu tuǐ."
+    },
+    {
+      "ko": "24년 만에 어렵게 확정한 부지를 또다시 정치의 논리로 흔든다면, 그 비용은 고스란히 다음 세대의 몫이 된다.",
+      "zh": "若把时隔24年好不容易敲定的厂址，再一次用政治逻辑去搅动，这笔代价将原封不动地落到下一代头上。",
+      "py": "ruò bǎ shí gé 24 nián hǎo bù róng yì qiāo dìng de chǎng zhǐ, zài yī cì yòng zhèng zhì luó jí qù jiǎo dòng, zhè bǐ dài jià jiāng yuán fēng bù dòng dì luò dào xià yī dài tóu shàng."
+    },
+    {
+      "ko": "결단은 내려졌다.",
+      "zh": "决断已经作出，",
+      "py": "jué duàn yǐ jīng zuò chū,"
+    },
+    {
+      "ko": "이제는 미루지 않고, 안전하게, 그리고 끝까지 밀고 나가는 일만 남았다.",
+      "zh": "剩下的，就只是不再拖延、安全地、并且一干到底。",
+      "py": "shèng xià de, jiù zhǐ shì bù zài tuō yán, ān quán dì, bìng qiě yī gàn dào dǐ."
+    }
+  ]
+}
