@@ -1,0 +1,273 @@
+{
+  "num": "EP.32",
+  "tag": "칼럼",
+  "titleKo": "지방이 무너지면 대한민국도 무너진다 — 청년 유출과 인구감소, 이제는 구조를 바꿔야 한다",
+  "titleZh": "地方崩溃，韩国即倾——青年外流与人口锐减，是时候重构格局了",
+  "sentences": [
+    {
+      "ko": "지방소멸은 조용히 진행되는 국가적 붕괴다.",
+      "zh": "地方消亡，是一场悄然推进的国家级崩塌。",
+      "py": "dì fāng xiāo wáng, shì yī chǎng qiāo rán tuī jìn de guó jiā jí bēng tā."
+    },
+    {
+      "ko": "선거가 끝나면 많은 공약은 함께 사라진다.",
+      "zh": "选举落幕，许多承诺也随之烟消云散。",
+      "py": "xuǎn jǔ luò mù, xǔ duō chéng nuò yě suí zhī yān xiāo yún sàn."
+    },
+    {
+      "ko": "그러나 어떤 문제는 선거 이후에야 비로소 본질이 드러난다.",
+      "zh": "但有些问题，偏偏是选举之后才露出真容。",
+      "py": "dàn yǒu xiē wèn tí, piān piān shì xuǎn jǔ zhī hòu cái lù chū zhēn róng."
+    },
+    {
+      "ko": "지방소멸과 인구감소가 바로 그런 사례다.",
+      "zh": "地方消亡与人口减少，正是如此。",
+      "py": "dì fāng xiāo wáng yǔ rén kǒu jiǎn shǎo, zhèng shì rú cǐ."
+    },
+    {
+      "ko": "대한민국은 이미 인구 감소 사회에 진입했고, 그 충격은 수도권이 아닌 지방에서 훨씬 빠르고 깊게 나타난다.",
+      "zh": "韩国已进入人口减少社会，而这一冲击并非始于首都圈，而是在地方以更快的速度和更深的幅度显现。",
+      "py": "hán guó yǐ jìn rù rén kǒu jiǎn shǎo shè huì, ér zhè yī chōng jī bìng fēi shǐ yú shǒu dōu quān, ér shì zài dì fāng yǐ gèng kuài de sù dù hé gèng shēn de fú dù xiǎn xiàn."
+    },
+    {
+      "ko": "청년은 떠나고 지역은 늙어가며 공동체의 기반은 하나씩 무너진다.",
+      "zh": "青年离去，地区老化，共同体的根基一根根断裂。",
+      "py": "qīng nián lí qù, dì qū lǎo huà, gòng tóng tǐ de gēn jī yī gēn gēn duàn liè."
+    },
+    {
+      "ko": "지방소멸은 더 이상 가능성이 아니라 현재진행형의 위기다.",
+      "zh": "地方消亡不再是杞人忧天，而是正在发生的现实。",
+      "py": "dì fāng xiāo wáng bù zài shì qǐ rén yōu tiān, ér shì zhèng zài fā shēng de xiàn shí."
+    },
+    {
+      "ko": "이 문제의 핵심은 청년 유출이다.",
+      "zh": "问题的核心在于青年外流。",
+      "py": "wèn tí de hé xīn zài yú qīng nián wài liú."
+    },
+    {
+      "ko": "지방자치단체들은 그동안 다양한 지원 정책을 내놓았다.",
+      "zh": "韩国地方政府至今推出了五花八门的扶持政策——",
+      "py": "hán guó dì fāng zhèng fǔ zhì jīn tuī chū le wǔ huā bā mén de fú chí zhèng cè——"
+    },
+    {
+      "ko": "출산장려금, 정착지원금, 청년수당 등 각종 재정 지원이 이어졌다.",
+      "zh": "生育补贴、定居补助、青年津贴等财政投入接踵而至。",
+      "py": "shēng yù bǔ tiē, dìng jū bǔ zhù, qīng nián jīn tiē děng cái zhèng tóu rù jiē zhǒng ér zhì."
+    },
+    {
+      "ko": "그러나 결과는 기대에 미치지 못했다.",
+      "zh": "但成效未尽如人意。",
+      "py": "dàn chéng xiào wèi jǐn rú rén yì."
+    },
+    {
+      "ko": "이유는 분명하다.",
+      "zh": "其原因不言而喻：",
+      "py": "qí yuán yīn bù yán ér yù:"
+    },
+    {
+      "ko": "청년이 지역을 떠나는 것은 단순히 돈 때문이 아니다.",
+      "zh": "青年离开家乡，不单单是因为金钱。",
+      "py": "qīng nián lí kāi jiā xiāng, bù dān dān shì yīn wèi jīn qián."
+    },
+    {
+      "ko": "더 나은 일자리, 더 많은 기회, 더 높은 삶의 질을 찾아 이동하는 것은 자연스러운 선택이다.",
+      "zh": "他们流向更好工作、更多机遇、更高生活质量的地方，这是再自然不过的选择。",
+      "py": "tā men liú xiàng gèng hǎo gōng zuò, gèng duō jī yù, gèng gāo shēng huó zhì liàng de dì fāng, zhè shì zài zì rán bù guò de xuǎn zé."
+    },
+    {
+      "ko": "몇 백만 원의 지원금으로 이 흐름을 되돌리기는 어렵다.",
+      "zh": "仅凭区区几百万韩元的补贴，很难扭转这股趋势。",
+      "py": "jǐn píng qū qū jǐ bǎi wàn hán yuán de bǔ tiē, hěn nán niǔ zhuǎn zhè gǔ qū shì."
+    },
+    {
+      "ko": "기존 정책의 한계는 '일자리 중심 사고'에 있다.",
+      "zh": "现有政策的局限在于迷信“岗位至上”——",
+      "py": "xiàn yǒu zhèng cè de jú xiàn zài yú mí xìn \"gǎng wèi zhì shàng\"——"
+    },
+    {
+      "ko": "기업을 유치하면 사람이 따라온다는 공식은 더 이상 유효하지 않다.",
+      "zh": "以为只要引来企业，人才就会跟着来，这套公式早已失效。",
+      "py": "yǐ wèi zhǐ yào yǐn lái qǐ yè, rén cái jiù huì gēn zhe lái, zhè tào gōng shì zǎo yǐ shī xiào."
+    },
+    {
+      "ko": "실제로 산업단지가 조성된 지역에서도 청년 유출은 멈추지 않았다.",
+      "zh": "事实上，连建了产业园的地区，青年照样外流。",
+      "py": "shì shí shàng, lián jiàn le chǎn yè yuán de dì qū, qīng nián zhào yàng wài liú."
+    },
+    {
+      "ko": "일자리는 필요조건일 뿐 충분조건이 아니다.",
+      "zh": "工作岗位只是必要条件，远非充分条件。",
+      "py": "gōng zuò gǎng wèi zhǐ shì bì yào tiáo jiàn, yuǎn fēi chōng fēn tiáo jiàn."
+    },
+    {
+      "ko": "오늘날 청년이 선택하는 지역은 단순히 일할 수 있는 곳이 아니라 살고 싶은 곳이다.",
+      "zh": "如今青年选择的地区，不再只是能谋生的地方，而是能够过上幸福美好生活的地方。",
+      "py": "rú jīn qīng nián xuǎn zé de dì qū, bù zài zhǐ shì néng móu shēng de dì fāng, ér shì néng gòu guò shàng xìng fú měi hǎo shēng huó de dì fāng."
+    },
+    {
+      "ko": "문화, 교육, 의료, 교통 등 삶의 질 전반을 따진다.",
+      "zh": "他们要衡量的是文化、教育、医疗、交通——整个生活质量的综合分。",
+      "py": "tā men yào héng liàng de shì wén huà, jiào yù, yī liáo, jiāo tōng—— zhěng gè shēng huó zhì liàng de zōng hé fēn."
+    },
+    {
+      "ko": "그래서 해법은 단순한 지원 확대가 아니라 구조의 전환에 있다.",
+      "zh": "所以，真正的解法不在于单纯加码补贴，而在于结构性转型。",
+      "py": "suǒ yǐ, zhēn zhèng de jiě fǎ bù zài yú dān chún jiā mǎ bǔ tiē, ér zài yú jié gòu xìng zhuǎn xíng."
+    },
+    {
+      "ko": "출발점은 지역의 핵심 거점을 재정립하는 일이다.",
+      "zh": "起点，是从重塑地方发展的核心支点入手。",
+      "py": "qǐ diǎn, shì cóng zhòng sù dì fāng fā zhǎn de hé xīn zhī diǎn rù shǒu."
+    },
+    {
+      "ko": "특히 지방대학의 역할을 다시 설계해야 한다.",
+      "zh": "尤其要重新设计地方大学的角色——",
+      "py": "yóu qí yào zhòng xīn shè jì dì fāng dà xué de jiǎo sè——"
+    },
+    {
+      "ko": "지방대학은 단순한 교육기관이 아니라 지역 인재를 길러내고 산업과 연결하는 중심축이다.",
+      "zh": "它不只是一所教育机构，更是培养本地人才、对接产业需求的枢纽。",
+      "py": "tā bù zhǐ shì yī suǒ jiào yù jī gòu, gèng shì péi yǎng běn dì rén cái, duì jiē chǎn yè xū qiú de shū niǔ."
+    },
+    {
+      "ko": "대학, 기업, 연구기관, 지방정부가 유기적으로 연결된 산학연 협력 구조를 갖춰야 한다.",
+      "zh": "必须构建大学、企业、研究机构与地方政府有机联动的产学研合作体系。",
+      "py": "bì xū gòu jiàn dà xué, qǐ yè, yán jiū jī gòu yǔ dì fāng zhèng fǔ yǒu jī lián dòng de chǎn xué yán hé zuò tǐ xì."
+    },
+    {
+      "ko": "졸업 후 지역에서 일하고 정착할 경로가 만들어질 때 청년 유출은 비로소 줄어든다.",
+      "zh": "只有毕业后能就地就业、就地定居的路径真正打通，青年外流才有望缓解。",
+      "py": "zhǐ yǒu bì yè hòu néng jiù dì jiù yè, jiù dì dìng jū de lù jìng zhēn zhèng dǎ tōng, qīng nián wài liú cái yǒu wàng huǎn jiě."
+    },
+    {
+      "ko": "산업 전략 역시 전면적으로 재검토해야 한다.",
+      "zh": "产业战略同样需要全面审视。",
+      "py": "chǎn yè zhàn lüè tóng yàng xū yào quán miàn shěn shì."
+    },
+    {
+      "ko": "모든 지역이 동일한 산업을 유치하려는 경쟁은 현실적이지 않다.",
+      "zh": "各地争抢同一类产业，并不现实。",
+      "py": "gè dì zhēng qiǎng tóng yī lèi chǎn yè, bìng bù xiàn shí."
+    },
+    {
+      "ko": "지역마다 고유한 자원과 강점이 다르다.",
+      "zh": "各地禀赋不同，优势各异——",
+      "py": "gè dì bǐng fù bù tóng, yōu shì gè yì——"
+    },
+    {
+      "ko": "어떤 곳은 관광과 문화, 어떤 곳은 농식품, 또 어떤 곳은 에너지나 해양 산업에 경쟁력이 있다.",
+      "zh": "有的宜文旅，有的擅农食，有的在能源或海洋产业上握有好牌。",
+      "py": "yǒu de yí wén lǚ, yǒu de shàn nóng shí, yǒu de zài néng yuán huò hǎi yáng chǎn yè shàng wò yǒu hǎo pái."
+    },
+    {
+      "ko": "중요한 것은 획일적인 발전이 아니라 차별화된 성장이다.",
+      "zh": "关键不在千城一面，而在各展所长。",
+      "py": "guān jiàn bù zài qiān chéng yī miàn, ér zài gè zhǎn suǒ zhǎng."
+    },
+    {
+      "ko": "지역별 특화 산업을 기반으로 지속 가능한 일자리를 만들어야 한다.",
+      "zh": "要依托地方特色产业，创造可持续的就业岗位。",
+      "py": "yào yī tuō dì fāng tè sè chǎn yè, chuàng zào kě chí xù de jiù yè gǎng wèi."
+    },
+    {
+      "ko": "최근 주목받는 초광역 메가시티 전략도 이런 맥락에서 의미가 있다.",
+      "zh": "基于上述思路，近年来备受瞩目的“跨区域超级都市圈”战略才具有现实意义。",
+      "py": "jī yú shàng shù sī lù, jìn nián lái bèi shòu zhǔ mù de \"kuà qū yù chāo jí dōu shì quān\" zhàn lüè cái jù yǒu xiàn shí yì yì."
+    },
+    {
+      "ko": "인구가 적은 도시들이 각자 경쟁하는 구조로는 생존이 어렵다.",
+      "zh": "人口稀少的城市各自为战，举步维艰、难以为继。",
+      "py": "rén kǒu xī shǎo de chéng shì gè zì wèi zhàn, jǔ bù wéi jiān, nán yǐ wèi jì."
+    },
+    {
+      "ko": "대신 여러 도시를 하나의 경제권으로 묶어 규모의 효과를 확보해야 한다.",
+      "zh": "不如将多个城市整合为一个“经济圈”，靠规模效应求生——",
+      "py": "bù rú jiāng duō gè chéng shì zhěng hé wèi yī gè \"jīng jì quān\", kào guī mó xiào yīng qiú shēng——"
+    },
+    {
+      "ko": "교통망을 연결하고 산업 기능을 분담하며 교육과 의료 인프라를 공유하는 방식이다.",
+      "zh": "交通联网、产业分工、教育和医疗资源共享。",
+      "py": "jiāo tōng lián wǎng, chǎn yè fēn gōng, jiào yù hé yī liáo zī yuán gòng xiǎng."
+    },
+    {
+      "ko": "지방을 수도권처럼 만들겠다는 것이 아니라, 지방이 자체적으로 경쟁력을 확보하기 위한 현실적인 선택이다.",
+      "zh": "这不是要把地方改造成第二个首都圈，而是地方提升自身竞争力的务实选择。",
+      "py": "zhè bù shì yào bǎ dì fāng gǎi zào chéng dì èr gè shǒu dōu quān, ér shì dì fāng tí shēng zì shēn jìng zhēng lì de wù shí xuǎn zé."
+    },
+    {
+      "ko": "한편 보다 냉정한 시각도 필요하다.",
+      "zh": "另一方面，也需要保持冷静。",
+      "py": "lìng yī fāng miàn, yě xū yào bǎo chí lěng jìng."
+    },
+    {
+      "ko": "인구를 다시 늘리는 일은 단기간에 가능하지 않다.",
+      "zh": "人口回升，不是短期内能完成的事。",
+      "py": "rén kǒu huí shēng, bù shì duǎn qī nèi néng wán chéng de shì."
+    },
+    {
+      "ko": "그렇다면 질문을 바꿔야 한다.",
+      "zh": "那就不妨换个问法：",
+      "py": "nà jiù bù fáng huàn gè wèn fǎ:"
+    },
+    {
+      "ko": "어떻게 인구를 늘릴 것인가가 아니라, 인구가 줄어드는 상황에서도 어떻게 지역을 유지할 것인가다.",
+      "zh": "与其琢磨“怎么让人口再涨回来”，不如思考“人口减少了，地区怎么照样运转”？",
+      "py": "yǔ qí zuó mó \"zěn me ràng rén kǒu zài zhǎng huí lái\", bù rú sī kǎo \"rén kǒu jiǎn shǎo le, dì qū zěn me zhào yàng yùn zhuǎn\"?"
+    },
+    {
+      "ko": "스마트 행정, 원격의료, 디지털 교육, 무인 교통 등 기술을 활용하면 적은 인구로도 지역 기능을 유지한다.",
+      "zh": "借助智慧政务、远程医疗、数字教育、无人交通等技术，我们完全可以在人口减少的情况下维持地区基本功能。",
+      "py": "jiè zhù zhì huì zhèng wù, yuǎn chéng yī liáo, shù zì jiào yù, wú rén jiāo tōng děng jì shù, wǒ men wán quán kě yǐ zài rén kǒu jiǎn shǎo de qíng kuàng xià wéi chí dì qū jī běn gōng néng."
+    },
+    {
+      "ko": "지방을 포기하는 것이 아니라, 변화된 조건에 맞게 생존 방식을 다시 짜는 일이다.",
+      "zh": "这不是放弃地方，而是根据变化了的条件重新设计生存方式。",
+      "py": "zhè bù shì fàng qì dì fāng, ér shì gēn jù biàn huà le de tiáo jiàn zhòng xīn shè jì shēng cún fāng shì."
+    },
+    {
+      "ko": "결국 지방소멸 문제는 선택의 문제다.",
+      "zh": "归根结底，地方消亡是个选择问题——",
+      "py": "guī gēn jié dǐ, dì fāng xiāo wáng shì gè xuǎn zé wèn tí——"
+    },
+    {
+      "ko": "지방을 부담으로 볼 것인가, 아니면 미래를 위한 투자로 볼 것인가.",
+      "zh": "是把地方当包袱，还是当投资未来的本钱。",
+      "py": "shì bǎ dì fāng dāng bāo fú, hái shì dāng tóu zī wèi lái de běn qián."
+    },
+    {
+      "ko": "지금까지는 전자에 가까웠다.",
+      "zh": "迄今为止，我们更倾向于前者。",
+      "py": "qì jīn wèi zhǐ, wǒ men gèng qīng xiàng yú qián zhě."
+    },
+    {
+      "ko": "그러나 지방이 무너지면 수도권도 지속될 수 없다.",
+      "zh": "但地方一旦崩溃，首都圈也难以为继。",
+      "py": "dàn dì fāng yī dàn bēng kuì, shǒu dōu quān yě nán yǐ wèi jì."
+    },
+    {
+      "ko": "국가의 균형이 무너지면 장기적인 성장 역시 불가능하다.",
+      "zh": "国家整体均衡一旦打破，长期增长便无从谈起。",
+      "py": "guó jiā zhěng tǐ jūn héng yī dàn dǎ pò, zhǎng qī zēng zhǎng biàn wú cóng tán qǐ."
+    },
+    {
+      "ko": "지방을 살리는 일은 특정 지역을 지원하는 복지 정책이 아니다.",
+      "zh": "振兴地方，不是针对特定地区的福利政策，",
+      "py": "zhèn xīng dì fāng, bù shì zhēn duì tè dìng dì qū de fú lì zhèng cè,"
+    },
+    {
+      "ko": "대한민국의 미래를 지키는 전략이다.",
+      "zh": "而是守护韩国未来的战略。",
+      "py": "ér shì shǒu hù hán guó wèi lái de zhàn lüè."
+    },
+    {
+      "ko": "선거는 끝났지만, 진짜 과제는 이제부터 시작이다.",
+      "zh": "选举结束了，真正的硬仗才刚刚开始。",
+      "py": "xuǎn jǔ jié shù le, zhēn zhèng de yìng zhàng cái gāng gāng kāi shǐ."
+    },
+    {
+      "ko": "지방이 무너지면 대한민국도 무너진다.",
+      "zh": "地方崩溃，韩国即倾。",
+      "py": "dì fāng bēng kuì, hán guó jí qīng."
+    }
+  ]
+}
