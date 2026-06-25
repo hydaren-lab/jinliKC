@@ -1,0 +1,168 @@
+{
+  "num": "EP.36",
+  "tag": "칼럼",
+  "titleKo": "[찬성] 가스전 개발, 더 늦출 수 없는 에너지 안보의 선택",
+  "titleZh": "[赞成] 开发天然气田：能源安全刻不容缓的抉择",
+  "sentences": [
+    {
+      "ko": "최근 국제 정세는 에너지의 중요성을 다시 일깨운다.",
+      "zh": "近期的国际局势再次敲响了能源重要性的警钟。",
+      "py": "jìn qī de guó jì jú shì zài cì qiāo xiǎng le néng yuán zhòng yào xìng de jǐng zhōng."
+    },
+    {
+      "ko": "중동의 긴장 고조와 글로벌 공급망 불안은 유가 급등으로 이어졌고, 그 부담은 곧바로 한국 경제로 옮겨온다.",
+      "zh": "中东紧张局势升级与全球供应链动荡推高了油价，而这份压力正即刻传导至韩国经济。",
+      "py": "zhōng dōng jǐn zhāng jú shì shēng jí yǔ quán qiú gōng yīng liàn dòng dàng tuī gāo le yóu jià, ér zhè fèn yā lì zhèng jí kè chuán dǎo zhì hán guó jīng jì."
+    },
+    {
+      "ko": "에너지 수입 의존도가 90%를 넘는 구조에서 외부 충격은 그대로 국가 리스크가 된다.",
+      "zh": "在能源进口依存度超过90%的结构下，任何外部冲击都会直接转化为国家风险。",
+      "py": "zài néng yuán jìn kǒu yī cún dù chāo guò 90 % de jié gòu xià, rèn hé wài bù chōng jī dōu huì zhí jiē zhuǎn huà wèi guó jiā fēng xiǎn."
+    },
+    {
+      "ko": "이런 상황이라면 동해 심해 가스전 개발 논쟁은 단순한 경제 사업이 아니라 생존 전략의 문제로 봐야 한다.",
+      "zh": "如此情形下，围绕韩国东海深海天然气田开发的争论，就绝非单纯的经济账，而是关乎生存的战略议题。",
+      "py": "rú cǐ qíng xíng xià, wéi rào hán guó dōng hǎi shēn hǎi tiān rán qì tián kāi fā de zhēng lùn, jiù jué fēi dān chún de jīng jì zhàng, ér shì guān hū shēng cún de zhàn lüè yì tí."
+    },
+    {
+      "ko": "가스전 개발의 가장 큰 의미는 에너지 안보다.",
+      "zh": "开发天然气田最重大的意义在于能源安全。",
+      "py": "kāi fā tiān rán qì tián zuì zhòng dà de yì yì zài yú néng yuán ān quán."
+    },
+    {
+      "ko": "해외 자원에 기대는 구조에서는 지정학적 변수에 따라 공급이 언제든 흔들린다.",
+      "zh": "依赖海外资源的结构，意味着供应会随地缘政治变数随时动摇。",
+      "py": "yī lài hǎi wài zī yuán de jié gòu, yì wèi zhe gōng yīng huì suí dì yuán zhèng zhì biàn shù suí shí dòng yáo."
+    },
+    {
+      "ko": "반면 자국 안에서 일정량이라도 가스를 확보하면 위기 대응 능력이 달라진다.",
+      "zh": "反之，哪怕能在本国境内确保一定量的天然气，应对危机的能力也会截然不同。",
+      "py": "fǎn zhī, nǎ pà néng zài běn guó jìng nèi què bǎo yī dìng liàng de tiān rán qì, yīng duì wēi jī de néng lì yě huì jié rán bù tóng."
+    },
+    {
+      "ko": "생산량이 제한적이더라도 수입 대체 효과에 더해 가격 협상력까지 높이는 전략 자산이다.",
+      "zh": "即便产量有限，它除了具备进口替代效应外，更能提升议价权，是一项战略资产。",
+      "py": "jí biàn chǎn liàng yǒu xiàn, tā chú le jù bèi jìn kǒu tì dài xiào yīng wài, gèng néng tí shēng yì jià quán, shì yī xiàng zhàn lüè zī chǎn."
+    },
+    {
+      "ko": "에너지는 단순한 상품이 아니라 국가 운영의 기반이다.",
+      "zh": "能源并非单纯的商品，而是国家运转的根基。",
+      "py": "néng yuán bìng fēi dān chún de shāng pǐn, ér shì guó jiā yùn zhuǎn de gēn jī."
+    },
+    {
+      "ko": "경제적 효과도 분명하다.",
+      "zh": "经济效益同样显而易见。",
+      "py": "jīng jì xiào yì tóng yàng xiǎn ér yì jiàn."
+    },
+    {
+      "ko": "가스 수입에는 매년 막대한 외화가 들어간다.",
+      "zh": "进口天然气每年要耗费巨额外汇。",
+      "py": "jìn kǒu tiān rán qì měi nián yào hào fèi jù é wài huì."
+    },
+    {
+      "ko": "자체 생산이 가능해지면 무역수지 개선과 환율 안정에 보탬이 된다.",
+      "zh": "一旦实现自主生产，便有助于改善贸易收支、稳定汇率。",
+      "py": "yī dàn shí xiàn zì zhǔ shēng chǎn, biàn yǒu zhù yú gǎi shàn mào yì shōu zhī, wěn dìng huì lǜ."
+    },
+    {
+      "ko": "특히 반도체, 석유화학처럼 에너지 집약 산업이 핵심인 한국 경제 구조에서 안정적인 에너지 확보는 산업 경쟁력과 직결된다.",
+      "zh": "尤其在以半导体、石油化工等能源密集型产业为核心的韩国经济结构中，稳定的能源供应与产业竞争力息息相关，",
+      "py": "yóu qí zài yǐ bàn dǎo tǐ, shí yóu huà gōng děng néng yuán mì jí xíng chǎn yè wèi hé xīn de hán guó jīng jì jié gòu zhōng, wěn dìng de néng yuán gōng yīng yǔ chǎn yè jìng zhēng lì xī xī xiāng guān,"
+    },
+    {
+      "ko": "이는 다시 고용과 투자로 번진다.",
+      "zh": "并进而带动就业与投资。",
+      "py": "bìng jìn ér dài dòng jiù yè yǔ tóu zī."
+    },
+    {
+      "ko": "이번 사업이 과거와 다른 점은 글로벌 기업과의 협력이다.",
+      "zh": "此次项目的不同之处，在于与国际石油巨头的合作。",
+      "py": "cǐ cì xiàng mù de bù tóng zhī chù, zài yú yǔ guó jì shí yóu jù tóu de hé zuò."
+    },
+    {
+      "ko": "심해 탐사는 기술과 자본이 모두 필요한 고난도 사업이다.",
+      "zh": "深海勘探是技术与资本缺一不可的高难度工程。",
+      "py": "shēn hǎi kān tàn shì jì shù yǔ zī běn quē yī bù kě de gāo nán dù gōng chéng."
+    },
+    {
+      "ko": "영국 BP 같은 메이저 기업이 참여한다는 것은 사업성이 어느 정도 검증됐다는 신호다.",
+      "zh": "英国BP等巨头愿意参与，本身就是项目具备商业可行性的信号。",
+      "py": "yīng guó BP děng jù tóu yuàn yì cān yǔ, běn shēn jiù shì xiàng mù jù bèi shāng yè kě xíng xìng de xìn hào."
+    },
+    {
+      "ko": "민간 자본이 들어오면서 정부의 재정 부담과 실패 위험도 나눠진다.",
+      "zh": "随着民间资本的进入，政府的财政负担与失败风险也得到分摊。",
+      "py": "suí zhe mín jiān zī běn de jìn rù, zhèng fǔ de cái zhèng fù dān yǔ shī bài fēng xiǎn yě dé dào fēn tān."
+    },
+    {
+      "ko": "성공하면 지분에 따라 수익을 나누는 구조여서, 위험과 보상이 비교적 균형을 이룬다.",
+      "zh": "项目若成功，将按股权比例分配收益，使风险与回报相对均衡。",
+      "py": "xiàng mù ruò chéng gōng, jiāng àn gǔ quán bǐ lì fēn pèi shōu yì, shǐ fēng xiǎn yǔ huí bào xiāng duì jūn héng."
+    },
+    {
+      "ko": "기술 축적이라는 면에서도 이번 기회는 중요하다.",
+      "zh": "就技术积累而言，这次机会同样举足轻重。",
+      "py": "jiù jì shù jī lèi ér yán, zhè cì jī huì tóng yàng jǔ zú qīng zhòng."
+    },
+    {
+      "ko": "한국은 그동안 자원 개발 분야에서 후발주자에 머물렀다.",
+      "zh": "长期以来，韩国在资源开发领域一直扮演着追赶者的角色。",
+      "py": "zhǎng qī yǐ lái, hán guó zài zī yuán kāi fā lǐng yù yī zhí bàn yǎn zhe zhuī gǎn zhě de jiǎo sè."
+    },
+    {
+      "ko": "심해 시추 기술과 운영 경험은 단기간에 쌓기 어려운 자산이다.",
+      "zh": "深海钻探技术与运营经验，都是难以一蹴而就的宝贵资产。",
+      "py": "shēn hǎi zuān tàn jì shù yǔ yùn yíng jīng yàn, dōu shì nán yǐ yī cù ér jiù de bǎo guì zī chǎn."
+    },
+    {
+      "ko": "글로벌 기업과의 협업은 프로젝트 하나에 그치지 않고 국내 기술 역량을 끌어올리는 계기가 된다.",
+      "zh": "与跨国企业的协作不会止步于一个项目，而会成为提升国内技术实力的契机。",
+      "py": "yǔ kuà guó qǐ yè de xié zuò bù huì zhǐ bù yú yī gè xiàng mù, ér huì chéng wèi tí shēng guó nèi jì shù shí lì de qì jī."
+    },
+    {
+      "ko": "실패 가능성을 이유로 시도를 포기하면 자립 기반은 영영 갖출 수 없다.",
+      "zh": "若因担心失败便放弃尝试，自立的根基将永远无从建立。",
+      "py": "ruò yīn dān xīn shī bài biàn fàng qì cháng shì, zì lì de gēn jī jiāng yǒng yuǎn wú cóng jiàn lì."
+    },
+    {
+      "ko": "환경 문제 역시 살펴야 하지만, 그것을 이유로 개발 자체를 포기하는 것은 현실적이지 않다.",
+      "zh": "环境问题固然需要审视，但若以此为由放弃开发，并不现实。",
+      "py": "huán jìng wèn tí gù rán xū yào shěn shì, dàn ruò yǐ cǐ wèi yóu fàng qì kāi fā, bìng bù xiàn shí."
+    },
+    {
+      "ko": "가스는 석탄이나 석유보다 탄소 배출이 적은 '전환 연료'로 평가된다.",
+      "zh": "天然气被视为碳排放低于煤炭和石油的“过渡能源”。",
+      "py": "tiān rán qì bèi shì wèi tàn pái fàng dī yú méi tàn hé shí yóu de \"guò dù néng yuán\"."
+    },
+    {
+      "ko": "재생에너지로 완전히 넘어가기까지의 과도기에 안정적인 가스 공급은 꼭 필요하다.",
+      "zh": "在完全转向可再生能源之前的过渡期内，稳定的天然气供应不可或缺。",
+      "py": "zài wán quán zhuǎn xiàng kě zài shēng néng yuán zhī qián de guò dù qī nèi, wěn dìng de tiān rán qì gōng yīng bù kě huò quē."
+    },
+    {
+      "ko": "채굴이 끝난 지층을 탄소 포집·저장(CCUS)에 활용할 수 있다는 점은 오히려 친환경 정책과 맞닿는다.",
+      "zh": "开采结束后的地层还可用于碳捕集、利用与封存（CCUS），这一点反而与环保政策不谋而合。",
+      "py": "kāi cǎi jié shù hòu de dì céng hái kě yòng yú tàn bǔ jí, lì yòng yǔ fēng cún( CCUS), zhè yī diǎn fǎn ér yǔ huán bǎo zhèng cè bù móu ér hé."
+    },
+    {
+      "ko": "가스전 개발은 선택이 아니라 준비의 문제다.",
+      "zh": "天然气田开发并非一道“做与不做”的选择题，而是一道“如何未雨绸缪”的准备题。",
+      "py": "tiān rán qì tián kāi fā bìng fēi yī dào \"zuò yǔ bù zuò\" de xuǎn zé tí, ér shì yī dào \"rú hé wèi yǔ chóu móu\" de zhǔn bèi tí."
+    },
+    {
+      "ko": "에너지 전환이 진행 중이라 해도 현실은 여전히 화석연료 위에 서 있다.",
+      "zh": "即便能源转型正在推进，现实依然立足于化石燃料之上。",
+      "py": "jí biàn néng yuán zhuǎn xíng zhèng zài tuī jìn, xiàn shí yī rán lì zú yú huà shí rán liào zhī shàng."
+    },
+    {
+      "ko": "불확실한 국제 환경에서 자원 자립의 길을 스스로 닫는 것은 전략적 실수에 가깝다.",
+      "zh": "在充满不确定性的国际环境中，亲手堵死资源自立之路，无异于一次战略失误。",
+      "py": "zài chōng mǎn bù què dìng xìng de guó jì huán jìng zhōng, qīn shǒu dǔ sǐ zī yuán zì lì zhī lù, wú yì yú yī cì zhàn lüè shī wù."
+    },
+    {
+      "ko": "철저한 검증과 투명한 정보 공개를 전제로 한다면, 동해 가스전 개발은 한국이 에너지 안보와 산업 경쟁력을 함께 확보할 기회다.",
+      "zh": "只要以严格的论证和透明的信息公开为前提，东海天然气田开发正是韩国一并筑牢能源安全与产业竞争力的契机。",
+      "py": "zhǐ yào yǐ yán gé de lùn zhèng hé tòu míng de xìn xī gōng kāi wèi qián tí, dōng hǎi tiān rán qì tián kāi fā zhèng shì hán guó yī bìng zhù láo néng yuán ān quán yǔ chǎn yè jìng zhēng lì de qì jī."
+    }
+  ]
+}

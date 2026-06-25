@@ -1,0 +1,153 @@
+{
+  "num": "EP.34",
+  "tag": "칼럼",
+  "titleKo": "[찬성] 화면을 닫아야 교실이 열린다",
+  "titleZh": "[赞成] 关上屏幕，教室才会真正敞开",
+  "sentences": [
+    {
+      "ko": "학교는 단순히 지식을 주입하는 공간이 아니다.",
+      "zh": "学校并非单纯用于灌输知识的空间，",
+      "py": "xué xiào bìng fēi dān chún yòng yú guàn shū zhī shí de kōng jiān,"
+    },
+    {
+      "ko": "또래와 부대끼며 사회성을 배우고, 교사와 눈을 맞추며 인간관계를 맺는 공동체다.",
+      "zh": "而是在与同龄人的碰撞中学习社会性、在与教师目光交汇中缔结人际关系的共同体。",
+      "py": "ér shì zài yǔ tóng líng rén de pèng zhuàng zhōng xué xí shè huì xìng, zài yǔ jiào shī mù guāng jiāo huì zhōng dì jié rén jì guān xì de gòng tóng tǐ."
+    },
+    {
+      "ko": "그러나 지금 우리 교실의 풍경은 어떤가.",
+      "zh": "然而，如今我们教室的景象又是如何？",
+      "py": "rán ér, rú jīn wǒ men jiào shì de jǐng xiàng yòu shì rú hé?"
+    },
+    {
+      "ko": "쉬는 시간과 점심시간 벨이 울려도 아이들은 자리에서 일어나지 않는다.",
+      "zh": "即便课间和午餐的铃声响起，孩子们也不会从座位上起身。",
+      "py": "jí biàn kè jiān hé wǔ cān de líng shēng xiǎng qǐ, hái zi men yě bù huì cóng zuò wèi shàng qǐ shēn."
+    },
+    {
+      "ko": "교실 전체가 기괴할 정도로 고요하다.",
+      "zh": "整间教室安静得近乎诡异。",
+      "py": "zhěng jiān jiào shì ān jìng dé jìn hū guǐ yì."
+    },
+    {
+      "ko": "각자의 손바닥만 한 화면 속에 갇혀 영혼 없는 손가락 놀림만 반복할 뿐이다.",
+      "zh": "他们被困在各自巴掌大的屏幕里，只是反复着毫无灵魂的指尖滑动。",
+      "py": "tā men bèi kùn zài gè zì bā zhǎng dà de píng mù lǐ, zhǐ shì fǎn fù zhe háo wú líng hún de zhǐ jiān huá dòng."
+    },
+    {
+      "ko": "이런 상황에서 내년 1학기부터 경기도 내 초·중학교에 도입될 '휴대폰 없는 학교(폰 프리스쿨)' 정책은 무너진 교육 현장을 바로 세우기 위한 시급하고도 필연적인 결단이다.",
+      "zh": "在这种情形下，将于明年第一学期在京畿道所有小学和初中推行的“无手机学校（Phone-Free School）”政策，是为挽救崩塌的教育现场而做出的紧迫且必然的决断。",
+      "py": "zài zhè zhǒng qíng xíng xià, jiāng yú míng nián dì yī xué qī zài jīng jī dào suǒ yǒu xiǎo xué hé chū zhōng tuī xíng de \"wú shǒu jī xué xiào( Phone-Free School)\" zhèng cè, shì wèi wǎn jiù bēng tā de jiào yù xiàn chǎng ér zuò chū de jǐn pò qiě bì rán de jué duàn."
+    },
+    {
+      "ko": "일각에서는 학생들의 자유를 억압하는 과도한 규제라고 항변한다.",
+      "zh": "有人辩称，这是压制学生自由的过度管制。",
+      "py": "yǒu rén biàn chēng, zhè shì yā zhì xué shēng zì yóu de guò dù guǎn zhì."
+    },
+    {
+      "ko": "그러나 지금 청소년들의 스마트폰 중독과 교실 붕괴가 얼마나 심각한지 보면 이는 선택이 아닌 생존의 문제다.",
+      "zh": "但只要看看当下青少年智能手机成瘾与课堂瓦解的严重程度，便会明白这已非一道选择题，而是一个生存问题。",
+      "py": "dàn zhǐ yào kàn kàn dāng xià qīng shǎo nián zhì néng shǒu jī chéng yǐn yǔ kè táng wǎ jiě de yán zhòng chéng dù, biàn huì míng bái zhè yǐ fēi yī dào xuǎn zé tí, ér shì yī gè shēng cún wèn tí."
+    },
+    {
+      "ko": "스마트폰 과의존은 이제 개인의 자율성에 맡겨둘 단계를 넘어섰다.",
+      "zh": "智能手机的过度依赖，早已超出了可以交由个人自律来解决的阶段。",
+      "py": "zhì néng shǒu jī de guò dù yī lài, zǎo yǐ chāo chū le kě yǐ jiāo yóu gè rén zì lǜ lái jiě jué de jiē duàn."
+    },
+    {
+      "ko": "여성가족부의 최근 조사를 보면 국내 청소년 가운데 무려 21만여 명이 인터넷과 스마트폰 과다 사용으로 일상생활에 심각한 장애를 겪는다.",
+      "zh": "女性家族部近期调查显示，韩国国内竟有21万余名青少年因过度使用互联网和智能手机，而在日常生活中遭受严重功能障碍。",
+      "py": "nǚ xìng jiā zú bù jìn qī diào chá xiǎn shì, hán guó guó nèi jìng yǒu 21 wàn yú míng qīng shǎo nián yīn guò dù shǐ yòng hù lián wǎng hé zhì néng shǒu jī, ér zài rì cháng shēng huó zhōng zāo shòu yán zhòng gōng néng zhàng ài."
+    },
+    {
+      "ko": "뇌가 한창 발달해야 할 청소년기에 자극적인 숏폼 콘텐츠와 소셜미디어에 끊임없이 노출되면서, 아이들의 사고력과 문해력은 바닥을 친다.",
+      "zh": "正值大脑发育关键期的青少年，却持续暴露在刺激性短视频内容与社交媒体之中，其思考能力与读写能力已跌至谷底。",
+      "py": "zhèng zhí dà nǎo fā yù guān jiàn qī de qīng shǎo nián, què chí xù bào lù zài cì jī xìng duǎn shì pín nèi róng yǔ shè jiāo méi tǐ zhī zhōng, qí sī kǎo néng lì yǔ dú xiě néng lì yǐ diē zhì gǔ dǐ."
+    },
+    {
+      "ko": "텍스트를 읽고도 맥락을 이해하지 못하는 디지털 문맹이 속출하는 근본 원인이 바로 여기 있다.",
+      "zh": "读了文字却无法理解语境的“数字文盲”批量涌现，根本原因正在于此。",
+      "py": "dú le wén zì què wú fǎ lǐ jiě yǔ jìng de \"shù zì wén máng\" pī liàng yǒng xiàn, gēn běn yuán yīn zhèng zài yú cǐ."
+    },
+    {
+      "ko": "더 심각한 것은 교실 내 정서적·물리적 안전의 붕괴다.",
+      "zh": "更为严峻的是教室内情绪安全与物理安全的全面崩塌。",
+      "py": "gèng wèi yán jùn de shì jiào shì nèi qíng xù ān quán yǔ wù lǐ ān quán de quán miàn bēng tā."
+    },
+    {
+      "ko": "단체 대화방을 통한 사이버 괴롭힘과 따돌림은 24시간 내내 아이들을 괴롭히며, 교실 안에서 벌어지는 불법 촬영과 유포 문제는 교사와 학생 모두를 상시적인 불안으로 몰아넣는다.",
+      "zh": "通过群聊进行的网络霸凌与孤立排挤，24小时不间断地折磨着孩子；教室内发生的非法拍摄与传播问题，更将教师和学生一同推入持续的不安之中。",
+      "py": "tōng guò qún liáo jìn xíng de wǎng luò bà líng yǔ gū lì pái jǐ, 24 xiǎo shí bù jiān duàn dì zhé mó zhe hái zi; jiào shì nèi fā shēng de fēi fǎ pāi shè yǔ chuán bō wèn tí, gèng jiāng jiào shī hé xué shēng yī tóng tuī rù chí xù de bù ān zhī zhōng."
+    },
+    {
+      "ko": "학교 안에서만큼이라도 스마트폰을 물리적으로 격리해야 이런 악순환의 고리를 끊어낼 수 있다.",
+      "zh": "至少在校内，必须对智能手机进行物理隔离，才能斩断这一恶性循环的链条。",
+      "py": "zhì shǎo zài xiào nèi, bì xū duì zhì néng shǒu jī jìn xíng wù lǐ gé lí, cái néng zhǎn duàn zhè yī è xìng xún huán de liàn tiáo."
+    },
+    {
+      "ko": "오랫동안 학내 휴대전화 수거를 인권 침해라고 판단해 온 국가인권위원회가 최근 전원위원회 의결로 기존 결정을 뒤집은 것은 매우 상징적이다.",
+      "zh": "长期以来将校内收缴手机判定为侵犯人权的韩国国家人权委员会，近日经全体委员会决议推翻了原有裁定，此举极具象征意义。",
+      "py": "zhǎng qī yǐ lái jiāng xiào nèi shōu jiǎo shǒu jī pàn dìng wèi qīn fàn rén quán de hán guó guó jiā rén quán wěi yuán huì, jìn rì jīng quán tǐ wěi yuán huì jué yì tuī fān le yuán yǒu cái dìng, cǐ jǔ jí jù xiàng zhēng yì yì."
+    },
+    {
+      "ko": "대다수 교사와 학부모가 처절하게 호소해 온 교육권과 학습권의 붕괴를 인권위 역시 더 이상 외면할 수 없었던 것이다.",
+      "zh": "面对广大教师与家长深切呼吁的教育权与学习权崩塌，人权委员会终究无法再视而不见。",
+      "py": "miàn duì guǎng dà jiào shī yǔ jiā zhǎng shēn qiè hū xū de jiào yù quán yǔ xué xí quán bēng tā, rén quán wěi yuán huì zhōng jiū wú fǎ zài shì ér bù jiàn."
+    },
+    {
+      "ko": "자유에는 책임이 따른다.",
+      "zh": "自由与责任相伴。",
+      "py": "zì yóu yǔ zé rèn xiāng bàn."
+    },
+    {
+      "ko": "타인의 학습을 방해하고 공동체의 질서를 무너뜨리는 자유는 방종에 불과하다.",
+      "zh": "妨碍他人学习、瓦解共同体秩序的自由，不过是放纵而已。",
+      "py": "fáng ài tā rén xué xí, wǎ jiě gòng tóng tǐ zhì xù de zì yóu, bù guò shì fàng zòng ér yǐ."
+    },
+    {
+      "ko": "미국, 영국, 프랑스, 호주 등 세계 교육 선진국들이 이미 교내 스마트폰 사용을 법으로 엄격히 금지하거나 전면 수거 정책을 펴는 이유도 결코 다르지 않다.",
+      "zh": "美国、英国、法国、澳大利亚等世界教育发达国家，早已以法律严格禁止校内使用智能手机或推行全面收缴政策，其理由亦无不同。",
+      "py": "měi guó, yīng guó, fǎ guó, ào dà lì yà děng shì jiè jiào yù fā dá guó jiā, zǎo yǐ yǐ fǎ lǜ yán gé jìn zhǐ xiào nèi shǐ yòng zhì néng shǒu jī huò tuī xíng quán miàn shōu jiǎo zhèng cè, qí lǐ yóu yì wú bù tóng."
+    },
+    {
+      "ko": "학교 안에서 스마트폰을 금지하자 학생들의 학업 성취도가 오르고 정서적 안정감이 높아졌다는 해외 연구 결과들이 이 정책의 정당성을 증명한다.",
+      "zh": "海外研究结果表明，校内禁用手机后，学生学业成就度提升、情绪安定感增强，这些都在证明该政策的正当性。",
+      "py": "hǎi wài yán jiū jié guǒ biǎo míng, xiào nèi jìn yòng shǒu jī hòu, xué shēng xué yè chéng jiù dù tí shēng, qíng xù ān dìng gǎn zēng qiáng, zhè xiē dōu zài zhèng míng gāi zhèng cè de zhèng dāng xìng."
+    },
+    {
+      "ko": "수업 시간뿐 아니라 쉬는 시간까지 통제하는 것은 과하다는 지적은 학교의 본질을 오해한 데서 비롯된다.",
+      "zh": "有人指出，连休息时间也一并管制未免过分，这种批评源于对学校本质的误解。",
+      "py": "yǒu rén zhǐ chū, lián xiū xī shí jiān yě yī bìng guǎn zhì wèi miǎn guò fēn, zhè zhǒng pī píng yuán yú duì xué xiào běn zhì de wù jiě."
+    },
+    {
+      "ko": "쉬는 시간과 점심시간 역시 교육활동의 연장선이자 사회성을 기르는 핵심 시간이다.",
+      "zh": "课间与午餐时间，同样是教育活动的延伸，更是培养社会性的核心时段。",
+      "py": "kè jiān yǔ wǔ cān shí jiān, tóng yàng shì jiào yù huó dòng de yán shēn, gèng shì péi yǎng shè huì xìng de hé xīn shí duàn."
+    },
+    {
+      "ko": "스마트폰 화면을 닫아야 비로소 아이들은 주변을 둘러본다.",
+      "zh": "唯有关上智能手机屏幕，孩子们才会真正环顾四周。",
+      "py": "wéi yǒu guān shàng zhì néng shǒu jī píng mù, hái zi men cái huì zhēn zhèng huán gù sì zhōu."
+    },
+    {
+      "ko": "친구의 표정을 읽고, 대화를 나누며, 운동장에서 땀을 흘리는 평범한 일상이 회복되어야 청소년기 건강한 인간관계가 형성된다.",
+      "zh": "读懂朋友的表情、彼此交谈、在操场上挥洒汗水——当这些平凡的日常得以恢复，青少年期健康的人际关系方能形成。",
+      "py": "dú dǒng péng yǒu de biǎo qíng, bǐ cǐ jiāo tán, zài cāo chǎng shàng huī sǎ hàn shuǐ—— dāng zhè xiē píng fán de rì cháng dé yǐ huī fù, qīng shǎo nián qī jiàn kāng de rén jì guān xì fāng néng xíng chéng."
+    },
+    {
+      "ko": "'폰 프리스쿨'은 학생들을 억압하려는 제도가 아니다.",
+      "zh": "“无手机学校”并非旨在压制学生的制度。",
+      "py": "\"wú shǒu jī xué xiào\" bìng fēi zhǐ zài yā zhì xué shēng de zhì dù."
+    },
+    {
+      "ko": "디지털 중독의 끊임없는 자극으로부터 아이들의 정서와 뇌를 보호하고, 진정한 소통이 가득한 교실을 돌려주기 위한 최소한의 교육적 방어선이다.",
+      "zh": "它是一道最低限度的教育防线，为的是保护孩子的情绪与大脑免受数字成瘾的持续刺激，还给他们一个充满真正沟通的教室。",
+      "py": "tā shì yī dào zuì dī xiàn dù de jiào yù fáng xiàn, wèi de shì bǎo hù hái zi de qíng xù yǔ dà nǎo miǎn shòu shù zì chéng yǐn de chí xù cì jī, hái gěi tā men yī gè chōng mǎn zhēn zhèng gōu tōng de jiào shì."
+    },
+    {
+      "ko": "학교 공간만큼은 디지털 피로감이 없는 청정 구역으로 지켜내는 것, 그것이 이 시대 어른들과 교육계가 마주한 가장 시급한 책무다.",
+      "zh": "至少将学校空间守护为一片没有数字疲劳的清净区域，这是这个时代成年人与教育界所面临的最紧迫职责。",
+      "py": "zhì shǎo jiāng xué xiào kōng jiān shǒu hù wèi yī piàn méi yǒu shù zì pí láo de qīng jìng qū yù, zhè shì zhè gè shí dài chéng nián rén yǔ jiào yù jiè suǒ miàn lín de zuì jǐn pò zhí zé."
+    }
+  ]
+}
