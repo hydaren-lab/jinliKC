@@ -1,0 +1,228 @@
+{
+  "num": "EP.38",
+  "tag": "칼럼",
+  "titleKo": "세계유산도 중요하지만, 주민의 삶이 먼저다",
+  "titleZh": "世界遗产固然重要，但居民生活更应放在首位",
+  "sentences": [
+    {
+      "ko": "세계유산은 인류가 함께 지켜야 할 소중한 자산이다.",
+      "zh": "世界遗产是全人类应当共同守护的宝贵财富。",
+      "py": "shì jiè yí chǎn shì quán rén lèi yīng dāng gòng tóng shǒu hù de bǎo guì cái fù."
+    },
+    {
+      "ko": "오랜 세월을 견뎌 온 문화유산과 자연유산은 한 나라만의 것이 아니라 인류 전체의 역사와 기억을 담고 있다.",
+      "zh": "历经漫长岁月留存下来的文化遗产与自然遗产，并非某一国所独有，而是承载着全人类的历史与记忆。",
+      "py": "lì jīng màn zhǎng suì yuè liú cún xià lái de wén huà yí chǎn yǔ zì rán yí chǎn, bìng fēi mǒu yī guó suǒ dú yǒu, ér shì chéng zài zhe quán rén lèi de lì shǐ yǔ jì yì."
+    },
+    {
+      "ko": "그래서 각국은 세계유산 등재에 많은 노력을 기울이고, 등재가 확정되면 지역의 자랑으로 여긴다.",
+      "zh": "因此，各国都为申报世界遗产倾注诸多努力，一旦成功列入名录，便将其视为本地区的骄傲。",
+      "py": "yīn cǐ, gè guó dōu wèi shēn bào shì jiè yí chǎn qīng zhù zhū duō nǔ lì, yī dàn chéng gōng liè rù míng lù, biàn jiāng qí shì wèi běn dì qū de jiāo ào."
+    },
+    {
+      "ko": "그런데 최근에는 정반대의 현상이 나타난다.",
+      "zh": "然而最近却出现了截然相反的现象：",
+      "py": "rán ér zuì jìn què chū xiàn le jié rán xiāng fǎn de xiàn xiàng:"
+    },
+    {
+      "ko": "일부 주민들이 자신이 사는 마을을 세계유산 목록에서 빼 달라고 요구하는 것이다.",
+      "zh": "一些居民要求将自己居住的村庄从《世界遗产名录》中除名。",
+      "py": "yī xiē jū mín yào qiú jiāng zì jǐ jū zhù de cūn zhuāng cóng《 shì jiè yí chǎn míng lù》 zhōng chú míng."
+    },
+    {
+      "ko": "언뜻 이해하기 어려운 이야기다.",
+      "zh": "乍听之下令人难以理解。",
+      "py": "zhà tīng zhī xià lìng rén nán yǐ lǐ jiě."
+    },
+    {
+      "ko": "세계유산으로 지정되면 국제적인 인지도가 높아지고 관광객이 늘어나 지역 경제에도 보탬이 된다.",
+      "zh": "一旦被列为世界遗产，国际知名度便会提升，游客随之增多，进而带动地方经济发展。",
+      "py": "yī dàn bèi liè wèi shì jiè yí chǎn, guó jì zhī míng dù biàn huì tí shēng, yóu kè suí zhī zēng duō, jìn ér dài dòng dì fāng jīng jì fā zhǎn."
+    },
+    {
+      "ko": "그럼에도 주민들이 반발하는 이유는 무엇일까.",
+      "zh": "尽管如此，居民们为何还要反对呢？",
+      "py": "jǐn guǎn rú cǐ, jū mín men wèi hé hái yào fǎn duì ne?"
+    },
+    {
+      "ko": "문제는 세계유산 자체가 아니라 그 이후에 벌어지는 변화에 있다.",
+      "zh": "问题并不在于世界遗产本身，而在于列入之后所发生的种种变化。",
+      "py": "wèn tí bìng bù zài yú shì jiè yí chǎn běn shēn, ér zài yú liè rù zhī hòu suǒ fā shēng de zhǒng zhǒng biàn huà."
+    },
+    {
+      "ko": "슬로바키아의 작은 전통 마을 블콜리네츠(Vlkolínec)는 세계유산이 가져온 빛과 그림자를 동시에 보여준다.",
+      "zh": "斯洛伐克的传统小村弗尔科利内茨（Vlkolínec），同时展现了世界遗产带来的光环与阴影。",
+      "py": "sī luò fá kè de chuán tǒng xiǎo cūn fú ěr kē lì nèi cí( Vlkol í nec), tóng shí zhǎn xiàn le shì jiè yí chǎn dài lái de guāng huán yǔ yīn yǐng."
+    },
+    {
+      "ko": "주민이 20여 명에 불과한 이 마을은 전통 가옥과 독특한 경관을 인정받아 1993년 세계유산에 등재됐다.",
+      "zh": "这个仅有二十多名居民的村庄，凭借传统民居和独特的景观，于1993年被列入世界遗产名录。",
+      "py": "zhè gè jǐn yǒu èr shí duō míng jū mín de cūn zhuāng, píng jiè chuán tǒng mín jū hé dú tè de jǐng guān, yú 1993 nián bèi liè rù shì jiè yí chǎn míng lù."
+    },
+    {
+      "ko": "그러나 이후 매년 10만 명이 넘는 관광객이 몰려들면서 주민들의 일상은 크게 달라졌다.",
+      "zh": "然而此后，每年涌入的游客超过十万人次，居民的日常生活随之发生了巨变。",
+      "py": "rán ér cǐ hòu, měi nián yǒng rù de yóu kè chāo guò shí wàn rén cì, jū mín de rì cháng shēng huó suí zhī fā shēng le jù biàn."
+    },
+    {
+      "ko": "조용한 산골 마을은 관광지가 되었고, 일부 주민들은 세계유산 지정이 더 이상 축복이 아니라고 주장하기 시작했다.",
+      "zh": "宁静的山村变成了旅游景点，一些居民开始坦言，列入世界遗产已不再是福音。",
+      "py": "níng jìng de shān cūn biàn chéng le lǚ yóu jǐng diǎn, yī xiē jū mín kāi shǐ tǎn yán, liè rù shì jiè yí chǎn yǐ bù zài shì fú yīn."
+    },
+    {
+      "ko": "같은 문제는 세계 곳곳에서 나타난다.",
+      "zh": "同样的问题在世界各地都有出现，",
+      "py": "tóng yàng de wèn tí zài shì jiè gè dì dōu yǒu chū xiàn,"
+    },
+    {
+      "ko": "대표적인 곳이 이탈리아의 베네치아(Venice)다.",
+      "zh": "意大利的威尼斯（Venice）便是典型代表。",
+      "py": "yì dà lì de wēi ní sī( Venice) biàn shì diǎn xíng dài biǎo."
+    },
+    {
+      "ko": "세계에서 가장 유명한 관광도시 가운데 하나인 베네치아는 오랫동안 과잉 관광 문제에 시달려 왔다.",
+      "zh": "作为全球最著名的旅游城市之一，威尼斯长期饱受“过度旅游”之苦。",
+      "py": "zuò wèi quán qiú zuì zhù míng de lǚ yóu chéng shì zhī yī, wēi ní sī zhǎng qī bǎo shòu \"guò dù lǚ yóu\" zhī kǔ."
+    },
+    {
+      "ko": "관광객은 늘었지만 정작 주민들은 도시를 떠나고 있다.",
+      "zh": "游客越来越多，居民却在不断离开。",
+      "py": "yóu kè yuè lái yuè duō, jū mín què zài bù duàn lí kāi."
+    },
+    {
+      "ko": "숙박업과 관광 시설이 늘면서 주거 비용이 올랐고, 주민을 위한 상점 대신 관광객을 겨냥한 업소들이 들어섰다.",
+      "zh": "随着住宿业和旅游设施的增加，居住成本水涨船高，原本面向居民的商铺，取而代之的是针对游客的店家。",
+      "py": "suí zhe zhù sù yè hé lǚ yóu shè shī de zēng jiā, jū zhù chéng běn shuǐ zhǎng chuán gāo, yuán běn miàn xiàng jū mín de shāng pù, qǔ ér dài zhī de shì zhēn duì yóu kè de diàn jiā."
+    },
+    {
+      "ko": "도시가 관광객을 위한 공간으로 변하면서 주민들의 삶의 터전은 점점 줄어든다.",
+      "zh": "当城市逐渐沦为专供游客消费的空间，居民赖以生存的家园便日益萎缩。",
+      "py": "dāng chéng shì zhú jiàn lún wèi zhuān gōng yóu kè xiāo fèi de kōng jiān, jū mín lài yǐ shēng cún de jiā yuán biàn rì yì wēi suō."
+    },
+    {
+      "ko": "스페인의 바르셀로나(Barcelona) 역시 비슷한 고민을 안고 있다.",
+      "zh": "西班牙的巴塞罗那（Barcelona）同样面临类似的困扰。",
+      "py": "xī bān yá de bā sāi luó nà( Barcelona) tóng yàng miàn lín lèi shì de kùn rǎo."
+    },
+    {
+      "ko": "관광객 증가와 단기 임대 시장 확대는 집값과 임대료 상승으로 이어졌고, 지역 주민들의 불만도 커졌다.",
+      "zh": "游客的增加与短期租赁市场的扩大，导致房价和租金飙升，当地居民的不满情绪日益加剧。",
+      "py": "yóu kè de zēng jiā yǔ duǎn qī zū lìn shì chǎng de kuò dà, dǎo zhì fáng jià hé zū jīn biāo shēng, dāng dì jū mín de bù mǎn qíng xù rì yì jiā jù."
+    },
+    {
+      "ko": "일부 지역에서는 과도한 관광객 유입에 반대하는 시위가 벌어지기도 했다.",
+      "zh": "在部分地区，甚至爆发了反对游客过度涌入的示威活动。",
+      "py": "zài bù fēn dì qū, shèn zhì bào fā le fǎn duì yóu kè guò dù yǒng rù de shì wēi huó dòng."
+    },
+    {
+      "ko": "관광산업이 지역 경제를 살리는 것은 사실이지만, 그 혜택이 주민들에게 골고루 돌아가지 않으면 갈등은 피하기 어렵다.",
+      "zh": "旅游业确实能提振地方经济，但如果其带来的收益无法惠及广大居民，冲突便在所难免。",
+      "py": "lǚ yóu yè què shí néng tí zhèn dì fāng jīng jì, dàn rú guǒ qí dài lái de shōu yì wú fǎ huì jí guǎng dà jū mín, chōng tū biàn zài suǒ nán miǎn."
+    },
+    {
+      "ko": "그렇다고 세계유산을 포기하거나 관광객을 무조건 막는 것이 해답은 아니다.",
+      "zh": "但这并不意味着放弃世界遗产或一味拒绝游客就是解决之道。",
+      "py": "dàn zhè bìng bù yì wèi zhe fàng qì shì jiè yí chǎn huò yī wèi jù jué yóu kè jiù shì jiě jué zhī dào."
+    },
+    {
+      "ko": "중요한 것은 균형이다.",
+      "zh": "核心在于平衡。",
+      "py": "hé xīn zài yú píng héng."
+    },
+    {
+      "ko": "실제로 여러 나라가 보존과 생활의 균형을 찾으려 다양한 시도를 하고 있다.",
+      "zh": "事实上，许多国家正在为寻求遗产保护与居民生活之间的平衡进行着各种尝试。",
+      "py": "shì shí shàng, xǔ duō guó jiā zhèng zài wèi xún qiú yí chǎn bǎo hù yǔ jū mín shēng huó zhī jiān de píng héng jìn xíng zhe gè zhǒng cháng shì."
+    },
+    {
+      "ko": "페루의 마추픽추(Machu Picchu)가 대표적이다.",
+      "zh": "秘鲁的马丘比丘（Machu Picchu）便是典型一例。",
+      "py": "mì lǔ de mǎ qiū bǐ qiū( Machu Picchu) biàn shì diǎn xíng yī lì."
+    },
+    {
+      "ko": "관광객 증가로 유적 훼손 우려가 커지자 입장 인원을 제한하고 시간대별 예약제를 도입했다.",
+      "zh": "由于游客增多导致遗址受损的担忧日益加深，当地限制了入场人数，并引入了分时段预约制。",
+      "py": "yóu yú yóu kè zēng duō dǎo zhì yí zhǐ shòu sǔn de dān yōu rì yì jiā shēn, dāng dì xiàn zhì le rù chǎng rén shù, bìng yǐn rù le fēn shí duàn yù yuē zhì."
+    },
+    {
+      "ko": "크로아티아의 두브로브니크(Dubrovnik) 역시 대형 크루즈선의 입항 횟수를 조절하며 관광객 수를 관리한다.",
+      "zh": "克罗地亚的杜布罗夫尼克（Dubrovnik）也通过控制大型邮轮的靠港次数来管理游客数量。",
+      "py": "kè luó dì yà de dù bù luó fū ní kè( Dubrovnik) yě tōng guò kòng zhì dà xíng yóu lún de kào gǎng cì shù lái guǎn lǐ yóu kè shù liàng."
+    },
+    {
+      "ko": "관광을 포기하지 않으면서도 유산과 지역사회를 지키려는 노력인 셈이다.",
+      "zh": "这既是不放弃旅游产业，也是努力守护遗产与当地社区的积极探索。",
+      "py": "zhè jì shì bù fàng qì lǚ yóu chǎn yè, yě shì nǔ lì shǒu hù yí chǎn yǔ dāng dì shè qū de jī jí tàn suǒ."
+    },
+    {
+      "ko": "우리에게 필요한 것도 이런 접근이다.",
+      "zh": "我们所需要的，正是这样一种思路。",
+      "py": "wǒ men suǒ xū yào de, zhèng shì zhè yàng yī zhǒng sī lù."
+    },
+    {
+      "ko": "먼저 관광객 수를 무작정 늘리기보다 지역이 감당할 수준에서 관리하는 체계를 마련해야 한다.",
+      "zh": "首先，与其盲目增加游客数量，不如建立一套将其控制在地区旅游承载能力之内的管理体系。",
+      "py": "shǒu xiān, yǔ qí máng mù zēng jiā yóu kè shù liàng, bù rú jiàn lì yī tào jiāng qí kòng zhì zài dì qū lǚ yóu chéng zài néng lì zhī nèi de guǎn lǐ tǐ xì."
+    },
+    {
+      "ko": "또 관광으로 얻는 수익이 지역 주민들에게 실질적으로 돌아가야 한다.",
+      "zh": "其次，旅游收益应当切实回馈给当地居民。",
+      "py": "qí cì, lǚ yóu shōu yì yīng dāng qiè shí huí kuì gěi dāng dì jū mín."
+    },
+    {
+      "ko": "관광객은 늘었는데 주민들은 생활비 부담만 커진다면 세계유산 보존에 대한 지지를 기대하기 어렵다.",
+      "zh": "如果游客增多的结果，只是让居民承受更沉重的生活负担，那便很难指望他们去支持世界遗产的保护工作。",
+      "py": "rú guǒ yóu kè zēng duō de jié guǒ, zhǐ shì ràng jū mín chéng shòu gèng chén zhòng de shēng huó fù dān, nà biàn hěn nán zhǐ wàng tā men qù zhī chí shì jiè yí chǎn de bǎo hù gōng zuò."
+    },
+    {
+      "ko": "보존 정책을 결정하는 과정에 주민들이 적극 참여하는 길도 열려 있어야 한다.",
+      "zh": "此外，还应当畅通渠道，让居民积极参与到保护政策的决策过程中来。",
+      "py": "cǐ wài, hái yīng dāng chàng tōng qú dào, ràng jū mín jī jí cān yǔ dào bǎo hù zhèng cè de jué cè guò chéng zhōng lái."
+    },
+    {
+      "ko": "그곳에서 살아가는 사람들의 목소리가 반영되지 않는 정책은 오래가지 못한다.",
+      "zh": "一项不能反映当地居民心声的政策，注定难以长久。",
+      "py": "yī xiàng bù néng fǎn yìng dāng dì jū mín xīn shēng de zhèng cè, zhù dìng nán yǐ zhǎng jiǔ."
+    },
+    {
+      "ko": "무엇보다 중요한 것은 세계유산을 바라보는 시각의 변화다.",
+      "zh": "最为重要的，是转变看待世界遗产的视角。",
+      "py": "zuì wèi zhòng yào de, shì zhuǎn biàn kàn dài shì jiè yí chǎn de shì jiǎo."
+    },
+    {
+      "ko": "우리는 흔히 오래된 건물이나 아름다운 자연만을 유산이라고 생각한다.",
+      "zh": "我们往往认为，只有古老的建筑或秀美的自然才算是遗产。",
+      "py": "wǒ men wǎng wǎng rèn wèi, zhǐ yǒu gǔ lǎo de jiàn zhù huò xiù měi de zì rán cái suàn shì yí chǎn."
+    },
+    {
+      "ko": "그러나 그 공간에서 살아가는 사람들과 그들이 만들어 온 생활 문화 역시 유산의 일부다.",
+      "zh": "然而，在那片土地上生活的人们，以及他们世代创造的生活文化，同样是遗产的一部分。",
+      "py": "rán ér, zài nà piàn tǔ dì shàng shēng huó de rén men, yǐ jí tā men shì dài chuàng zào de shēng huó wén huà, tóng yàng shì yí chǎn de yī bù fēn."
+    },
+    {
+      "ko": "주민이 떠난 전통 마을은 외형은 남을지 몰라도 살아 있는 문화유산이라 보기 어렵다.",
+      "zh": "一座居民离去的传统村庄，外形或许尚存，却很难称得上是活态的文化遗产。",
+      "py": "yī zuò jū mín lí qù de chuán tǒng cūn zhuāng, wài xíng huò xǔ shàng cún, què hěn nán chēng dé shàng shì huó tài de wén huà yí chǎn."
+    },
+    {
+      "ko": "세계유산은 인류 모두의 자산이지만, 동시에 누군가의 집이고 삶의 공간이다.",
+      "zh": "世界遗产是全人类共同的财富，但同时也是某些人的家园与生活空间。",
+      "py": "shì jiè yí chǎn shì quán rén lèi gòng tóng de cái fù, dàn tóng shí yě shì mǒu xiē rén de jiā yuán yǔ shēng huó kōng jiān."
+    },
+    {
+      "ko": "유산을 보호한다는 명분 아래 주민들의 희생을 당연하게 여긴다면 결국 유산 보존도 오래 지속될 수 없다.",
+      "zh": "倘若以保护遗产为名，将居民的牺牲视为理所当然，那么遗产保护终究无法长久维系。",
+      "py": "tǎng ruò yǐ bǎo hù yí chǎn wèi míng, jiāng jū mín de xī shēng shì wèi lǐ suǒ dāng rán, nà me yí chǎn bǎo hù zhōng jiū wú fǎ zhǎng jiǔ wéi xì."
+    },
+    {
+      "ko": "진정한 보존은 건물과 자연만이 아니라 그곳에서 살아가는 사람들까지 함께 지키는 데서 시작된다.",
+      "zh": "真正的保护，不仅在于守护建筑与自然，更在于守护在那里生活的人们。",
+      "py": "zhēn zhèng de bǎo hù, bù jǐn zài yú shǒu hù jiàn zhù yǔ zì rán, gèng zài yú shǒu hù zài nà lǐ shēng huó de rén men."
+    },
+    {
+      "ko": "세계유산이 미래 세대에게 물려줄 가치 있는 유산으로 남으려면, 무엇보다 주민들의 삶과 공존하는 길을 찾아야 한다.",
+      "zh": "要让世界遗产成为留给后代的、真正有价值的遗产，首先就必须找到一条与居民生活共存的道路。",
+      "py": "yào ràng shì jiè yí chǎn chéng wèi liú gěi hòu dài de, zhēn zhèng yǒu jià zhí de yí chǎn, shǒu xiān jiù bì xū zhǎo dào yī tiáo yǔ jū mín shēng huó gòng cún de dào lù."
+    }
+  ]
+}

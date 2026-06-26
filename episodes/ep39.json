@@ -1,0 +1,113 @@
+{
+  "num": "EP.39",
+  "tag": "칼럼",
+  "titleKo": "오버투어리즘: 관광산업의 빛과 그림자",
+  "titleZh": "过度旅游：旅游产业的光环与阴影",
+  "sentences": [
+    {
+      "ko": "오버투어리즘(Overtourism)은 인기 있는 관광지에 너무 많은 관광객이 몰리면서 지역 사회, 환경, 그리고 문화에 나쁜 영향을 미치는 문제입니다.",
+      "zh": "过度旅游（Overtourism），指的是在热门旅游目的地，因游客过度涌入而对当地社区、环境及文化造成负面影响的现象。",
+      "py": "guò dù lǚ yóu( Overtourism), zhǐ de shì zài rè mén lǚ yóu mù de dì, yīn yóu kè guò dù yǒng rù ér duì dāng dì shè qū, huán jìng jí wén huà zào chéng fù miàn yǐng xiǎng de xiàn xiàng."
+    },
+    {
+      "ko": "유명한 관광지들은 역사적이고 문화적인 가치와 자연의 아름다움으로 많은 사람들을 끌어들이지만, 너무 많은 사람이 몰리면서 여러 가지 문제가 생기고 있습니다.",
+      "zh": "著名的旅游景点因其历史文化价值和自然美景吸引了大量游客，但由于游客数量过多，各种问题随之而来。",
+      "py": "zhù míng de lǚ yóu jǐng diǎn yīn qí lì shǐ wén huà jià zhí hé zì rán měi jǐng xī yǐn le dà liàng yóu kè, dàn yóu yú yóu kè shù liàng guò duō, gè zhǒng wèn tí suí zhī ér lái."
+    },
+    {
+      "ko": "오버투어리즘의 대표적인 예로는 베네치아, 바르셀로나, 그리고 제주도가 있습니다.",
+      "zh": "过度旅游的典型例子有威尼斯、巴塞罗那和济州岛。",
+      "py": "guò dù lǚ yóu de diǎn xíng lì zi yǒu wēi ní sī, bā sāi luó nà hé jì zhōu dǎo."
+    },
+    {
+      "ko": "베네치아에는 매년 수백만 명의 관광객이 방문하면서 도시의 시설에 큰 부담이 생기고 있습니다.",
+      "zh": "每年有数百万游客参观威尼斯，这给城市的基础设施带来了巨大的压力。",
+      "py": "měi nián yǒu shù bǎi wàn yóu kè cān guān wēi ní sī, zhè gěi chéng shì de jī chǔ shè shī dài lái le jù dà de yā lì."
+    },
+    {
+      "ko": "좁은 운하와 거리가 관광객으로 가득 차서 주민들이 일상생활에 불편을 겪고 있고, 생활비가 올라가면서 많은 주민들이 고향을 떠나야 합니다.",
+      "zh": "狭窄的运河与街道挤满了游客，居民的日常生活受到严重影响，生活成本也随之上升，许多居民被迫离开故土。",
+      "py": "xiá zhǎi de yùn hé yǔ jiē dào jǐ mǎn le yóu kè, jū mín de rì cháng shēng huó shòu dào yán zhòng yǐng xiǎng, shēng huó chéng běn yě suí zhī shàng shēng, xǔ duō jū mín bèi pò lí kāi gù tǔ."
+    },
+    {
+      "ko": "바르셀로나도 관광객 증가로 인해 소음, 쓰레기 문제, 그리고 높은 임대료로 주민들이 힘들어하고 있습니다.",
+      "zh": "巴塞罗那同样因游客激增而面临噪音、垃圾以及高租金等问题，居民不堪其扰。",
+      "py": "bā sāi luó nà tóng yàng yīn yóu kè jī zēng ér miàn lín zào yīn, lā jī yǐ jí gāo zū jīn děng wèn tí, jū mín bù kān qí rǎo."
+    },
+    {
+      "ko": "오버투어리즘은 환경에도 큰 영향을 미칩니다.",
+      "zh": "过度旅游对环境也有很大的影响。",
+      "py": "guò dù lǚ yóu duì huán jìng yě yǒu hěn dà de yǐng xiǎng."
+    },
+    {
+      "ko": "한때 깨끗하고 아름다웠던 자연 명소들이 관광객들 때문에 훼손되고, 바다와 숲 속의 동식물들이 피해를 받고 있습니다.",
+      "zh": "曾经清净秀美的自然景观因游客的到来而遭到破坏，海洋与森林中的动植物也难以幸免。",
+      "py": "céng jīng qīng jìng xiù měi de zì rán jǐng guān yīn yóu kè de dào lái ér zāo dào pò huài, hǎi yáng yǔ sēn lín zhōng de dòng zhí wù yě nán yǐ xìng miǎn."
+    },
+    {
+      "ko": "제주도에서는 관광객과 차량이 많아지면서 교통 혼잡과 환경 오염이 심해지고 있습니다.",
+      "zh": "在济州岛，游客和车辆的增加导致交通拥堵和环境污染加剧。",
+      "py": "zài jì zhōu dǎo, yóu kè hé chē liàng de zēng jiā dǎo zhì jiāo tōng yōng dǔ hé huán jìng wū rǎn jiā jù."
+    },
+    {
+      "ko": "이는 지역의 자연 생태계를 보호하려는 노력을 어렵게 하고, 관광지로서의 매력을 유지하기 힘들게 만듭니다.",
+      "zh": "这不仅让保护当地自然生态系统的努力变得更加困难，也让保持其作为旅游胜地的魅力难以为继。",
+      "py": "zhè bù jǐn ràng bǎo hù dāng dì zì rán shēng tài xì tǒng de nǔ lì biàn dé gèng jiā kùn nán, yě ràng bǎo chí qí zuò wèi lǚ yóu shèng dì de mèi lì nán yǐ wèi jì."
+    },
+    {
+      "ko": "이 문제를 해결하기 위해 여러 지역에서는 다양한 방법을 시도하고 있습니다.",
+      "zh": "为了应对这些问题，许多地区采取了各种措施。",
+      "py": "wèi le yīng duì zhè xiē wèn tí, xǔ duō dì qū cǎi qǔ le gè zhǒng cuò shī."
+    },
+    {
+      "ko": "일부 도시는 관광객 수를 제한하거나 입장료를 부과해서 과도한 관광을 막으려고 하고, 지속 가능한 관광을 장려하고 있습니다.",
+      "zh": "一些城市通过限制游客数量或收取入场费的方式来遏制过度旅游，并鼓励可持续旅游。",
+      "py": "yī xiē chéng shì tōng guò xiàn zhì yóu kè shù liàng huò shōu qǔ rù chǎng fèi de fāng shì lái è zhì guò dù lǚ yóu, bìng gǔ lì kě chí xù lǚ yóu."
+    },
+    {
+      "ko": "예를 들어, 바르셀로나는 숙박시설 허가를 엄격히 규제하고, 베네치아는 하루 방문객 수를 제한하고 있습니다.",
+      "zh": "例如，巴塞罗那严格监管住宿设施的许可，威尼斯则限制每日游客数量。",
+      "py": "lì rú, bā sāi luó nà yán gé jiān guǎn zhù sù shè shī de xǔ kě, wēi ní sī zé xiàn zhì měi rì yóu kè shù liàng."
+    },
+    {
+      "ko": "또, 지역 주민들의 삶의 질을 보장하고, 관광 수익이 지역 사회에 긍정적인 영향을 미치도록 공정하게 나누는 것도 중요한 해결 방법입니다.",
+      "zh": "此外，保障当地居民的生活质量，并公平分配旅游收益，使其对社区产生积极影响，也是重要的解决方案之一。",
+      "py": "cǐ wài, bǎo zhàng dāng dì jū mín de shēng huó zhì liàng, bìng gōng píng fēn pèi lǚ yóu shōu yì, shǐ qí duì shè qū chǎn shēng jī jí yǐng xiǎng, yě shì zhòng yào de jiě jué fāng àn zhī yī."
+    },
+    {
+      "ko": "오버투어리즘 문제를 해결하려면 관광객 개개인의 인식 변화도 필요합니다.",
+      "zh": "要解决过度旅游问题，还需要游客自身意识的转变。",
+      "py": "yào jiě jué guò dù lǚ yóu wèn tí, hái xū yào yóu kè zì shēn yì shí de zhuǎn biàn."
+    },
+    {
+      "ko": "여행객들은 자신이 방문하는 지역의 문화를 존중하고, 환경에 미치는 영향을 줄이려는 노력이 필요합니다.",
+      "zh": "游客们需要尊重到访地区的文化，并努力减少对环境的影响。",
+      "py": "yóu kè men xū yào zūn zhòng dào fǎng dì qū de wén huà, bìng nǔ lì jiǎn shǎo duì huán jìng de yǐng xiǎng."
+    },
+    {
+      "ko": "예를 들어, 공공 교통을 이용하거나 지역의 작은 가게를 지원하는 등 지속 가능한 여행 방식을 선택할 수 있습니다.",
+      "zh": "例如，选择公共交通工具或支持当地的小商店，都是践行可持续旅游的方式。",
+      "py": "lì rú, xuǎn zé gōng gòng jiāo tōng gōng jù huò zhī chí dāng dì de xiǎo shāng diàn, dōu shì jiàn xíng kě chí xù lǚ yóu de fāng shì."
+    },
+    {
+      "ko": "이런 작은 변화들이 모이면 오버투어리즘 문제를 줄이고, 관광지와 지역 사회의 균형을 되찾는 데 도움이 될 것입니다.",
+      "zh": "这些微小的改变汇聚起来，将有助于减轻过度旅游问题，让旅游景点与当地社区重归平衡。",
+      "py": "zhè xiē wēi xiǎo de gǎi biàn huì jù qǐ lái, jiāng yǒu zhù yú jiǎn qīng guò dù lǚ yóu wèn tí, ràng lǚ yóu jǐng diǎn yǔ dāng dì shè qū zhòng guī píng héng."
+    },
+    {
+      "ko": "결국, 오버투어리즘은 관광 산업의 문제점을 보여주는 사례입니다.",
+      "zh": "归根结底，过度旅游折射出的是旅游产业的问题。",
+      "py": "guī gēn jié dǐ, guò dù lǚ yóu zhé shè chū de shì lǚ yóu chǎn yè de wèn tí."
+    },
+    {
+      "ko": "우리가 여행을 하면서 즐거움을 얻는 것이 현지 주민들과 환경에 부정적인 영향을 미치지 않도록, 지속 가능한 관광에 대해 고민하고 노력해야 합니다.",
+      "zh": "为了不让我们在旅行中获得的乐趣对当地居民和环境造成负面影响，应当认真思考并努力实现可持续旅游。",
+      "py": "wèi le bù ràng wǒ men zài lǚ xíng zhōng huò dé de lè qù duì dāng dì jū mín hé huán jìng zào chéng fù miàn yǐng xiǎng, yīng dāng rèn zhēn sī kǎo bìng nǔ lì shí xiàn kě chí xù lǚ yóu."
+    },
+    {
+      "ko": "모두가 책임 있는 여행자가 되어야 우리 후손도 아름다운 지구의 다양한 문화와 자연을 즐길 수 있을 것입니다.",
+      "zh": "只有当每个人都成为负责任的旅行者，我们的子孙后代才能继续领略这个美丽星球上多样的文化与自然之美。",
+      "py": "zhǐ yǒu dāng měi gè rén dōu chéng wèi fù zé rèn de lǚ xíng zhě, wǒ men de zi sūn hòu dài cái néng jì xù lǐng lüè zhè gè měi lì xīng qiú shàng duō yàng de wén huà yǔ zì rán zhī měi."
+    }
+  ]
+}
