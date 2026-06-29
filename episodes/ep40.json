@@ -1,0 +1,183 @@
+{
+  "num": "EP.40",
+  "tag": "칼럼",
+  "titleKo": "로봇 전쟁의 시계는 이미 돌아가고 있다",
+  "titleZh": "机器人战争的时钟，早已嘀嗒作响",
+  "sentences": [
+    {
+      "ko": "인공지능이 몸을 얻었다.",
+      "zh": "人工智能有了身体。",
+      "py": "rén gōng zhì néng yǒu le shēn tǐ."
+    },
+    {
+      "ko": "'피지컬 AI(Physical AI)'라는 말이 기술 담론의 언저리를 맴돌던 시절은 지났다.",
+      "zh": "“物理AI（Physical AI）”还只是技术圈边缘谈资的日子，已经一去不返了。",
+      "py": "\"wù lǐ AI( Physical AI)\" hái zhǐ shì jì shù quān biān yuán tán zī de rì zi, yǐ jīng yī qù bù fǎn le."
+    },
+    {
+      "ko": "테슬라의 '옵티머스', 유니트리의 'G1' 같은 양산형 휴머노이드가 공장과 물류 현장에 곧바로 투입할 수 있는 수준에 이르렀고, 시장의 눈금도 빠르게 올라간다.",
+      "zh": "特斯拉的“擎天柱（Optimus）”、宇树的“G1”等量产型人形机器人，已达到可直接投入工厂与物流现场的水平，市场热度也在迅速蹿升。",
+      "py": "tè sī lā de \"qíng tiān zhù( Optimus)\", yǔ shù de \"G1\" děng liàng chǎn xíng rén xíng jī qì rén, yǐ dá dào kě zhí jiē tóu rù gōng chǎng yǔ wù liú xiàn chǎng de shuǐ píng, shì chǎng rè dù yě zài xùn sù cuān shēng."
+    },
+    {
+      "ko": "휴머노이드 로봇 시장은 2025년 15억 달러에서 2035년 378억 달러로, 연평균 38% 성장할 전망이다.",
+      "zh": "人形机器人市场预计将从2025年的15亿美元增长到2035年的378亿美元，年均增速有望高达38%。",
+      "py": "rén xíng jī qì rén shì chǎng yù jì jiāng cóng 2025 nián de 15 yì měi yuán zēng zhǎng dào 2035 nián de 378 yì měi yuán, nián jūn zēng sù yǒu wàng gāo dá 38 %."
+    },
+    {
+      "ko": "단순한 유망 산업이 아니라 제조업 주도권과 국가 안보를 가르는 격전지다.",
+      "zh": "这早已不只是一个朝阳产业，而是争夺制造业话语权与国家安全的角斗场。",
+      "py": "zhè zǎo yǐ bù zhǐ shì yī gè cháo yáng chǎn yè, ér shì zhēng duó zhì zào yè huà yǔ quán yǔ guó jiā ān quán de jiǎo dòu chǎng."
+    },
+    {
+      "ko": "미국과 중국이 이 무대의 중앙을 차지하고 있다.",
+      "zh": "美中两国于此片舞台中央分庭抗礼，互相角力。",
+      "py": "měi zhōng liǎng guó yú cǐ piàn wǔ tái zhōng yāng fēn tíng kàng lǐ, hù xiāng jiǎo lì."
+    },
+    {
+      "ko": "미국은 테슬라·엔비디아 등 빅테크가 이끄는 AI 파운데이션 모델과 반도체 설계 우위로 산업을 선도한다.",
+      "zh": "美国凭借特斯拉、英伟达等科技巨头领跑的AI基础模型，以及芯片设计上的优势，引领着整个产业。",
+      "py": "měi guó píng jiè tè sī lā, yīng wěi dá děng kē jì jù tóu lǐng pǎo de AI jī chǔ mó xíng, yǐ jí xīn piàn shè jì shàng de yōu shì, yǐn lǐng zhe zhěng gè chǎn yè."
+    },
+    {
+      "ko": "중국은 140개가 넘는 기업이 양산 경쟁에 뛰어들어 2025년 신규 모델의 약 70%를 점유했다.",
+      "zh": "中国则有超过140家企业涌入量产竞赛，2025年新发布的机型中约七成出自中国。",
+      "py": "zhōng guó zé yǒu chāo guò 140 jiā qǐ yè yǒng rù liàng chǎn jìng sài, 2025 nián xīn fā bù de jī xíng zhōng yuē qī chéng chū zì zhōng guó."
+    },
+    {
+      "ko": "중국의 전략은 속도와 규모다.",
+      "zh": "中国的战略核心在于速度与规模化——",
+      "py": "zhōng guó de zhàn lüè hé xīn zài yú sù dù yǔ guī mó huà——"
+    },
+    {
+      "ko": "국유기업을 동원한 강제 실증, 베이징·상하이·선전을 잇는 R&D-제조-부품의 삼각 분업 체계로 '보급 후 개선'이라는 실용주의 노선을 밀어붙인다.",
+      "zh": "动员国有企业强制落地实测，依托连接北京、上海、深圳的“研发—制造—零部件”三角分工体系，大刀阔斧地推进“先推广、再迭代”的务实主义路线。",
+      "py": "dòng yuán guó yǒu qǐ yè qiáng zhì luò dì shí cè, yī tuō lián jiē běi jīng, shàng hǎi, shēn zhèn de \"yán fā— zhì zào— líng bù jiàn\" sān jiǎo fēn gōng tǐ xì, dà dāo kuò fǔ dì tuī jìn \"xiān tuī guǎng, zài dié dài\" de wù shí zhǔ yì lù xiàn."
+    },
+    {
+      "ko": "한국의 위치는 어디인가.",
+      "zh": "韩国身处这一产业赛道的哪个位置？",
+      "py": "hán guó shēn chù zhè yī chǎn yè sài dào de nǎ gè wèi zhì?"
+    },
+    {
+      "ko": "수치만 보면 그리 초라하지 않다.",
+      "zh": "单看核心数据，其实并不逊色。",
+      "py": "dān kàn hé xīn shù jù, qí shí bìng bù xùn sè."
+    },
+    {
+      "ko": "로봇 밀도 세계 1위, 현대차그룹 아틀라스의 독보적 관절 기술, 두산로보틱스의 협동로봇 실적이 그 근거다.",
+      "zh": "机器人密度全球第一、现代汽车集团Atlas的独家关节技术、斗山机器人在协作机器人领域的落地成果，都是支撑这一判断的核心依据。",
+      "py": "jī qì rén mì dù quán qiú dì yī, xiàn dài qì chē jí tuán Atlas de dú jiā guān jié jì shù, dòu shān jī qì rén zài xié zuò jī qì rén lǐng yù de luò dì chéng guǒ, dōu shì zhī chēng zhè yī pàn duàn de hé xīn yī jù."
+    },
+    {
+      "ko": "2026년 상반기 기준 한국 휴머노이드 산업은 전시용 데모를 넘어 실제 산업 현장 검증 단계로 들어섰다.",
+      "zh": "截至2026年上半年，韩国人形机器人产业已经跨过展示用演示样机阶段，正式进入真实产业现场的落地验证环节。",
+      "py": "jié zhì 2026 nián shàng bàn nián, hán guó rén xíng jī qì rén chǎn yè yǐ jīng kuà guò zhǎn shì yòng yǎn shì yàng jī jiē duàn, zhèng shì jìn rù zhēn shí chǎn yè xiàn chǎng de luò dì yàn zhèng huán jié."
+    },
+    {
+      "ko": "현대차그룹은 CES 2026에서 완전 전기구동 아틀라스를 공개하고 2028년 미국 공장 투입 로드맵을 내놓았다.",
+      "zh": "现代汽车集团在CES 2026上发布了全电驱动版Atlas，同时公布了2028年将其投入美国工厂应用的路线图。",
+      "py": "xiàn dài qì chē jí tuán zài CES 2026 shàng fā bù le quán diàn qū dòng bǎn Atlas, tóng shí gōng bù le 2028 nián jiāng qí tóu rù měi guó gōng chǎng yīng yòng de lù xiàn tú."
+    },
+    {
+      "ko": "학계 성과도 이어졌다.",
+      "zh": "学界层面的成果也在持续落地：",
+      "py": "xué jiè céng miàn de chéng guǒ yě zài chí xù luò dì:"
+    },
+    {
+      "ko": "KAIST 연구팀이 세계 권위의 로봇 학술대회 챌린지에서 종합 1위를 차지했고, 부산대학교는 국제 AI 로봇대회 '로보컵 2025'에서 홈 서비스 부문 우승을 거뒀다.",
+      "zh": "韩国科学技术院（KAIST）研究团队在全球权威机器人学术大会挑战赛中拿下综合第一，釜山大学则在2025年国际AI机器人大赛RoboCup的家庭服务组别中夺得冠军。",
+      "py": "hán guó kē xué jì shù yuàn( KAIST) yán jiū tuán duì zài quán qiú quán wēi jī qì rén xué shù dà huì tiāo zhàn sài zhōng ná xià zōng hé dì yī, fǔ shān dà xué zé zài 2025 nián guó jì AI jī qì rén dà sài RoboCup de jiā tíng fú wù zǔ bié zhōng duó dé guān jūn."
+    },
+    {
+      "ko": "빛이 밝은 만큼 그림자도 길다.",
+      "zh": "光芒越耀眼，阴影也越深长。",
+      "py": "guāng máng yuè yào yǎn, yīn yǐng yě yuè shēn zhǎng."
+    },
+    {
+      "ko": "한국의 휴머노이드 기술력은 미국·중국 대비 85% 수준에 머물고, AI 원천기술인 파운데이션 모델 영역에서 격차가 특히 뚜렷하다.",
+      "zh": "韩国的人形机器人技术实力仅停留在美中两国的85%左右，尤其在AI原创技术——基础模型领域，差距尤为明显。",
+      "py": "hán guó de rén xíng jī qì rén jì shù shí lì jǐn tíng liú zài měi zhōng liǎng guó de 85 % zuǒ yòu, yóu qí zài AI yuán chuàng jì shù—— jī chǔ mó xíng lǐng yù, chà jù yóu wèi míng xiǎn."
+    },
+    {
+      "ko": "감속기·그리퍼 등 핵심 부품의 국산화율은 여전히 40%대에 그쳐, 로봇을 수출할수록 일본 등에 막대한 로열티를 역수출하는 기형적 구조가 이어진다.",
+      "zh": "减速器、夹爪等核心零部件的国产化率仍只有四成出头，机器人出口规模越大，向日本等国反向支付巨额专利费的畸形结构仍在延续。",
+      "py": "jiǎn sù qì, jiā zhǎo děng hé xīn líng bù jiàn de guó chǎn huà lǜ réng zhǐ yǒu sì chéng chū tóu, jī qì rén chū kǒu guī mó yuè dà, xiàng rì běn děng guó fǎn xiàng zhī fù jù é zhuān lì fèi de jī xíng jié gòu réng zài yán xù."
+    },
+    {
+      "ko": "국내 로봇 기업의 99%가 중소기업이라, 시제품 단계를 지나 양산으로 넘어가는 길목에서 자금이 모자라 좌초할 위험이 크다.",
+      "zh": "国内机器人企业99%为中小企业，在跨越样机阶段、迈向量产的关口上，极易因资金告罄而搁浅。",
+      "py": "guó nèi jī qì rén qǐ yè 99 % wèi zhōng xiǎo qǐ yè, zài kuà yuè yàng jī jiē duàn, mài xiàng liàng chǎn de guān kǒu shàng, jí yì yīn zī jīn gào qìng ér gē qiǎn."
+    },
+    {
+      "ko": "하드웨어 경쟁력을 갖추고도 '두뇌'가 없어 완성품을 만들지 못하는 상황이다.",
+      "zh": "空有硬件竞争力，却因缺了“大脑”而造不出成品。",
+      "py": "kōng yǒu yìng jiàn jìng zhēng lì, què yīn quē le \"dà nǎo\" ér zào bù chū chéng pǐn."
+    },
+    {
+      "ko": "부품 종속, 얇은 산업 저변, 규제와 노동계 저항이라는 삼중고가 한국의 발목을 잡고 있다.",
+      "zh": "零部件受制于人、产业根基薄弱、监管与劳工界的抵触——这三重困境正死死拖住韩国的脚步。",
+      "py": "líng bù jiàn shòu zhì yú rén, chǎn yè gēn jī báo ruò, jiān guǎn yǔ láo gōng jiè de dǐ chù—— zhè sān zhòng kùn jìng zhèng sǐ sǐ tuō zhù hán guó de jiǎo bù."
+    },
+    {
+      "ko": "돌파구는 이미 나와 있다.",
+      "zh": "突破口其实早已有之。",
+      "py": "tū pò kǒu qí shí zǎo yǐ yǒu zhī."
+    },
+    {
+      "ko": "방향이 아니라 속도와 의지의 문제다.",
+      "zh": "问题不在方向，而在速度与决心。",
+      "py": "wèn tí bù zài fāng xiàng, ér zài sù dù yǔ jué xīn."
+    },
+    {
+      "ko": "한국기계연구원은 핵심 부품 내재화와 OpenAI·구글 등 빅테크와의 AI 파운데이션 모델 협력이라는 투트랙 전략을 제안했다.",
+      "zh": "韩国机械研究院提出了“双轨”战略：一是核心零部件自主化，二是与OpenAI、谷歌等科技巨头在AI基础模型上携手合作。",
+      "py": "hán guó jī xiè yán jiū yuàn tí chū le \"shuāng guǐ\" zhàn lüè: yī shì hé xīn líng bù jiàn zì zhǔ huà, èr shì yǔ OpenAI, gǔ gē děng kē jì jù tóu zài AI jī chǔ mó xíng shàng xié shǒu hé zuò."
+    },
+    {
+      "ko": "정부는 K-휴머노이드 연합을 통해 2030년까지 1조 원 이상을 투자해, 2028년 AI 파운데이션 모델 개발과 2029년 연 1,000대 이상 양산을 목표로 잡았다.",
+      "zh": "政府则计划借助K-人形机器人联盟，到2030年投入逾1万亿韩元，力争在2028年完成AI基础模型开发、2029年实现年产1000台以上。",
+      "py": "zhèng fǔ zé jì huà jiè zhù K- rén xíng jī qì rén lián méng, dào 2030 nián tóu rù yú 1 wàn yì hán yuán, lì zhēng zài 2028 nián wán chéng AI jī chǔ mó xíng kāi fā, 2029 nián shí xiàn nián chǎn 1000 tái yǐ shàng."
+    },
+    {
+      "ko": "문제는 목표를 세우는 일과 실행하는 일이 다르다는 데 있다.",
+      "zh": "难就难在，定目标与抓落实是两码事。",
+      "py": "nán jiù nán zài, dìng mù biāo yǔ zhuā luò shí shì liǎng mǎ shì."
+    },
+    {
+      "ko": "예산은 편성됐고 연합은 출범했지만, 현장의 실증이 실제 매출로 전환되지 않으면 모든 로드맵은 종이 위의 수사로 끝난다.",
+      "zh": "预算已编制，联盟已启航，可一旦落地实测无法兑现为营收，一切路线图都将沦为纸上空谈。",
+      "py": "yù suàn yǐ biān zhì, lián méng yǐ qǐ háng, kě yī dàn luò dì shí cè wú fǎ duì xiàn wèi yíng shōu, yī qiè lù xiàn tú dōu jiāng lún wèi zhǐ shàng kōng tán."
+    },
+    {
+      "ko": "기계연 연구원의 말은 새겨들을 만하다.",
+      "zh": "韩国机械研究院研究员的一番话，值得反复咀嚼：",
+      "py": "hán guó jī xiè yán jiū yuàn yán jiū yuán de yī fān huà, zhí dé fǎn fù jǔ jué:"
+    },
+    {
+      "ko": "\"기술 과시용 데모의 시대는 끝났다. 현장에서 얼마나 빨리 수익을 내느냐가 관건\"이라는 것이다.",
+      "zh": "“技术展示用样机的时代已经落幕，关键在于能在生产现场多快实现盈利。”",
+      "py": "\"jì shù zhǎn shì yòng yàng jī de shí dài yǐ jīng luò mù, guān jiàn zài yú néng zài shēng chǎn xiàn chǎng duō kuài shí xiàn yíng lì.\""
+    },
+    {
+      "ko": "남은 시간은 2030년까지다.",
+      "zh": "我们的时间窗口，截至2030年。",
+      "py": "wǒ men de shí jiān chuāng kǒu, jié zhì 2030 nián."
+    },
+    {
+      "ko": "그 안에 부품 공급망을 내재화하고, AI 소프트웨어 역량을 확보하고, 중소 로봇 기업이 양산 단계까지 살아남을 금융·규제 생태계를 갖추지 못하면, 세계 1위의 로봇 밀도도 남의 두뇌와 남의 부품으로 채운 껍데기로 남는다.",
+      "zh": "若届时不能实现零部件供应链自主可控，不能夯实AI软件能力，也不能搭建起支撑中小机器人企业熬过量产阶段的金融与监管生态，那么，即便顶着全球第一的机器人密度，也终将沦为徒有其表的空壳——里面塞的全是别人的“大脑”、别人的零部件。",
+      "py": "ruò jiè shí bù néng shí xiàn líng bù jiàn gōng yīng liàn zì zhǔ kě kòng, bù néng hāng shí AI ruǎn jiàn néng lì, yě bù néng dā jiàn qǐ zhī chēng zhōng xiǎo jī qì rén qǐ yè áo guò liàng chǎn jiē duàn de jīn róng yǔ jiān guǎn shēng tài, nà me, jí biàn dǐng zhe quán qiú dì yī de jī qì rén mì dù, yě zhōng jiāng lún wèi tú yǒu qí biǎo de kōng ké—— lǐ miàn sāi de quán shì bié rén de \"dà nǎo\", bié rén de líng bù jiàn."
+    },
+    {
+      "ko": "로봇 전쟁의 시계는 이미 돌아가고 있다.",
+      "zh": "机器人产业竞逐的时钟早已滴答作响，",
+      "py": "jī qì rén chǎn yè jìng zhú de shí zhōng zǎo yǐ dī dá zuò xiǎng,"
+    },
+    {
+      "ko": "우리가 움직여야 할 시간도 지금이다.",
+      "zh": "现在行动，正当其时。",
+      "py": "xiàn zài xíng dòng, zhèng dāng qí shí."
+    }
+  ]
+}
