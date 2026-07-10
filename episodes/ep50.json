@@ -1,0 +1,88 @@
+{
+  "num": "EP.50",
+  "tag": "칼럼",
+  "titleKo": "지하철 무임승차 연령 70세 연장, 복지의 확장인가 축소인가",
+  "titleZh": "地铁免票年龄上调至70岁：福利扩容还是缩水？",
+  "sentences": [
+    {
+      "ko": "한국은 2000년 고령화 사회에 들어선 뒤 빠른 속도로 고령화가 진행되어 2024년 말에는 드디어 '초고령 사회'가 되었다.",
+      "zh": "韩国自2000年迈入老龄化社会以来，老龄化进程急剧加速，于2024年底正式迈入“超老龄社会”。",
+      "py": "hán guó zì 2000 nián mài rù lǎo líng huà shè huì yǐ lái, lǎo líng huà jìn chéng jí jù jiā sù, yú 2024 nián dǐ zhèng shì mài rù \"chāo lǎo líng shè huì\"."
+    },
+    {
+      "ko": "평균 수명은 길어졌지만 일할 인구는 줄고, 의료와 복지 비용은 늘어나면서 사회 전반이 변화해야 하는 상황이다.",
+      "zh": "人均寿命延长了，劳动人口却在减少，医疗与福利支出日益攀升，全社会正处于亟待变革的关口。",
+      "py": "rén jūn shòu mìng yán zhǎng le, láo dòng rén kǒu què zài jiǎn shǎo, yī liáo yǔ fú lì zhī chū rì yì pān shēng, quán shè huì zhèng chù yú jí dài biàn gé de guān kǒu."
+    },
+    {
+      "ko": "서울시의회가 최근 70세 이상 시민에게 시내버스와 마을버스 교통비를 지원하는 안을 통과시켰다.",
+      "zh": "首尔市议会近日通过了一项议案，决定向70岁以上市民发放市内公交及社区巴士交通补贴。",
+      "py": "shǒu ěr shì yì huì jìn rì tōng guò le yī xiàng yì àn, jué dìng xiàng 70 suì yǐ shàng shì mín fā fàng shì nèi gōng jiāo jí shè qū bā shì jiāo tōng bǔ tiē."
+    },
+    {
+      "ko": "서울시는 재원 마련을 위해 기존 65세 이상에게 적용되던 지하철 무임승차 기준을 70세로 높이는 방안을 함께 검토하고 있다.",
+      "zh": "首尔市正同步研究筹措资金的配套方案，拟将现行65岁以上老人地铁免票的年龄门槛上调至70岁。",
+      "py": "shǒu ěr shì zhèng tóng bù yán jiū chóu cuò zī jīn de pèi tào fāng àn, nǐ jiāng xiàn xíng 65 suì yǐ shàng lǎo rén dì tiě miǎn piào de nián líng mén kǎn shàng diào zhì 70 suì."
+    },
+    {
+      "ko": "올해 5월 기준 서울에 사는 65세 이상 인구는 약 194만 명으로 전체의 약 20%를 차지한다.",
+      "zh": "截至今年5月，首尔65岁以上老年人口约194万，约占全市总人口的20%。",
+      "py": "jié zhì jīn nián 5 yuè, shǒu ěr 65 suì yǐ shàng lǎo nián rén kǒu yuē 194 wàn, yuē zhàn quán shì zǒng rén kǒu de 20 %."
+    },
+    {
+      "ko": "고령인구가 계속 늘면 지하철 무임승차에 드는 비용도 기하급수적으로 커지기 때문에 기준 조정이 불가피하다는 것이 찬성 측 주장이다.",
+      "zh": "赞成者认为，随着老年人口持续增加，地铁免票带来的财政负担将呈几何级数增长，因此调整标准在所难免。",
+      "py": "zàn chéng zhě rèn wèi, suí zhe lǎo nián rén kǒu chí xù zēng jiā, dì tiě miǎn piào dài lái de cái zhèng fù dān jiāng chéng jǐ hé jí shù zēng zhǎng, yīn cǐ diào zhěng biāo zhǔn zài suǒ nán miǎn."
+    },
+    {
+      "ko": "그동안 지하철이 닿지 않는 지역의 노인들은 교통 복지에서 소외되어 왔다.",
+      "zh": "长期以来，地铁未覆盖地区的老年人一直处于交通福利的边缘。",
+      "py": "zhǎng qī yǐ lái, dì tiě wèi fù gài dì qū de lǎo nián rén yī zhí chù yú jiāo tōng fú lì de biān yuán."
+    },
+    {
+      "ko": "버스비를 지원하면 복지를 더욱 폭넓게 제공할 수 있어, 지역에 따른 복지 차이를 줄이는 데 크게 기여할 것이라는 게 찬성 측의 입장이다.",
+      "zh": "赞成者主张，发放公交补贴能够扩大福利覆盖面，对缩小地区间的福利差距大有裨益。",
+      "py": "zàn chéng zhě zhǔ zhāng, fā fàng gōng jiāo bǔ tiē néng gòu kuò dà fú lì fù gài miàn, duì suō xiǎo dì qū jiān de fú lì chà jù dà yǒu bì yì."
+    },
+    {
+      "ko": "반면, 반대하는 목소리도 적지 않다.",
+      "zh": "然而，反对的声音同样不容忽视。",
+      "py": "rán ér, fǎn duì de shēng yīn tóng yàng bù róng hū shì."
+    },
+    {
+      "ko": "가장 큰 이유는 65세에서 69세 사이 시민들이 겪게 될 경제적 부담이다.",
+      "zh": "首要原因便是65至69岁群体将面临的经济负担。",
+      "py": "shǒu yào yuán yīn biàn shì 65 zhì 69 suì qún tǐ jiāng miàn lín de jīng jì fù dān."
+    },
+    {
+      "ko": "지금까지 무료로 이용하던 지하철을 갑자기 유료로 바꿔야 한다면, 이들에게는 타격이 될 수밖에 없다.",
+      "zh": "原本免费乘坐的地铁突然改为收费，对他们而言无疑是一记重击。",
+      "py": "yuán běn miǎn fèi chéng zuò de dì tiě tū rán gǎi wèi shōu fèi, duì tā men ér yán wú yí shì yī jì zhòng jī."
+    },
+    {
+      "ko": "특히 치료를 위해 병원에 자주 가야 하거나, 생계를 위해 지하철을 이용하는 사람들에게는 또 다른 삶의 무게로 다가온다.",
+      "zh": "特别是对于那些需要频繁就医，或是依靠地铁通勤维持生计的老人来说，这更是平添了沉重的生活压力。",
+      "py": "tè bié shì duì yú nà xiē xū yào pín fán jiù yī, huò shì yī kào dì tiě tōng qín wéi chí shēng jì de lǎo rén lái shuō, zhè gèng shì píng tiān le chén zhòng de shēng huó yā lì."
+    },
+    {
+      "ko": "고령화가 계속 진행되면 70세 이상 인구도 늘어나 결국 버스비 지원에 필요한 돈도 해마다 커질 것이라는 우려도 제기된다.",
+      "zh": "随着老龄化不断加剧，70岁以上人口日益增多，公交补贴的资金需求必将逐年攀升，这一点也引发了财政可持续性的担忧。",
+      "py": "suí zhe lǎo líng huà bù duàn jiā jù, 70 suì yǐ shàng rén kǒu rì yì zēng duō, gōng jiāo bǔ tiē de zī jīn xū qiú bì jiāng zhú nián pān shēng, zhè yī diǎn yě yǐn fā le cái zhèng kě chí xù xìng de dān yōu."
+    },
+    {
+      "ko": "지하철 무임승차 연령 상향은 단순히 나이 기준을 몇 살이나 올리느냐의 문제가 아니다.",
+      "zh": "上调地铁免票年龄，绝非单纯把年龄门槛提高几岁那么简单。",
+      "py": "shàng diào dì tiě miǎn piào nián líng, jué fēi dān chún bǎ nián líng mén kǎn tí gāo jǐ suì nà me jiǎn dān."
+    },
+    {
+      "ko": "이는 한정된 재정 속에서 '효율적인 복지 재분배'를 선택할 것인가, 아니면 '기존 수혜자의 부담 가중'을 막을 것인가의 복잡한 기로에 선 사안이다.",
+      "zh": "这是在有限财政下，关于“高效的福利再分配”与“防止加重现有受惠者负担”之间如何取舍的复条命题。",
+      "py": "zhè shì zài yǒu xiàn cái zhèng xià, guān yú \"gāo xiào de fú lì zài fēn pèi\" yǔ \"fáng zhǐ jiā zhòng xiàn yǒu shòu huì zhě fù dān\" zhī jiān rú hé qǔ shě de fù tiáo mìng tí."
+    },
+    {
+      "ko": "초고령 사회라는 거대한 파도 앞에서, 이번 안이 진정으로 교통 복지를 고르게 제공하는 확장인지, 아니면 일부의 희생을 요구하는 축소인지에 대한 사회적 합의가 절실하다.",
+      "zh": "面对“超老龄社会”的时代巨浪，全社会亟需达成共识：该方案究竟是真正普惠大众的交通福利“扩容”，还是要求部分人做出牺牲的福利“缩水”。",
+      "py": "miàn duì \"chāo lǎo líng shè huì\" de shí dài jù làng, quán shè huì jí xū dá chéng gòng shí: gāi fāng àn jiū jìng shì zhēn zhèng pǔ huì dà zhòng de jiāo tōng fú lì \"kuò róng\", hái shì yào qiú bù fēn rén zuò chū xī shēng de fú lì \"suō shuǐ\"."
+    }
+  ]
+}
