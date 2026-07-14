@@ -1,0 +1,88 @@
+{
+  "num": "EP.55",
+  "tag": "칼럼",
+  "titleKo": "[찬성] 중국 전기차 공습, 국내 산업 보호 더는 미룰 수 없다",
+  "titleZh": "[赞成] 中国电动汽车大举来袭，韩国产业保护刻不容缓",
+  "sentences": [
+    {
+      "ko": "지난달 국내에 등록된 수입 승용차 판매 순위에 낯선 이름이 올라왔다. 중국 전기차 업체 비야디, BYD다.",
+      "zh": "上个月，韩国进口乘用车销量榜单上出现了一个陌生的名字——中国电动汽车企业比亚迪（BYD）。",
+      "py": "shàng gè yuè, hán guó jìn kǒu chéng yòng chē xiāo liàng bǎng dān shàng chū xiàn le yī gè mò shēng de míng zì—— zhōng guó diàn dòng qì chē qǐ yè bǐ yà dí( BYD)."
+    },
+    {
+      "ko": "불과 1년 전만 해도 존재감이 미미했던 이 회사는 올해 1∼5월 국내에서 7023대를 팔아치우며 지난해 같은 기간보다 다섯 배 넘게 몸집을 불렸다.",
+      "zh": "这家一年前还默默无闻的企业，今年1至5月在韩国狂销7023辆，规模同比暴增五倍有余。",
+      "py": "zhè jiā yī nián qián hái mò mò wú wén de qǐ yè, jīn nián 1 zhì 5 yuè zài hán guó kuáng xiāo 7023 liàng, guī mó tóng bǐ bào zēng wǔ bèi yǒu yú."
+    },
+    {
+      "ko": "국내 전기차 시장에서 중국산이 차지하는 비중은 이미 3대 중 1대꼴인 33.9%까지 올라섰고, 반대로 국산 전기차의 점유율은 뒷걸음질치고 있다.",
+      "zh": "中国产电动汽车在韩国市场的占有率已攀升至33.9%，相当于每三辆电动车中就有一辆来自中国；而韩国本土电动汽车的份额却在节节后退。",
+      "py": "zhōng guó chǎn diàn dòng qì chē zài hán guó shì chǎng de zhàn yǒu lǜ yǐ pān shēng zhì 33.9 %, xiāng dāng yú měi sān liàng diàn dòng chē zhōng jiù yǒu yī liàng lái zì zhōng guó; ér hán guó běn tǔ diàn dòng qì chē de fèn é què zài jié jié hòu tuì."
+    },
+    {
+      "ko": "이 논쟁을 소비자 후생과 자유무역이라는 원론으로만 바라보면 본질을 놓친다.",
+      "zh": "如果只以消费者福利和自由贸易的原则来看待这场争论，就会抓不住问题的实质。",
+      "py": "rú guǒ zhǐ yǐ xiāo fèi zhě fú lì hé zì yóu mào yì de yuán zé lái kàn dài zhè chǎng zhēng lùn, jiù huì zhuā bù zhù wèn tí de shí zhì."
+    },
+    {
+      "ko": "중국 전기차의 가격 경쟁력은 시장에서의 정당한 승부라기보다 자국 정부의 막대한 보조금과 생산 과잉이 만들어낸 결과라고 국제사회는 진단한다.",
+      "zh": "国际社会普遍认为，中国电动汽车的价格优势与其说是市场上的公平竞争，不如说是本国政府巨额补贴与产能过剩共同造就的结果。",
+      "py": "guó jì shè huì pǔ biàn rèn wèi, zhōng guó diàn dòng qì chē de jià gé yōu shì yǔ qí shuō shì shì chǎng shàng de gōng píng jìng zhēng, bù rú shuō shì běn guó zhèng fǔ jù é bǔ tiē yǔ chǎn néng guò shèng gòng tóng zào jiù de jié guǒ."
+    },
+    {
+      "ko": "유럽연합은 이미 중국산 전기차에 최고 45.3%의 상계관세를 부과했고, 미국은 대당 422만원에 이르는 관세 장벽을 세웠다.",
+      "zh": "欧盟已对中国产电动汽车加征最高45.3%的反补贴税，美国则设置了每辆约422万韩元的关税壁垒。",
+      "py": "ōu méng yǐ duì zhōng guó chǎn diàn dòng qì chē jiā zhēng zuì gāo 45.3 % de fǎn bǔ tiē shuì, měi guó zé shè zhì le měi liàng yuē 422 wàn hán yuán de guān shuì bì lěi."
+    },
+    {
+      "ko": "일본조차 자국에서 생산된 전기차에 대당 최대 40만엔의 세액공제를 얹어주며 자국 산업을 감싸고 있다.",
+      "zh": "就连日本也对本国生产的电动汽车给予每辆最高40万日元的税收抵免，为本土产业撑腰。",
+      "py": "jiù lián rì běn yě duì běn guó shēng chǎn de diàn dòng qì chē gěi yǔ měi liàng zuì gāo 40 wàn rì yuán de shuì shōu dǐ miǎn, wèi běn tǔ chǎn yè chēng yāo."
+    },
+    {
+      "ko": "유독 한국만 관세도, 생산 유인책도 없이 안방을 내주고 있는 셈이다.",
+      "zh": "唯独韩国既无关税壁垒，也无生产激励，无异于将本土市场拱手相让。",
+      "py": "wéi dú hán guó jì wú guān shuì bì lěi, yě wú shēng chǎn jī lì, wú yì yú jiāng běn tǔ shì chǎng gǒng shǒu xiāng ràng."
+    },
+    {
+      "ko": "이미 한국은 한 차례 뼈아픈 경험을 했다.",
+      "zh": "韩国其实已经吃过一次苦头：",
+      "py": "hán guó qí shí yǐ jīng chī guò yī cì kǔ tóu:"
+    },
+    {
+      "ko": "한때 세계 상위권을 다투던 국내 태양광 산업은 중국의 물량 공세와 저가 경쟁에 밀려 생산기반 자체가 붕괴했고, 지금은 핵심 소재와 부품마저 수입에 의존하는 처지로 전락했다.",
+      "zh": "曾经跻身世界前列的本土光伏产业，就是败给了中国的量产攻势和低价竞争，生产根基彻底崩溃，如今连核心材料和零部件都要依赖进口。",
+      "py": "céng jīng jī shēn shì jiè qián liè de běn tǔ guāng fú chǎn yè, jiù shì bài gěi le zhōng guó de liàng chǎn gōng shì hé dī jià jìng zhēng, shēng chǎn gēn jī chè dǐ bēng kuì, rú jīn lián hé xīn cái liào hé líng bù jiàn dōu yào yī lài jìn kǒu."
+    },
+    {
+      "ko": "전기차마저 같은 길을 걷는다면 되돌릴 기회조차 사라진다.",
+      "zh": "倘若电动汽车重蹈覆辙，恐怕再无翻盘的机会。",
+      "py": "tǎng ruò diàn dòng qì chē zhòng dǎo fù zhé, kǒng pà zài wú fān pán de jī huì."
+    },
+    {
+      "ko": "세계무역기구 체제 안에서도 불공정 보조금에 대한 상계관세는 명백히 허용된 수단이다.",
+      "zh": "在世界贸易组织框架下，针对不公平补贴征收反补贴税本就是被允许的手段。",
+      "py": "zài shì jiè mào yì zǔ zhī kuāng jià xià, zhēn duì bù gōng píng bǔ tiē zhēng shōu fǎn bǔ tiē shuì běn jiù shì bèi yǔn xǔ de shǒu duàn."
+    },
+    {
+      "ko": "국내생산촉진세제 역시 특정국 배제가 아니라 국내 생산이라는 객관적 기준만 적용하면 통상 규범과 얼마든지 양립한다.",
+      "zh": "只要国内生产促进税制适用的是“国内生产”这一客观标准，而非排斥特定国家，就完全可以与国际贸易规则并行不悖。",
+      "py": "zhǐ yào guó nèi shēng chǎn cù jìn shuì zhì shì yòng de shì \"guó nèi shēng chǎn\" zhè yī kè guān biāo zhǔn, ér fēi pái chì tè dìng guó jiā, jiù wán quán kě yǐ yǔ guó jì mào yì guī zé bìng xíng bù bèi."
+    },
+    {
+      "ko": "전기차 산업은 배터리, 반도체, 소프트웨어가 얽힌 미래 산업의 축이며, 한번 무너진 생산기반과 공급망은 보조금 몇 푼으로 되살릴 수 없다.",
+      "zh": "电动汽车产业是电池、半导体和软件深度交织的未来产业支柱，一旦生产根基和供应链垮塌，靠几笔补贴根本无力回天。",
+      "py": "diàn dòng qì chē chǎn yè shì diàn chí, bàn dǎo tǐ hé ruǎn jiàn shēn dù jiāo zhī de wèi lái chǎn yè zhī zhù, yī dàn shēng chǎn gēn jī hé gōng yīng liàn kuǎ tā, kào jǐ bǐ bǔ tiē gēn běn wú lì huí tiān."
+    },
+    {
+      "ko": "지금 필요한 것은 막연한 자유무역 신앙이 아니라, 국내 생산기반이 무너지기 전에 골든타임을 지키는 정교한 산업 정책이다.",
+      "zh": "眼下需要的不是空洞的自由贸易信条，而是在生产根基崩溃之前抓住窗口期的精细产业政策。",
+      "py": "yǎn xià xū yào de bù shì kōng dòng de zì yóu mào yì xìn tiáo, ér shì zài shēng chǎn gēn jī bēng kuì zhī qián zhuā zhù chuāng kǒu qī de jīng xì chǎn yè zhèng cè."
+    },
+    {
+      "ko": "국내생산촉진세제 도입을 더 이상 미룰 이유가 없다.",
+      "zh": "国内生产促进税制，没有理由再拖下去。",
+      "py": "guó nèi shēng chǎn cù jìn shuì zhì, méi yǒu lǐ yóu zài tuō xià qù."
+    }
+  ]
+}
