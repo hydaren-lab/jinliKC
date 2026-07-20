@@ -1,0 +1,103 @@
+{
+  "num": "EP.58",
+  "tag": "칼럼",
+  "titleKo": "[반대] 인도는 사람의 길이다, 배달로봇 확산 서두르지 말아야",
+  "titleZh": "[反对] 人行道是人走的路，无人配送车推广不宜操之过急",
+  "sentences": [
+    {
+      "ko": "\"제 가족과 산책하다 로봇을 피해야 하는 처지가 됐다.\" 미국 시카고 시민 존 로버츠가 BBC에 전한 말이다.",
+      "zh": "“我和家人散个步，都落得要躲着机器人走的地步。”这是美国芝加哥居民约翰·罗伯茨（John Roberts）对BBC说的话。",
+      "py": "\"wǒ hé jiā rén sàn gè bù, dōu luò dé yào duǒ zhe jī qì rén zǒu de dì bù.\" zhè shì měi guó zhī jiā gē jū mín yuē hàn· luó bó cí( John Roberts) duì BBC shuō de huà."
+    },
+    {
+      "ko": "그는 배달로봇 운행을 안전성 검증 전까지 중단해야 한다는 청원을 벌였고 4400명이 서명했다.",
+      "zh": "他发起请愿，要求在安全性得到验证前暂停配送机器人运营，已有4400人签名支持。",
+      "py": "tā fā qǐ qǐng yuàn, yào qiú zài ān quán xìng dé dào yàn zhèng qián zàn tíng pèi sòng jī qì rén yùn yíng, yǐ yǒu 4400 rén qiān míng zhī chí."
+    },
+    {
+      "ko": "서울 성수동과 인천 송도에서도 자율주행 배달로봇 '뉴비'가 인도를 다니는 모습이 흔해졌다.",
+      "zh": "首尔圣水洞、仁川松岛街头，配送机器人“纽比”穿行的场景也已司空见惯。",
+      "py": "shǒu ěr shèng shuǐ dòng, rén chuān sōng dǎo jiē tóu, pèi sòng jī qì rén \"niǔ bǐ\" chuān xíng de chǎng jǐng yě yǐ sī kōng jiàn guàn."
+    },
+    {
+      "ko": "로봇이 가져올 편리함은 분명하지만, 그 편리함을 사람이 걷는 길 위에서, 아무런 사회적 합의 없이 확산시키는 방식에는 제동이 필요하다.",
+      "zh": "机器人带来的便利显而易见，但任由这种便利在毫无社会共识的情况下涌入人行道，理应踩一脚刹车。",
+      "py": "jī qì rén dài lái de biàn lì xiǎn ér yì jiàn, dàn rèn yóu zhè zhǒng biàn lì zài háo wú shè huì gòng shí de qíng kuàng xià yǒng rù rén xíng dào, lǐ yīng cǎi yī jiǎo shā chē."
+    },
+    {
+      "ko": "가장 근본적인 문제는 인도의 주인이 누구인가다.",
+      "zh": "最根本的问题是，人行道究竟该由谁做主。",
+      "py": "zuì gēn běn de wèn tí shì, rén xíng dào jiū jìng gāi yóu shuí zuò zhǔ."
+    },
+    {
+      "ko": "인도는 원래 자동차로부터 보행자를 보호하기 위해 분리된 공간이다.",
+      "zh": "人行道本是为把行人和机动车分隔开而设的空间。",
+      "py": "rén xíng dào běn shì wèi bǎ xíng rén hé jī dòng chē fēn gé kāi ér shè de kōng jiān."
+    },
+    {
+      "ko": "무게 500㎏, 시속 15㎞라는 기준은 로봇 입장에서는 낮아 보일지 몰라도, 노인이나 어린이, 휠체어 이용자, 시각장애인에게는 여전히 위협적인 크기와 속도다.",
+      "zh": "500公斤、时速15公里的标准，在机器人眼里也许不算什么，可对老人、儿童、轮椅使用者和视障人士来说，依然是有威胁的体积和速度。",
+      "py": "500 gōng jīn, shí sù 15 gōng lǐ de biāo zhǔn, zài jī qì rén yǎn lǐ yě xǔ bù suàn shén me, kě duì lǎo rén, ér tóng, lún yǐ shǐ yòng zhě hé shì zhàng rén shì lái shuō, yī rán shì yǒu wēi xié de tǐ jī hé sù dù."
+    },
+    {
+      "ko": "실제로 해외에서는 로봇과 충돌해 다쳤다는 보도나 로봇이 횡단보도에서 오작동해 구조 차량 이동을 막았다는 사례까지 나왔다.",
+      "zh": "海外已经出现行人与机器人相撞受伤的报道，还有机器人在人行横道上失灵、挡住救援车辆通行的案例。",
+      "py": "hǎi wài yǐ jīng chū xiàn xíng rén yǔ jī qì rén xiāng zhuàng shòu shāng de bào dào, hái yǒu jī qì rén zài rén xíng héng dào shàng shī líng, dǎng zhù jiù yuán chē liàng tōng xíng de àn lì."
+    },
+    {
+      "ko": "안전인증 항목이 16개에서 8개로 줄어든 것도 산업 편의를 우선한 결과이지, 보행자 안전을 강화한 결과가 아니다.",
+      "zh": "安全认证项目从16项缩减为8项，体现的也是产业便利优先，而非行人安全优先。",
+      "py": "ān quán rèn zhèng xiàng mù cóng 16 xiàng suō jiǎn wèi 8 xiàng, tǐ xiàn de yě shì chǎn yè biàn lì yōu xiān, ér fēi xíng rén ān quán yōu xiān."
+    },
+    {
+      "ko": "일자리 문제는 더 절박하다.",
+      "zh": "就业问题更为迫切。",
+      "py": "jiù yè wèn tí gèng wèi pò qiè."
+    },
+    {
+      "ko": "국내 배달 라이더는 이미 플랫폼 간 경쟁으로 공급 과잉 상태에 놓여 수입이 절반 가까이 줄었다는 보도가 나왔다.",
+      "zh": "国内外卖骑手本就因平台间的激烈竞争而供给过剩，收入几近腰斩的报道已屡见不鲜。",
+      "py": "guó nèi wài mài qí shǒu běn jiù yīn píng tái jiān de jī liè jìng zhēng ér gōng gěi guò shèng, shōu rù jǐ jìn yāo zhǎn de bào dào yǐ lǚ jiàn bù xiān."
+    },
+    {
+      "ko": "이런 상황에서 로봇이 근거리 배달 물량을 흡수하면, 소득 감소는 라이더 개인의 생계 문제를 넘어 사회 전체의 불안정으로 번질 수 있다.",
+      "zh": "这种情况下，若机器人再吞掉近距离配送订单，收入下滑就不只是骑手个人的生计问题，还可能演变成整个社会的不稳定因素。",
+      "py": "zhè zhǒng qíng kuàng xià, ruò jī qì rén zài tūn diào jìn jù lí pèi sòng dìng dān, shōu rù xià huá jiù bù zhǐ shì qí shǒu gè rén de shēng jì wèn tí, hái kě néng yǎn biàn chéng zhěng gè shè huì de bù wěn dìng yīn sù."
+    },
+    {
+      "ko": "혁신의 이익은 로봇 기업과 플랫폼에 집중되는 반면, 위험과 손실은 이미 취약한 배달 노동자에게 전가되는 구조라면, 이는 효율이 아니라 불공정이다.",
+      "zh": "倘若创新的收益都流向机器人企业和平台，风险和损失却压给本就弱势的配送劳动者，这就不是效率，而是不公正。",
+      "py": "tǎng ruò chuàng xīn de shōu yì dōu liú xiàng jī qì rén qǐ yè hé píng tái, fēng xiǎn hé sǔn shī què yā gěi běn jiù ruò shì de pèi sòng láo dòng zhě, zhè jiù bù shì xiào lǜ, ér shì bù gōng zhèng."
+    },
+    {
+      "ko": "한국도 인증 기준을 완화하기에 앞서 사고 발생 시 책임 소재, 라이더 전환 지원, 보행 약자 보호구역 지정 같은 제도부터 갖춰야 한다.",
+      "zh": "韩国与其急着放宽认证标准，不如先把事故责任认定、骑手转岗支持、弱势行人保护区划设这些制度建立起来。",
+      "py": "hán guó yǔ qí jí zhe fàng kuān rèn zhèng biāo zhǔn, bù rú xiān bǎ shì gù zé rèn rèn dìng, qí shǒu zhuǎn gǎng zhī chí, ruò shì xíng rén bǎo hù qū huà shè zhè xiē zhì dù jiàn lì qǐ lái."
+    },
+    {
+      "ko": "베이징시는 자율주행 배송로봇을 곧바로 일반 인도에 풀어놓는 대신, 별도의 통행 구역과 시험 노선을 지정해 데이터를 축적하는 방식을 택하고 있다.",
+      "zh": "北京市并没有把自动驾驶配送车直接放开到普通人行道上，而是划定专门的通行区域和试验路线，先积累数据再逐步推开。",
+      "py": "běi jīng shì bìng méi yǒu bǎ zì dòng jià shǐ pèi sòng chē zhí jiē fàng kāi dào pǔ tōng rén xíng dào shàng, ér shì huà dìng zhuān mén de tōng xíng qū yù hé shì yàn lù xiàn, xiān jī lèi shù jù zài zhú bù tuī kāi."
+    },
+    {
+      "ko": "한국도 성수동이나 송도처럼 이미 로봇이 다니는 지역부터 사고 통계와 보행자 불편 사례를 투명하게 공개하고, 그 결과를 보고 통행 범위를 조정해야 한다.",
+      "zh": "韩国也该从圣水洞、松岛这些机器人已经在跑的地区做起，把事故统计和行人通行受扰事例公开透明，再据此调整通行范围。",
+      "py": "hán guó yě gāi cóng shèng shuǐ dòng, sōng dǎo zhè xiē jī qì rén yǐ jīng zài pǎo de dì qū zuò qǐ, bǎ shì gù tǒng jì hé xíng rén tōng xíng shòu rǎo shì lì gōng kāi tòu míng, zài jù cǐ diào zhěng tōng xíng fàn wéi."
+    },
+    {
+      "ko": "거리는 산업의 실험장이기 이전에 시민의 생활 공간이다.",
+      "zh": "街道首先是市民的生活空间，其次才是产业的试验场。",
+      "py": "jiē dào shǒu xiān shì shì mín de shēng huó kōng jiān, qí cì cái shì chǎn yè de shì yàn chǎng."
+    },
+    {
+      "ko": "편리함을 이유로 그 공간의 주인이 바뀌는 속도를 산업의 속도에 맞출 것이 아니라, 가장 느리게 걷는 사람의 속도에 맞춰야 한다.",
+      "zh": "以便利之名让这片空间的主人悄然易主，速度不该跟着产业走，而该迁就走得最慢的那个人。",
+      "py": "yǐ biàn lì zhī míng ràng zhè piàn kōng jiān de zhǔ rén qiāo rán yì zhǔ, sù dù bù gāi gēn zhe chǎn yè zǒu, ér gāi qiān jiù zǒu dé zuì màn de nà gè rén."
+    },
+    {
+      "ko": "신중함은 규제가 아니라 최소한의 예의다.",
+      "zh": "审慎不是管制，是最起码的礼貌。",
+      "py": "shěn shèn bù shì guǎn zhì, shì zuì qǐ mǎ de lǐ mào."
+    }
+  ]
+}

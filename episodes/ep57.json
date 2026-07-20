@@ -1,0 +1,113 @@
+{
+  "num": "EP.57",
+  "tag": "칼럼",
+  "titleKo": "[찬성] 배달로봇의 인도 통행, 두려워할 이유 없다",
+  "titleZh": "[支持] 无人配送车上路，不必因噎废食",
+  "sentences": [
+    {
+      "ko": "서울 성수동 거리를 굴러다니는 자율주행 배달로봇 '뉴비'를 이제는 낯설게 보는 사람이 드물다.",
+      "zh": "首尔圣水洞街头，自动驾驶配送机器人“纽比”穿行已不再稀奇。",
+      "py": "shǒu ěr shèng shuǐ dòng jiē tóu, zì dòng jià shǐ pèi sòng jī qì rén \"niǔ bǐ\" chuān xíng yǐ bù zài xī qí."
+    },
+    {
+      "ko": "뉴빌리티는 요기요와 손잡고 인천 송도, 서울 역삼에 이어 성수까지 서비스 지역을 넓혔고, 2년 안에 로봇 2000대를 추가로 투입할 계획이다.",
+      "zh": "Neubility公司与外卖平台Yogiyo合作，继仁川松岛、首尔驿三洞之后，又把服务范围扩大到圣水洞，并计划两年内再投放2000台机器人。",
+      "py": "Neubility gōng sī yǔ wài mài píng tái Yogiyo hé zuò, jì rén chuān sōng dǎo, shǒu ěr yì sān dòng zhī hòu, yòu bǎ fú wù fàn wéi kuò dà dào shèng shuǐ dòng, bìng jì huà liǎng nián nèi zài tóu fàng 2000 tái jī qì rén."
+    },
+    {
+      "ko": "그런데 이 익숙한 풍경을 두고 최근 해외에서는 반발이 거세다.",
+      "zh": "可就是这幅寻常街景，最近在海外却招致强烈反弹。",
+      "py": "kě jiù shì zhè fú xún cháng jiē jǐng, zuì jìn zài hǎi wài què zhāo zhì qiáng liè fǎn dàn."
+    },
+    {
+      "ko": "영국 BBC 보도에 따르면 미국 시카고에서는 배달로봇 운행 중단을 요구하는 청원에 4400명이 서명했고, 토론토는 아예 인도 통행을 금지했다.",
+      "zh": "据英国广播公司（BBC）报道，美国芝加哥一份要求叫停配送机器人运营的请愿书已征集到4400人签名，多伦多更是直接禁止机器人上人行道。",
+      "py": "jù yīng guó guǎng bō gōng sī( BBC) bào dào, měi guó zhī jiā gē yī fèn yào qiú jiào tíng pèi sòng jī qì rén yùn yíng de qǐng yuàn shū yǐ zhēng jí dào 4400 rén qiān míng, duō lún duō gèng shì zhí jiē jìn zhǐ jī qì rén shàng rén xíng dào."
+    },
+    {
+      "ko": "하지만 이런 우려 때문에 배달로봇의 인도 통행을 되돌리려는 시도는 신중해야 한다.",
+      "zh": "但仅凭这些担忧就想让配送机器人退出人行道，未免失之草率。",
+      "py": "dàn jǐn píng zhè xiē dān yōu jiù xiǎng ràng pèi sòng jī qì rén tuì chū rén xíng dào, wèi miǎn shī zhī cǎo lǜ."
+    },
+    {
+      "ko": "한국은 이미 세계적으로 앞선 제도적 틀을 갖추고 있다.",
+      "zh": "首先，韩国已经具备走在世界前列的制度框架。",
+      "py": "shǒu xiān, hán guó yǐ jīng jù bèi zǒu zài shì jiè qián liè de zhì dù kuāng jià."
+    },
+    {
+      "ko": "2023년 개정된 지능형 로봇법과 도로교통법에 따라 운행안전인증을 받은 실외이동로봇은 법적으로 '보행자' 지위를 얻어 인도와 횡단보도를 다닐 수 있다.",
+      "zh": "根据2023年修订的《智能机器人开发及普及促进法》和《道路交通法》，通过运行安全认证的室外移动机器人依法获得“行人”身份，可在人行道和人行横道通行。",
+      "py": "gēn jù 2023 nián xiū dìng de《 zhì néng jī qì rén kāi fā jí pǔ jí cù jìn fǎ》 hé《 dào lù jiāo tōng fǎ》, tōng guò yùn xíng ān quán rèn zhèng de shì wài yí dòng jī qì rén yī fǎ huò dé \"xíng rén\" shēn fèn, kě zài rén xíng dào hé rén xíng héng dào tōng xíng."
+    },
+    {
+      "ko": "무게 500㎏, 속도 15㎞ 이하로 제한되고 보험 가입도 의무화돼 있다.",
+      "zh": "同时被限定在500公斤以下、时速15公里以下，并须投保。",
+      "py": "tóng shí bèi xiàn dìng zài 500 gōng jīn yǐ xià, shí sù 15 gōng lǐ yǐ xià, bìng xū tóu bǎo."
+    },
+    {
+      "ko": "안전장치를 이미 마련해 둔 상태에서 막연한 불안감만으로 산업의 발목을 잡는 것은 앞뒤가 바뀐 대응이다.",
+      "zh": "安全阀门早已装好，若仅凭模糊的不安情绪就给产业踩刹车，未免本末倒置。",
+      "py": "ān quán fá mén zǎo yǐ zhuāng hǎo, ruò jǐn píng mó hú de bù ān qíng xù jiù gěi chǎn yè cǎi shā chē, wèi miǎn běn mò dào zhì."
+    },
+    {
+      "ko": "산업 경쟁력 측면에서도 시간이 많지 않다.",
+      "zh": "从产业竞争力看，留给韩国的时间也不多了。",
+      "py": "cóng chǎn yè jìng zhēng lì kàn, liú gěi hán guó de shí jiān yě bù duō le."
+    },
+    {
+      "ko": "한국은 2009년 지능형로봇 기본계획을 세워 중국의 '제조 2025'보다 6년이나 앞서 로봇 산업을 준비했다.",
+      "zh": "韩国早在2009年就制定“智能机器人基本计划”，比中国的“制造2025”整整早了六年布局机器人产业。",
+      "py": "hán guó zǎo zài 2009 nián jiù zhì dìng \"zhì néng jī qì rén jī běn jì huà\", bǐ zhōng guó de \"zhì zào 2025\" zhěng zhěng zǎo le liù nián bù jú jī qì rén chǎn yè."
+    },
+    {
+      "ko": "그런데도 실외이동로봇이 실제로 인도를 다니기까지 4년이 더 걸렸고, 그사이 세계 상업용 서비스 로봇 시장은 중국 업체가 84.7%를 장악했다.",
+      "zh": "然而室外移动机器人真正获准上人行道，又多等了四年，这段时间里，全球商用服务机器人市场已被中国企业拿下84.7%的份额。",
+      "py": "rán ér shì wài yí dòng jī qì rén zhēn zhèng huò zhǔn shàng rén xíng dào, yòu duō děng le sì nián, zhè duàn shí jiān lǐ, quán qiú shāng yòng fú wù jī qì rén shì chǎng yǐ bèi zhōng guó qǐ yè ná xià 84.7 % de fèn é."
+    },
+    {
+      "ko": "중국은 2026년부터 시행되는 15차 5개년 계획에서 2030년까지 세계 로봇 산업의 40%를 차지하겠다는 목표까지 내걸었다.",
+      "zh": "中国在2026年起施行的“十五五”规划中，更提出到2030年占据全球机器人产业40%份额的目标。",
+      "py": "zhōng guó zài 2026 nián qǐ shī xíng de \"shí wǔ wǔ\" guī huà zhōng, gèng tí chū dào 2030 nián zhàn jù quán qiú jī qì rén chǎn yè 40 % fèn é de mù biāo."
+    },
+    {
+      "ko": "규제로 실증 기회 자체를 줄이면, 정작 막는 것은 사고가 아니라 기술 발전이라는 역설적 결과를 맞을 수 있다.",
+      "zh": "若监管一味压缩实证空间，到头来挡住的不是事故，而是技术本身的进步。",
+      "py": "ruò jiān guǎn yī wèi yā suō shí zhèng kōng jiān, dào tóu lái dǎng zhù de bù shì shì gù, ér shì jì shù běn shēn de jìn bù."
+    },
+    {
+      "ko": "보행권 침해나 일자리 감소를 걱정하는 목소리를 가볍게 볼 수는 없다.",
+      "zh": "当然，侵犯行人通行权益、挤压就业岗位的担忧不能一笔带过。",
+      "py": "dāng rán, qīn fàn xíng rén tōng xíng quán yì, jǐ yā jiù yè gǎng wèi de dān yōu bù néng yī bǐ dài guò."
+    },
+    {
+      "ko": "그러나 이 문제는 로봇의 인도 통행 자체를 막기보다 세분된 규칙으로 풀어야 한다.",
+      "zh": "但解决办法不是干脆禁止机器人上人行道，而应靠更精细的规则。",
+      "py": "dàn jiě jué bàn fǎ bù shì gàn cuì jìn zhǐ jī qì rén shàng rén xíng dào, ér yīng kào gèng jīng xì de guī zé."
+    },
+    {
+      "ko": "혼잡 시간대와 구간에서는 속도를 낮추거나 우회 경로를 지정하고, 사고가 났을 때 책임 소재를 분명히 하는 방식이다.",
+      "zh": "比如在拥堵时段和路段限速或指定绕行路线，一旦出事故就明确追责主体。",
+      "py": "bǐ rú zài yōng dǔ shí duàn hé lù duàn xiàn sù huò zhǐ dìng rào xíng lù xiàn, yī dàn chū shì gù jiù míng què zhuī zé zhǔ tǐ."
+    },
+    {
+      "ko": "샌프란시스코는 전면 금지 대신 혼잡도가 낮은 구역에서만 로봇 운행을 허용하는 절충안을 택했다.",
+      "zh": "旧金山就没有一刀切禁止，而是选择只在人流较少的区域放行机器人这一折中方案。",
+      "py": "jiù jīn shān jiù méi yǒu yī dāo qiè jìn zhǐ, ér shì xuǎn zé zhǐ zài rén liú jiào shǎo de qū yù fàng xíng jī qì rén zhè yī zhé zhōng fāng àn."
+    },
+    {
+      "ko": "배달로봇은 교통량과 탄소 배출을 줄이고, 폭염이나 혹한 속에서 배달 노동자가 감수해야 했던 위험을 일부 덜어주는 효과도 있다.",
+      "zh": "配送机器人还能减少交通量和碳排放，替骑手分担一部分酷暑严寒中的奔波风险。",
+      "py": "pèi sòng jī qì rén hái néng jiǎn shǎo jiāo tōng liàng hé tàn pái fàng, tì qí shǒu fēn dān yī bù fēn kù shǔ yán hán zhōng de bēn bō fēng xiǎn."
+    },
+    {
+      "ko": "로봇이 맡을 수 있는 단순·반복 배송을 넘겨주고, 사람은 복잡한 응대나 고가 상품 배송처럼 신뢰와 판단이 필요한 영역에 집중하도록 산업 구조를 재편하는 편이 현실적이다.",
+      "zh": "倒不如把简单重复的配送交给机器人，让人去做需要信任和判断的复条应对与高价商品配送，借机重塑产业结构，这才更现实。",
+      "py": "dào bù rú bǎ jiǎn dān zhòng fù de pèi sòng jiāo gěi jī qì rén, ràng rén qù zuò xū yào xìn rèn hé pàn duàn de fù tiáo yīng duì yǔ gāo jià shāng pǐn pèi sòng, jiè jī zhòng sù chǎn yè jié gòu, zhè cái gèng xiàn shí."
+    },
+    {
+      "ko": "이 논쟁에 필요한 건 두려움이 아니라 데이터와 제도다.",
+      "zh": "这场争论需要的不是恐惧，而是数据与制度。",
+      "py": "zhè chǎng zhēng lùn xū yào de bù shì kǒng jù, ér shì shù jù yǔ zhì dù."
+    }
+  ]
+}
